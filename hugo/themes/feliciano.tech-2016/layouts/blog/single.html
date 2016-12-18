@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main id="main">
+	<article class="post">
+		<h1 class="entry-title">{{ .Title }}</h1>
+		<div class="entry-content">
+			{{ .Content }}
+		</div> <!-- .entry-content -->
+	</article>
+	{{ if (getenv "HUGO_ENV") eq "production" }}
+		{{ template "_internal/disqus.html" . }}
+	{{ end }}
+</main>
+{{ end }}

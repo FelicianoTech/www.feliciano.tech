@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic|Parisienne" rel="stylesheet" type="text/css">
+	{{ partial "stylesheets" . }}
+	{{ partial "head-js" . }}
+	{{ partial "head-verifications" . }}
+	{{ if (getenv "HUGO_ENV") eq "production" }}
+		{{ template "_internal/google_analytics.html" . }}
+	{{ end }}
+</head>
+<body class="{{ if .IsHome }}home{{ end }}">
+	{{ partial "header" . }}
+{{ block "main" . }}
+{{ end }}
+{{ partial "footer" . }}
+</body>
+</html>
