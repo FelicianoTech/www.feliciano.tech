@@ -1,0 +1,1076 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Header
+# Widgets
+# Content
+    ## Posts and pages
+	## Asides
+	## Comments
+# Footer
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+/**********************************************************
+***** Sitewide *****
+**********************************************************/
+.button {
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 2px; 
+    padding: 0.5em 20px;
+    text-decoration: none;
+}
+
+.button-black, .button-black:active, .button-black:visited {
+    background: linear-gradient( #45484d, #111111);
+    color: #FFFFFF;
+}
+    .button-black:hover {
+        background: #111111;
+        color: #FFFFFF;
+    }    
+
+header a, footer a {
+    text-decoration: none;
+    transition: color 2s;
+}
+    header a:hover, footer a:hover {
+        color: #FF0000;
+        text-decoration: underline;
+    }
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+body {
+	font-family: "Noto Sans", sans-serif;
+}
+
+figcaption {
+	color: #777777;
+	text-align: center;
+	font-style: italic;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+	color: #333333;
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+p {
+	margin-bottom: 1.5em;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0 1.5em;
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+html {
+	box-sizing: border-box;
+}
+
+body {
+	background: #fff; /* Fallback for when there is no custom background color defined. */
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+}
+
+blockquote,
+q {
+	quotes: "" "";
+}
+
+hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+	margin: 0 0 1.5em 3em;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 1.5em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 1.5em 1.5em;
+}
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+
+table {
+	margin: 0 0 1.5em;
+	width: 100%;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 1px solid;
+	border-color: #ccc #ccc #bbb;
+	border-radius: 3px;
+	background: #e6e6e6;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
+	color: rgba(0, 0, 0, .8);
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1;
+	padding: .6em 1em .4em;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	border-color: #ccc #bbb #aaa;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), inset 0 15px 17px rgba(255, 255, 255, 0.8), inset 0 -5px 12px rgba(0, 0, 0, 0.02);
+}
+
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+	border-color: #aaa #bbb #bbb;
+	box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.5), inset 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+textarea {
+	color: #666;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+	color: #111;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"] {
+	padding: 3px;
+}
+
+textarea {
+	padding-left: 3px;
+	width: 100%;
+}
+
+
+/*--------------------------------------------------------------
+## Menus
+--------------------------------------------------------------*/
+.main-navigation ul {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+}
+
+.main-navigation li {
+	float: left;
+	position: relative;
+}
+
+.main-navigation a {
+	display: block;
+	text-decoration: none;
+}
+
+.main-navigation ul ul {
+	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+	float: left;
+	position: absolute;
+	top: 1.5em;
+	left: -999em;
+	z-index: 99999;
+}
+
+.main-navigation ul ul ul {
+	left: -999em;
+	top: 0;
+}
+
+.main-navigation ul ul a {
+	width: 200px;
+}
+
+.main-navigation ul li:hover > ul,
+.main-navigation ul li.focus > ul {
+	left: auto;
+}
+
+.main-navigation ul ul li:hover > ul,
+.main-navigation ul ul li.focus > ul {
+	left: 100%;
+}
+
+.main-navigation .current_page_item > a,
+.main-navigation .current-menu-item > a,
+.main-navigation .current_page_ancestor > a {
+}
+
+.site-main .comment-navigation,
+.site-main .posts-navigation,
+.site-main .post-navigation {
+	margin: 0 0 1.5em;
+	overflow: hidden;
+}
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: left;
+	width: 50%;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: right;
+	text-align: right;
+	width: 50%;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+# Clearings
+--------------------------------------------------------------*/
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after,
+.site-content:before,
+.site-content:after,
+.site-footer:before,
+.site-footer:after {
+	content: "";
+	display: table;
+}
+
+.clear:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after,
+.site-content:after,
+.site-footer:after {
+	clear: both;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+.site-header {
+	padding: 20px 20px 0;
+	background: #1C1C1C url("img/statue-of-liberty.svg") 50% 110%/auto 80% no-repeat;
+	height: 85px;
+	color: #FFFFFF;
+	font-size: 1.1em;
+}
+	.site-branding {
+		float: left;
+		max-width: 45%;
+	}
+		.site-header a {
+			color: #FFFFFF;
+		}
+
+		.site-title {
+			float: left;
+			font-size: 1.2em;
+		}
+		
+		.profile-data {
+			float: left;
+			margin-left: 20px;
+		}
+			.profile-data a {
+				margin-left: 7px;
+			}
+				.profile-data a:first-child {
+					margin-left: 0;
+				}
+
+	#site-navigation {
+		float: right;
+		font-size: 0.9em;
+	}
+		#site-navigation li {
+			padding: 0 7px;
+		}
+			#site-navigation li.current-menu-item a,
+			#site-navigation li.current_page_parent a {
+				font-weight: bold;
+			}
+
+		#site-navigation .sub-menu {
+			background-color: #1C1C1C;
+		}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+.widget {
+	margin: 0 0 1.5em;
+}
+
+/* Make sure select elements fit in widgets. */
+.widget select {
+	max-width: 100%;
+}
+
+/* Search widget. */
+.widget_search .search-submit {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+.sticky {
+	display: block;
+}
+
+.hentry {
+	margin: 0 0 1.5em;
+}
+
+.byline,
+.updated:not(.published) {
+	display: none;
+}
+
+.single .byline,
+.group-blog .byline {
+	display: inline;
+}
+
+.page-content,
+.entry-summary {
+	margin: 1.5em 0 0;
+}
+
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+}
+
+article.post {
+	margin: 4em 5% 3em;
+	padding-top: 3em;
+	border-top: 1px dotted #DDDDDD;
+}
+	article.post:first-child {
+		margin-top: 2em;
+		border-top: none;
+	}
+
+	article.post header {
+		text-align: center;
+	}
+		article.post header a {
+			color: #000000;
+		}
+
+		article.post .entry-header .fa-edit {
+			margin-left: 20px;
+		}
+	
+		article.post .entry-title {
+			margin: 0;
+			font-size: 2.5em;
+		}
+		
+		article.post div.wp-post-image-wrapper {
+			position: relative;
+			/*margin-bottom: 1em;*/
+			margin: 20px 10% 1em;
+			padding-bottom: 40%;
+			height: 0;
+			overflow: hidden;
+		}
+			article.post img.wp-post-image {
+				position: absolute;
+				top: 0;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				margin: auto;
+				width: 100%;
+			}
+
+	article.post div.entry-content {
+		margin: 1em 10% 0;
+	}
+		article.post div.entry-content p:last-child {
+			margin-bottom: 0;
+		}
+
+		article.post .entry-content blockquote {
+			position: relative;
+			border-left: 3px solid #000000;
+			padding-left: 20px;
+			font-size: larger;
+			font-style: italic;
+		}
+			article.post .entry-content blockquote::first-letter {
+				font-size: 200%;
+			}
+
+		article.post div.entry-content .more-link {
+			color: #000000;
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+	article.post .entry-footer {
+		margin: 0 10%;
+	}
+		article.post .entry-footer a {
+			color: #000000;
+			font-weight: bold;
+		}
+
+		article.post .entry-footer .tag-list .fa {
+			margin-right: 1.1em;
+		}
+			article.post .entry-footer .tag-list .fa:before {
+				padding-right: 0.3em;
+			}
+
+		article.post .entry-footer a.comment {
+			float: right;
+		}
+
+div.page {
+	margin: 0em 14% 3em;
+	padding-top: 3em;
+
+}
+	div.page blockquote {
+		position: relative;
+		border-left: 3px solid #000000;
+		padding-left: 20px;
+		font-size: larger;
+		font-style: italic;
+	}    
+		div.page blockquote::first-letter {                        
+			font-size: 200%;
+		}
+
+		div.page blockquote.ignore {
+			position: static;
+			border: 0;
+			padding: inherit;
+			font-size: normal;
+			font-style: normal;
+		}
+
+#comments, #disqus_thread {
+	margin: 3em 14% 2em;
+}
+
+
+/*--------------------------------------------------------------
+## Asides
+--------------------------------------------------------------*/
+.blog .format-aside .entry-title,
+.archive .format-aside .entry-title {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comment-content a {
+	word-wrap: break-word;
+}
+
+.bypostauthor {
+	display: block;
+}
+
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+/* Globally hidden elements when Infinite Scroll is supported and in use. */
+.infinite-scroll .posts-navigation, /* Older / Newer Posts Navigation (always hidden) */
+.infinite-scroll.neverending .site-footer { /* Theme Footer (when set to scrolling) */
+	display: none;
+}
+
+/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */
+.infinity-end.neverending .site-footer {
+	display: block;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#site-footer {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 18px solid #000000;
+	background-color: #FFFFFF;
+	padding: 6px 10%;
+	text-align: center;
+	font-weight: bold;
+}
+	#site-footer .starbucks-cup {
+		height: 2.1em;
+		vertical-align: -10px;
+	}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 0 auto;
+}
+
+.wp-caption-text {
+	text-align: center;
+}
+
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+.gallery {
+	margin-bottom: 1.5em;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-caption {
+	display: block;
+}
+
+
+/**********************************************************
+***** Page Structure *****
+**********************************************************/
+body {
+	padding-bottom: 2.4em;
+}
+
+
+/**********************************************************
+***** Homepage *****
+**********************************************************/
+body.home {
+	height: 100%;
+	overflow: hidden;
+}
+
+body.home {
+	background: linear-gradient(to bottom, #1C1C1C, rgba(0,0,0,0.0))
+	top/100% 15em no-repeat, #999999 url('img/blog-background-small.jpg') right bottom/cover no-repeat;
+}
+	body.home header {
+		background: none;
+	}
+
+	body.home #homepage-title {
+		position: absolute;
+		top: 50%;
+		margin: -1em auto 0;
+		width: 100%;
+		text-align: center;
+		color: #FFFFFF;
+		font-family: Parisienne, cursive, serif;
+		font-size: 5em;
+		font-weight: 100;
+	}
+
+html,
+body{
+	min-height: 100%;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*--------------------------------------------------------------
+# Elements
+--------------------------------------------------------------*/
+ol,
+ul{
+	margin: 0 0 1.5rem 3rem;
+}
+
+/*****   Layout   *****/
+html{
+	box-sizing: border-box;
+}
+	*, *:before, *:after{
+		box-sizing: inherit;
+	}
+
+body{
+	padding-bottom: 2.4rem;
+}
+
+body > header{
+	background: #1C1C1C url("/assets/img/statue-of-liberty.svg") 50% 110%/auto 80% no-repeat;
+	padding: 0 20px;
+	height: 85px;
+	color: #FFFFFF;
+}
+	body > header h1{
+		float: left;
+		margin: 0 20px 0 0;
+	}
+
+	body > header i.fa{
+		margin: 0 2px;
+		padding: 0 1px;
+	}
+
+	body > header nav{
+		float: right;
+	}
+		body > header ul{
+			margin: 0;
+			padding-left: 0;
+			list-style: none;
+		}
+			body > header li{
+				float: left;
+				padding: 0 7px;
+			}
+
+#page{
+	margin: 0em 14% 3em;
+	padding-top: 3em;
+}
+	#page blockquote {
+		position: relative;
+		border-left: 3px solid #000000;
+		padding-left: 20px;
+		font-size: larger;
+		font-style: italic;
+	}    
+		#page blockquote::first-letter {                        
+			font-size: 200%;
+		}
+
+		#page blockquote.ignore {
+			position: static;
+			border: 0;
+			padding: inherit;
+			font-size: normal;
+			font-style: normal;
+		}
+
+#comments, #disqus_thread {
+	margin: 3em 14% 2em;
+}
+/*****   End   *****/
+
+
+
+/*****   Typography   *****/
+
+body > header{
+	font-size: 1.1rem;
+	line-height: 85px;
+}
+	body > header h1{
+		font-size: 1.32rem;
+	}
+
+	body > header a{
+		text-decoration: none;
+	}
+		body > header a:hover{
+			text-decoration: underline;
+		}
+	
+	body > header li{
+		font-size: 1.0rem;
+	}
+		body > header li a.active{
+			font-weight: bold;
+		}
+
+footer a{
+	text-decoration: none;
+}
+	footer a:hover{
+		text-decoration: underline;
+	}
+/*****   End   *****/
+
+
+
+
+/*****   Colors   *****/
+body > header a{
+	color: #FFFFFF;
+	transition: color 2s;
+}
+	body > header a:hover{
+		color: #FF0000;
+	}
+
+footer a{
+	transition: color 2s;
+}
+	footer a:hover{
+		color: #FF0000;
+	}
+/*****   End   *****/
+
+
+
+/**********************************************************
+***** Typography *****
+**********************************************************/
+html{
+	font-size: 100%;
+}
+
+body{
+	font-family: "Noto Sans", sans-serif;
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+
+
+/**********************************************************
+***** Elements *****
+**********************************************************/
+img{
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+
+p {
+	margin-bottom: 1.5rem;
+}
+
+.button {
+	display: inline-block;
+	border: 1px solid;
+	border-radius: 10px;
+	margin: 2px; 
+	padding: 0.5em 20px;
+	text-decoration: none;
+}
+
+.button-black, .button-black:active, .button-black:visited {
+	background: linear-gradient( #45484d, #111111);
+	color: #FFFFFF;
+}
+	.button-black:hover {
+		background: #111111;
+		color: #FFFFFF;
+	}
+
+div.pager{
+	margin: 5px 5% 60px;
+	border-top: 1px dotted #DDDDDD;
+	padding: 5px;
+	height: 60px;
+}
+	div.pager a{
+		color: #000000;
+		text-decoration: none;
+		font-weight: bold;
+	}
+		div.pager a:hover{
+			text-decoration: underline;
+		}
+
+		div.pager a.newer{
+			float: left;
+		}
+
+		div.pager a.older{
+			float: right;
+		}
+
+
+
+/**********************************************************
+***** Homepage *****
+**********************************************************/
+body.home {
+	background: linear-gradient(to bottom, #1C1C1C, rgba(0,0,0,0.0))
+	top/100% 15em no-repeat, #999999 url("/assets/img/blog-background-small.jpg") right bottom/cover no-repeat;
+	overflow: hidden;
+}
+	body.home > header {
+		background: none;
+	}
+
+	body.home #site-footer{
+		display: none;
+	}

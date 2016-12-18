@@ -1,0 +1,66 @@
+/*
+Rules without a media query present take affect when the webpage is 1,000px% or
+less.
+*/
+
+/***********************************************************
+***** Page Structure (<= 1000px width) *****
+***********************************************************/
+div.page {
+	margin: 0em 5% 3em;
+}
+
+
+/***********************************************************
+***** Page Structure (<= 800px width) *****
+***********************************************************/
+@media (max-width: 800px){
+	
+	body.home .site-branding {
+		max-width: calc(100% - 50px);
+	}
+
+	article.post {
+		padding-top: 1em;
+	}
+		article.post div.entry-content {
+			margin: 1em 0 0;
+		}
+			.entry-content > :not(figure) img, .entry-content figure {
+				display: block;
+				float: none;
+				margin-left: auto;
+				margin-right: auto;
+			}
+}
+
+
+/***********************************************************
+***** Page Structure (<= 600px width) *****
+***********************************************************/
+@media (max-width: 600px){
+}
+
+
+
+
+/***********************************************************
+***** Typography (<= 800px width) *****
+***********************************************************/
+@media (max-width: 800px){
+	
+	body.home #homepage-title {
+		font-size: 4em;
+	}
+}
+
+
+/***********************************************************
+***** Typography (<= 500px width) *****
+***********************************************************/
+@media (max-width: 500px){
+        
+    body.home #homepage-title {
+        font-size: 2.5em;
+    }   
+}

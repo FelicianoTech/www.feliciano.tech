@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="list-page">
+{{ range (.Paginate ( .Data.Pages.ByDate.Reverse)).Pages }}
+<article id="{{ .UniqueID }}" class="post">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+		<div class="entry-meta">
+			<span class="posted-on">Posted on <time class="entry-date published updated" datetime="{{ .Date }}">{{ dateFormat "January 2, 2006"  .Date }}</time></span>
+		</div>
+	</header><!-- .entry-header -->
+	<div class="entry-content">
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a class="more-link" href="{{ .RelPermalink }}">continue reading →</a>
+		{{ end }}
+	</div><!-- .entry-content -->
+	<footer class="entry-footer">
+		<a class="comment" href="{{ .Permalink}}#disqus_thead">Leave a comment</a>
+	</footer><!-- .entry-footer -->
+</article>
+{{ end }}
+{{ partial "pager" . }}
+</div> <!-- .list-page -->
+{{ end }}

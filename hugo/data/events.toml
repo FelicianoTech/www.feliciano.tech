@@ -1,0 +1,55 @@
+[[events]]
+type       = "meetup"
+name       = "CI/CD For Documentation — Meetup Reboot"
+start_date = 2016-12-02T00:00:00Z
+end_date   = 2016-12-02T00:00:00Z
+location   = "New York, NY"
+link       = "https://www.meetup.com/WriteTheDocsNYC/events/235610319/"
+
+[[events]]
+type       = "meetup"
+name       = "Charting the English Language, in Pure Clojure"
+start_date = 2016-11-16T00:00:00Z
+end_date   = 2016-11-16T00:00:00Z
+location   = "Philadelphia, PA"
+link       = "https://www.meetup.com/Clojadelphia/events/235472275/"
+
+[[events]]
+type       = "meetup"
+name       = "The Changing Face of DevOps"
+start_date = 2016-11-15T00:00:00Z
+end_date   = 2016-11-15T00:00:00Z
+location   = "New York, NY"
+link       = "https://www.eventbrite.com/e/the-changing-face-of-devops-breakfast-roundtable-tickets-28895715864"
+
+[[events]]
+type       = "meetup"
+name       = "Unikernels – What Are They Good For?"
+start_date = 2016-06-15T00:00:00Z
+end_date   = 2016-06-15T00:00:00Z
+location   = "New York, NY"
+link       = "http://www.meetup.com/nylug-meetings/events/231555330/"
+
+[[events]]
+type       = "meetup"
+name       = "Kubernetes: Ubernetes and Redspread"
+start_date = 2016-05-26T00:00:00Z
+end_date   = 2016-05-26T00:00:00Z
+location   = "Santa Clara, CA"
+link       = "http://www.meetup.com/Bay-Area-Kubernetes-Meetup/events/230485265/"
+
+[[events]]
+type       = "meetup"
+name       = "CircleCI May Office Hours"
+start_date = 2016-05-25T00:00:00Z
+end_date   = 2016-05-25T00:00:00Z
+location   = "San Francisco, CA"
+link       = "http://www.meetup.com/CircleCI-Office-Hours/events/230640658/"
+
+[[events]]
+type       = "conference"
+name       = "Write the Docs North America"
+start_date = 2016-05-22T00:00:00Z
+end_date   = 2016-05-24T00:00:00Z
+location   = "Portland, OR"
+link       = "http://www.writethedocs.org/conf/na/2016/"

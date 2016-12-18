@@ -1,0 +1,19 @@
+baseurl = "http://new.Feliciano.tech/"
+title = "Feliciano.Tech"
+languageCode = "en-us"
+theme = "feliciano.tech-2016"
+
+googleAnalytics = "UA-66191620-1"
+disqusShortname = "felicianotechcom"
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+	name	= "Home"
+	url		= "/"
+	weight	= -10
+
+[[menu.main]]
+	name	= "Contact"
+	url		= "https://docs.google.com/forms/d/e/1FAIpQLSejIUSnOYaaca2WTXQYDqae54IdnCWg1c-PMXaSgPY6mN94Cw/viewform"
+	weight	= 3
