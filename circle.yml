@@ -1,0 +1,16 @@
+dependencies:
+  pre:
+    - scripts/install-hugo.sh
+  cache_directories:
+    - ~/bin
+
+test:
+  override:
+    - hugo -v -s hugo
+    - ls -lah hugo/public
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - rsync -va --delete hugo/public/ staticweb@web01.revidian.net:www/feliciano.tech/public_html
