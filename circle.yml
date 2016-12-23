@@ -1,3 +1,7 @@
+machine:
+  environment:
+    HUGO_VERSION: 0.18
+
 dependencies:
   pre:
     - scripts/install-hugo.sh
