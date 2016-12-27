@@ -10,7 +10,7 @@ dependencies:
 
 test:
   override:
-    - hugo -v -s hugo
+    - HUGO_ENV=production hugo -v -s hugo
     - ls -lah hugo/public
 
 deployment:
