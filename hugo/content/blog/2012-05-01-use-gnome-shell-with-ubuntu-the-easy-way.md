@@ -33,5 +33,5 @@ Download it, Try it out:
 
 or download via their site: <a title="Ubuntu GNOME Shell Remix" href="http://ubuntu-gs-remix.sourceforge.net/p/download/" target="_blank">http://ubuntu-gs-remix.sourceforge.net/p/download/</a>
 
- [1]: https://i0.wp.com/felicianotech.com/wp-content/uploads/2012/05/precise-is-here1.jpg?ssl=1
- [2]: http://ironpatriotny.com/2012/04/lets-keep-the-internet-pipes-flowing-grab-ubuntu-12-04-via-the-official-torrent/ "Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 12.04 via the Official Torrent"
+ [1]: {{ .Site.BaseURL }}assets/img/article/precise-is-here1.jpg
+ [2]: {{ .Site.BaseURL }}blog/lets-keep-the-internet-pipes-flowing-grab-ubuntu-12-04-via-the-official-torrent/ "Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 12.04 via the Official Torrent"

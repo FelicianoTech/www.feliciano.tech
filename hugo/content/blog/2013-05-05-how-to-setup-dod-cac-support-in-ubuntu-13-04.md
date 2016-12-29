@@ -30,7 +30,7 @@ First we need to install **pcscd** and **coolkey**. pcscd is the software that h
 
 &nbsp;<figure id="attachment_193" style="width: 1000px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-193" alt="Installing pcscd and coolkey in Terminal" src="https://i0.wp.com/felicianotech.com/wp-content/uploads/2013/05/dod-cac-setup-step1.png?resize=640%2C320&#038;ssl=1" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/05/dod-cac-setup-step1.png?w=1000&ssl=1 1000w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/05/dod-cac-setup-step1.png?resize=300%2C150&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Installing pcscd and coolkey in Terminal</figcaption></figure> 
+<img class="size-full wp-image-193" alt="Installing pcscd and coolkey in Terminal" src="/assets/img/article/dod-cac-setup-step1.png?resize=640%2C320&#038;ssl=1" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/05/dod-cac-setup-step1.png?w=1000&ssl=1 1000w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/05/dod-cac-setup-step1.png?resize=300%2C150&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Installing pcscd and coolkey in Terminal</figcaption></figure> 
 
 ## Step 2
 
