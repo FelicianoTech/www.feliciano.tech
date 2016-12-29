@@ -14,7 +14,7 @@ tags:
   - ubuntu-12.10
 
 ---
-[<img class="alignright size-medium wp-image-79" title="Ubuntu Quantal Logo" src="https://i0.wp.com/ironpatriotny.com/wp-content/uploads/2012/10/quantal-203x300.png?resize=203%2C300" alt="Ubuntu Quantal Logo" data-recalc-dims="1" />][1]Let&#8217;s help Canonical (as well as our selves) out by downloading Ubuntu 12.10 via BitTorrent.
+[<img class="alignright size-medium wp-image-79" title="Ubuntu Quantal Logo" src="/assets/img/article/quantal-203x300.png?resize=203%2C300" alt="Ubuntu Quantal Logo" data-recalc-dims="1" />][1]Let&#8217;s help Canonical (as well as our selves) out by downloading Ubuntu 12.10 via BitTorrent.
 
 Downloading Ubuntu via torrents makes it faster for us, and less of a strain on Canonical and their mirrors.
 

@@ -56,4 +56,4 @@ RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [L,R=301,NE]</pre>
     
     SSL is important and I&#8217;ve provided 10 tips (plus a bonus) on how to use it. Do you have your own tips to share?
 
- [1]: https://felicianotech.com/blog/always-on-ssl-what-it-is-and-why-you-should-implement-it/
+ [1]: {{ .Site.BaseURL }}blog/always-on-ssl-what-it-is-and-why-you-should-implement-it/

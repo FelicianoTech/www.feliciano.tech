@@ -15,7 +15,7 @@ tags:
   - WordPress
 
 ---
-When creating FelicianoTech.com, I decided to go HTTPS only. Nowadays there&#8217;s no reason not to, the cost is negligible (both in server resources & money). I started to build the site first in a virtual machine (VM) then on my actual server. Everything done over HTTP. Preparring to publish my site, I imported my old post, installed Jetpack, and set the WordPress & Site URLs to &#8216;https://&#8217;. I immediately broke everything.
+When creating Feliciano.Tech, I decided to go HTTPS only. Nowadays there&#8217;s no reason not to, the cost is negligible (both in server resources & money). I started to build the site first in a virtual machine (VM) then on my actual server. Everything done over HTTP. Preparring to publish my site, I imported my old post, installed Jetpack, and set the WordPress & Site URLs to &#8216;https://&#8217;. I immediately broke everything.
 
 The problems that I ran into were due to how my WordPress website was being run. In the spirit of high-availability my server architecture is three web-backends behind a load-balancer (LB). With this setup, I am terminating SSL on the LB itself. This means public traffic comes in to the LB on port 443, gets decrypted, then gets forwarded to one of my backends on port 80 via the private network. This confused WordPress and caused several issues. You&#8217;ll run into these same issues if you terminate SSL on a proxy rather then with the web server WordPress is running. This can be a load-balancer or even CloudFlare. I&#8217;ll review how to fix them below.<!--more-->
 
@@ -23,7 +23,7 @@ The problems that I ran into were due to how my WordPress website was being run.
 
 ### Missing CSS and Images
 
-When I changed the &#8216;WordPress Address&#8217; and &#8216;Site Address&#8217; URLs to https://FelicianoTech.com, things immediately broke. Visiting the frontend of my website (the non-admin site) presented a page with text but absolutely no images, color, layout, etc. Basically, the CSS stylesheet and my images failed to load.
+When I changed the &#8216;WordPress Address&#8217; and &#8216;Site Address&#8217; URLs to https://Feliciano.Tech, things immediately broke. Visiting the frontend of my website (the non-admin site) presented a page with text but absolutely no images, color, layout, etc. Basically, the CSS stylesheet and my images failed to load.
 
 ### Redirect Loop
 
@@ -35,7 +35,7 @@ When trying to connect Jetpack to my WordPress.com account, I got the following 
 
 > site\_inaccessible Error Details: The Jetpack server was unable to communicate with your site [IXR -32300: transport error: http\_request_failed SSL certificate problem: unable to get local issuer certificate]
 
-Visiting https://FelicianoTech.com clearly showed that my website was indeed working via HTTPS. Hmm.
+Visiting https://Feliciano.Tech clearly showed that my website was indeed working via HTTPS. Hmm.
 
 ### Jetpack -> Publicize Errors
 
