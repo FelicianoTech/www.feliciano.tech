@@ -1,7 +1,6 @@
 ---
 title: Running WordPress Behind an SSL/HTTPS Terminating Proxy
 author: FelicianoTech
-layout: post
 date: 2015-08-21T13:00:43+00:00
 url: /blog/running-wordpress-behind-an-sslhttps-terminating-proxy/
 dsq_thread_id:

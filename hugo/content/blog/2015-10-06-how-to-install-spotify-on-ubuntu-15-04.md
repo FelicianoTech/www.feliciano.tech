@@ -1,7 +1,6 @@
 ---
 title: How to Install Spotify on Ubuntu 15.04/15.10
 author: FelicianoTech
-layout: post
 date: 2015-10-06T18:59:22+00:00
 url: /blog/how-to-install-spotify-on-ubuntu-15-04/
 dsq_thread_id:

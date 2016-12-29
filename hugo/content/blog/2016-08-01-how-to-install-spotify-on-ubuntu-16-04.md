@@ -1,7 +1,6 @@
 ---
 title: How to Install Spotify on Ubuntu 16.04
 author: FelicianoTech
-layout: post
 date: 2016-08-01T14:57:22+00:00
 url: /blog/how-to-install-spotify-on-ubuntu-16-04/
 dsq_thread_id:

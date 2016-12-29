@@ -1,7 +1,6 @@
 ---
 title: Day in the Life of an API Developer Evangelist
 author: FelicianoTech
-layout: post
 date: 2016-02-25T01:15:45+00:00
 url: /blog/day-in-the-life-of-an-api-developer-evangelist/
 dsq_thread_id:
@@ -18,4 +17,4 @@ If for whatever reason you don&#8217;t read it, these are my two favorite parts 
 
 And this nice little table of what we typically do:<figure id="attachment_1354" style="width: 600px" class="wp-caption aligncenter">
 
-<a href="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?ssl=1" rel="attachment wp-att-1354"><img class="size-medium wp-image-1354" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=600%2C225&#038;ssl=1" alt="Table containing typical developer evangelist task." srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=600%2C225&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=768%2C288&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?w=1170&ssl=1 1170w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Frequent task of an (API) Developer Evangelist</figcaption></figure>
+<figure><a href="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?ssl=1" rel="attachment wp-att-1354"><img class="size-medium wp-image-1354" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=600%2C225&#038;ssl=1" alt="Table containing typical developer evangelist task." srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=600%2C225&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?resize=768%2C288&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/02/http___nordicapis.com_day-in-the-li.png?w=1170&ssl=1 1170w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Frequent task of an (API) Developer Evangelist</figcaption></figure>

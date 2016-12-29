@@ -1,7 +1,6 @@
 ---
 title: My “New” Blog
 author: FelicianoTech
-layout: post
 date: 2013-04-02T07:01:46+00:00
 url: /blog/my-new-blog/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: How To Create a Unity Launcher Icon for Each Chromium Profile in Ubuntu 14.04
 author: FelicianoTech
-layout: post
 date: 2014-08-08T00:38:00+00:00
 url: /blog/how-to-create-a-unity-launcher-icon-for-each-chromium-profile-in-ubuntu-14-04/
 dsq_thread_id:

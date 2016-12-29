@@ -1,7 +1,6 @@
 ---
 title: My New (Moved) Blog – FelicianoTech.com
 author: FelicianoTech
-layout: post
 date: 2015-08-11T00:49:17+00:00
 url: /blog/my-new-moved-blog-felicianotech-com/
 dsq_thread_id:

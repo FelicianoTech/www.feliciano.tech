@@ -1,7 +1,6 @@
 ---
 title: Google Chrome Causing Apt-Get Update to Fail? Here’s the Fix
 author: FelicianoTech
-layout: post
 date: 2016-03-05T22:13:22+00:00
 url: /blog/google-chrome-causing-apt-get-update-fail-heres-fix/
 dsq_thread_id:

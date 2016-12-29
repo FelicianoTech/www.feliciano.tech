@@ -1,7 +1,6 @@
 ---
 title: Now a Member of the SonyRumors Staff
 author: FelicianoTech
-layout: post
 date: 2012-04-21T20:32:44+00:00
 url: /blog/now-a-member-of-the-sonyrumors-staff/
 dsq_thread_id:

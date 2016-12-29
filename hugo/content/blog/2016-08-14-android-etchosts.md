@@ -1,7 +1,6 @@
 ---
 title: Editing Android’s Hosts File
 author: FelicianoTech
-layout: post
 date: 2016-08-14T18:14:59+00:00
 url: /blog/android-etchosts/
 dsq_thread_id:
