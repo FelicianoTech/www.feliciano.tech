@@ -1,7 +1,6 @@
 ---
 title: GIMP 2.8 Finally Releases, Open-Source Designers Rejoice!
 author: FelicianoTech
-layout: post
 date: 2012-05-03T16:28:09+00:00
 url: /blog/gimp-2-8-finally-releases-open-source-designers-rejoice/
 dsq_thread_id:

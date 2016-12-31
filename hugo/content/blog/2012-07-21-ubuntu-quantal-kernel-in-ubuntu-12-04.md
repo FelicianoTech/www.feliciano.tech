@@ -1,7 +1,6 @@
 ---
 title: Ubuntu Quantal kernel in Ubuntu 12.04
 author: FelicianoTech
-layout: post
 date: 2012-07-21T20:04:36+00:00
 url: /blog/ubuntu-quantal-kernel-in-ubuntu-12-04/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: How to install Google Chrome in Ubuntu 13.04
 author: FelicianoTech
-layout: post
 date: 2013-04-27T06:12:25+00:00
 url: /blog/how-to-install-google-chrome-in-ubuntu-13-04/
 dsq_thread_id:

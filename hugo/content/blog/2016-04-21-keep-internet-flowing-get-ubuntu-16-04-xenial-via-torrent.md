@@ -1,7 +1,6 @@
 ---
 title: Keep the Internet Flowing, Get Ubuntu 16.04 “Xenial” via Torrent
 author: FelicianoTech
-layout: post
 date: 2016-04-21T13:45:39+00:00
 url: /blog/keep-internet-flowing-get-ubuntu-16-04-xenial-via-torrent/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Use GNOME Shell with Ubuntu, the Easy Way
 author: FelicianoTech
-layout: post
 date: 2012-05-01T17:23:26+00:00
 url: /blog/use-gnome-shell-with-ubuntu-the-easy-way/
 dsq_thread_id:
@@ -17,7 +16,7 @@ tags:
   - ubuntu-12.04
 
 ---
-[<img class="size-medium wp-image-39 alignright" title="Ubuntu 12.04 GNOME Shell Remix" src="https://i1.wp.com/ironpatriotny.com/wp-content/uploads/2012/05/precise-is-here-300x222.jpg?resize=300%2C222" alt="Ubuntu 12.04 GNOME Shell Remix Feature Graphic" data-recalc-dims="1" />][1]
+<img class="size-medium wp-image-39 alignright" title="Ubuntu 12.04 GNOME Shell Remix" src="https://i1.wp.com/ironpatriotny.com/wp-content/uploads/2012/05/precise-is-here-300x222.jpg?resize=300%2C222" alt="Ubuntu 12.04 GNOME Shell Remix Feature Graphic" data-recalc-dims="1" />
 
 For those Unity haters, alternative desktop options are sparse on a standard install of Ubuntu. If you don&#8217;t want Unity, you may choose Unity 2D. Yeah, not exactly an alternative is it.
 
@@ -31,7 +30,7 @@ Download it, Try it out:
 
 <a title="Download Ubuntu GNOME Shell Remix 32-bit" href="http://www.demonoid.ph/files/download/2920301/" target="_blank">32-bit ISO (torrent)</a>
 
-or download via their site: <a title="Ubuntu GNOME Shell Remix" href="http://ubuntu-gs-remix.sourceforge.net/p/download/" target="_blank">http://ubuntu-gs-remix.sourceforge.net/p/download/</a>
+or download via their site: <http://ubuntu-gs-remix.sourceforge.net/p/download/>.
 
- [1]: {{ .Site.BaseURL }}assets/img/article/precise-is-here1.jpg
- [2]: {{ .Site.BaseURL }}blog/lets-keep-the-internet-pipes-flowing-grab-ubuntu-12-04-via-the-official-torrent/ "Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 12.04 via the Official Torrent"
+[1]: /assets/img/article/precise-is-here1.jpg
+[2]: /blog/lets-keep-the-internet-pipes-flowing-grab-ubuntu-12-04-via-the-official-torrent/ "Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 12.04 via the Official Torrent"

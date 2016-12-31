@@ -1,7 +1,6 @@
 ---
 title: How to use jQuery 2.0 with Drupal 7
 author: FelicianoTech
-layout: post
 date: 2013-04-30T21:33:34+00:00
 url: /blog/how-to-use-jquery-2-0-with-drupal-7/
 dsq_thread_id:

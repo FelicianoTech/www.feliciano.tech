@@ -1,7 +1,6 @@
 ---
 title: Calling Community Leaders – Let’s Build Community Stack Together!
 author: FelicianoTech
-layout: post
 date: 2015-09-05T14:46:10+00:00
 url: /blog/calling-community-leaders-lets-build-community-stack-together/
 dsq_thread_id:

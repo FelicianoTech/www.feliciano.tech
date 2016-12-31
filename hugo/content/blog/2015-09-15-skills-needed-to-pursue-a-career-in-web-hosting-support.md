@@ -1,7 +1,6 @@
 ---
 title: Skills Needed to Pursue a Career in Web Hosting Support
 author: FelicianoTech
-layout: post
 date: 2015-09-15T14:41:50+00:00
 url: /blog/skills-needed-to-pursue-a-career-in-web-hosting-support/
 dsq_thread_id:

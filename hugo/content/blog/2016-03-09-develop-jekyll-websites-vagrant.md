@@ -1,7 +1,6 @@
 ---
 title: Develop Jekyll Websites with Vagrant
 author: FelicianoTech
-layout: post
 date: 2016-03-09T20:12:36+00:00
 url: /blog/develop-jekyll-websites-vagrant/
 dsq_thread_id:

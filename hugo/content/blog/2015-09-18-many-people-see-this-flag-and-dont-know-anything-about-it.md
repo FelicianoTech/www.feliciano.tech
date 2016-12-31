@@ -1,7 +1,6 @@
 ---
 title: Many People See This Flag and Don’t Know Anything About It
 author: FelicianoTech
-layout: post
 date: 2015-09-18T16:29:07+00:00
 url: /blog/many-people-see-this-flag-and-dont-know-anything-about-it/
 dsq_thread_id:
@@ -19,9 +18,9 @@ This is the U.S. Prisoner of War (POW)/Missing in Action flag. As explained on 
 
 > The POW/MIA flag is an American flag designed as a symbol of citizen concern about United States military personnel taken as prisoners of war (POWs) or listed as missing in action (MIA).
 
-<!--more--><figure id="attachment_651" style="width: 400px" class="wp-caption alignright">
+<!--more-->
 
-<img class="wp-image-651" src="/assets/img/article/military-flags-600x450.jpg?resize=400%2C300&#038;ssl=1" alt="U.S. military branch flags" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?w=1600&ssl=1 1600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">From left to right: U.S. Flag, U.S. Army flag, U.S. Marine Corps flag, U.S. Navy flag (hooyah), U.S. Air Force flag, U.S. Coast Guard flag</figcaption></figure> 
+<figure id="attachment_651" style="width: 400px" class="wp-caption alignright"><img class="wp-image-651" src="/assets/img/article/military-flags-600x450.jpg?resize=400%2C300&#038;ssl=1" alt="U.S. military branch flags" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?w=1600&ssl=1 1600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/military-flags.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">From left to right: U.S. Flag, U.S. Army flag, U.S. Marine Corps flag, U.S. Navy flag (hooyah), U.S. Air Force flag, U.S. Coast Guard flag</figcaption></figure> 
 
 In the Navy, whenever you visit a galley (where we eat) you&#8217;ll always see a beautifully set table, plates and all, left completely untouched. A small flag and a note tells that missing service member we&#8217;re still thinking of you. The Navy <a href="http://navylive.dodlive.mil/2015/09/17/by-the-numbers-the-navys-missing-in-action/" target="_blank">shared some numbers today</a> on POWs/MIAs.
 
@@ -30,5 +29,3 @@ If you&#8217;re wondering why you&#8217;ve been seeing this today, today is <a h
 So if you support the U.S. military branch flags, please don&#8217;t forget this one.
 
 <img class="aligncenter wp-image-691" src="/assets/img/article/pow-453x600.jpg?resize=300%2C397&#038;ssl=1" alt="pow" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/pow.jpg?resize=453%2C600&ssl=1 453w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/09/pow.jpg?w=616&ssl=1 616w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />
-
-&nbsp;

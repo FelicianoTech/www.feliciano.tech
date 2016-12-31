@@ -1,7 +1,6 @@
 ---
 title: Running Ubuntu Snappy Core on Linode
 author: FelicianoTech
-layout: post
 date: 2015-08-11T20:53:24+00:00
 url: /blog/running-ubuntu-snappy-core-on-linode/
 dsq_thread_id:

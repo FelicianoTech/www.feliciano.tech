@@ -1,7 +1,6 @@
 ---
 title: Google Branding – the Difference Between Nexus and Pixel
 author: FelicianoTech
-layout: post
 date: 2016-01-26T20:40:23+00:00
 url: /blog/google-branding-the-difference-between-nexus-and-pixel/
 dsq_thread_id:

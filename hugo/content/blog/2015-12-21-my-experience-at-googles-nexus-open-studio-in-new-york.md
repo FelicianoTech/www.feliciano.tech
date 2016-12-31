@@ -1,7 +1,6 @@
 ---
 title: My Experience at Google’s Nexus Open Studio in New York
 author: FelicianoTech
-layout: post
 date: 2015-12-21T21:00:33+00:00
 url: /blog/my-experience-at-googles-nexus-open-studio-in-new-york/
 dsq_thread_id:

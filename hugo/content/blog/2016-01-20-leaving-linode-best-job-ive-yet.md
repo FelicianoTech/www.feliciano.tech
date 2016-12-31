@@ -1,7 +1,6 @@
 ---
 title: Leaving Linode, the Best Job I’ve Had Yet
 author: FelicianoTech
-layout: post
 date: 2016-01-20T16:58:47+00:00
 url: /blog/leaving-linode-best-job-ive-yet/
 dsq_thread_id:
@@ -32,9 +31,9 @@ Working in Support, especially for a hosting company was truly great. I even wro
 
 ## Developer Evangelism
 
-While working in support, Linode sent me to a few events, including my first ever hackathon, [HackPrinceton][2]. I fell in love. Hanging out all weekend with a group of hackers from various backgrounds and levels of expertise to educate, instruct, demo, and debate various hacks, languages, frameworks, etc was exhilarating. I had to figure out a way to have Linode let me do that again. After some research, I pitched Linode the idea of opening up a developer evangelist position and slipped right into it.<figure id="attachment_1071" style="width: 600px" class="wp-caption alignright">
+While working in support, Linode sent me to a few events, including my first ever hackathon, [HackPrinceton][2]. I fell in love. Hanging out all weekend with a group of hackers from various backgrounds and levels of expertise to educate, instruct, demo, and debate various hacks, languages, frameworks, etc was exhilarating. I had to figure out a way to have Linode let me do that again. After some research, I pitched Linode the idea of opening up a developer evangelist position and slipped right into it.
 
-<a href="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?ssl=1" rel="attachment wp-att-1071"><img class="wp-image-1071 size-medium" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&#038;ssl=1" alt="Flying to the west coast." srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Flying out to the west coast.</figcaption></figure> 
+<figure id="attachment_1071" style="width: 600px" class="wp-caption alignright"><a href="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?ssl=1" rel="attachment wp-att-1071"><img class="wp-image-1071 size-medium" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&#038;ssl=1" alt="Flying to the west coast." srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Flying out to the west coast.</figcaption></figure> 
 
 2015 alone was amazing. I&#8217;ve spent most of my life in the northeast of the United States but I traveled A LOT this year. According to an email I received from Marriott, I visited 11 cities in 2015. That&#8217;s only counting the ones that I stayed with Marriott at. I flew out to the west coast 7 times totaling over 80 hours of air travel. I flew to several cities in the south and drove a bunch to towns local to New Jersey.
 
@@ -180,10 +179,10 @@ I&#8217;m confident that I will hit the ground running at my next endeavor with 
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1175'> Chris (CEO) took Linode to see Star Wars Episode VII. </figcaption></figure>
 </div>
 
- [1]: https://feliciano.tech/blog/skills-needed-to-pursue-a-career-in-web-hosting-support/
- [2]: https://hackprinceton.com/
- [3]: https://www.youtube.com/watch?v=NzaaTYLTwi8
- [4]: http://www.meetup.com/linode/
- [5]: http://2015.phillytechweek.com/track-days/dev
- [6]: https://linode.com/docs
- [7]: https://github.com/linode/docs
+[1]: https://feliciano.tech/blog/skills-needed-to-pursue-a-career-in-web-hosting-support/
+[2]: https://hackprinceton.com/
+[3]: https://www.youtube.com/watch?v=NzaaTYLTwi8
+[4]: http://www.meetup.com/linode/
+[5]: http://2015.phillytechweek.com/track-days/dev
+[6]: https://linode.com/docs
+[7]: https://github.com/linode/docs

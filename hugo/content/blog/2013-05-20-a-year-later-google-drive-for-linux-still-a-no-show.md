@@ -1,7 +1,6 @@
 ---
 title: A Year Later, Google Drive for Linux Still a No Show
 author: FelicianoTech
-layout: post
 date: 2013-05-20T21:40:02+00:00
 url: /blog/a-year-later-google-drive-for-linux-still-a-no-show/
 dsq_thread_id:

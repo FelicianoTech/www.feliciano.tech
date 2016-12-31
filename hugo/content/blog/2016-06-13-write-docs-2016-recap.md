@@ -1,7 +1,6 @@
 ---
 title: Write The Docs Portland 2016 Recap
 author: FelicianoTech
-layout: post
 date: 2016-06-13T21:18:17+00:00
 url: /blog/write-docs-2016-recap/
 dsq_thread_id:

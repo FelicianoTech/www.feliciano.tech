@@ -1,7 +1,6 @@
 ---
 title: Contributed to my First WordPress Plugin
 author: FelicianoTech
-layout: post
 date: 2012-05-07T12:35:09+00:00
 url: /blog/contributed-to-my-first-wordpress-plugin/
 dsq_thread_id:
@@ -14,7 +13,7 @@ tags:
   - WordPress
 
 ---
-[<img class="aligncenter size-full wp-image-59" title="custom-about-author-screenshot" src="{{ .Site.BaseURL }}assets/img/article/custom-about-author-screenshot1.png?resize=599%2C167&#038;ssl=1" alt="" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2012/04/custom-about-author-screenshot1.png?w=599&ssl=1 599w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2012/04/custom-about-author-screenshot1.png?resize=300%2C84&ssl=1 300w" sizes="(max-width: 599px) 100vw, 599px" data-recalc-dims="1" />][1]
+<img class="aligncenter size-full wp-image-59" title="custom-about-author-screenshot" src="/assets/img/article/custom-about-author-screenshot1.png" alt="" />
 
 Little less than a week ago, the <a title="Check out the plugin on WordPress.org" href="http://wordpress.org/extend/plugins/custom-about-author/" target="_blank">Custom About Author plugin</a> for WordPress was updated to v1.4.2. Why I care? This is the first open-source project, however small, that I was able to contribute code and it get published.
 
@@ -27,5 +26,3 @@ Custom About Author Plugin for WordPress
   * <a href="http://wordpress.org/extend/plugins/custom-about-author/" target="_blank">WordPress.org plugin page</a>
   * <a href="http://littlehandytips.com/plugins/custom-about-author/" target="_blank">Page on developer&#8217;s site</a>
   * <a href="http://littlehandytips.com/support/" target="_blank">Support the developer</a>
-
- [1]: {{ .Site.BaseURL }}assets/img/article/custom-about-author-screenshot1.png
