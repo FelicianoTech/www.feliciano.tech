@@ -1,7 +1,6 @@
 ---
 title: 'Always-On SSL: What It Is and Why You Should Implement It'
 author: FelicianoTech
-layout: post
 date: 2015-09-02T22:17:52+00:00
 url: /blog/always-on-ssl-what-it-is-and-why-you-should-implement-it/
 dsq_thread_id:

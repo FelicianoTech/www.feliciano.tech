@@ -1,7 +1,6 @@
 ---
 title: Let’s Keep the Internet Flowing, Get Ubuntu 15.10 via Torrent
 author: FelicianoTech
-layout: post
 date: 2015-11-14T11:50:41+00:00
 url: /blog/lets-keep-the-internet-flowing-get-ubuntu-15-10-via-torrent/
 dsq_thread_id:

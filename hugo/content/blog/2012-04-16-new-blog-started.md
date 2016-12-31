@@ -1,7 +1,6 @@
 ---
 title: New Blog Started
 author: FelicianoTech
-layout: post
 date: 2012-04-16T16:00:42+00:00
 url: /blog/new-blog-started/
 dsq_thread_id:

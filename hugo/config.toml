@@ -6,7 +6,11 @@ theme = "feliciano.tech-2016"
 googleAnalytics = "UA-66191620-1"
 disqusShortname = "felicianotechcom"
 
+
 SectionPagesMenu = "main"
+
+[blackfriday]
+	hrefTargetBlank	=	true
 
 [[menu.main]]
 	name	= "Home"

@@ -1,7 +1,6 @@
 ---
 title: Dell XPS 13 Developer Edition – More Than a Laptop Running Linux
 author: FelicianoTech
-layout: post
 date: 2015-09-10T17:41:02+00:00
 url: /blog/dell-xps-13-developer-edition-more-than-a-laptop-running-linux/
 dsq_thread_id:

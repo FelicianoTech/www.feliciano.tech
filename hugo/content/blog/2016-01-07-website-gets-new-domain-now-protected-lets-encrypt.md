@@ -1,7 +1,6 @@
 ---
 title: My Website Gets a New Domain, Now Protected With Let’s Encrypt
 author: FelicianoTech
-layout: post
 date: 2016-01-07T15:00:44+00:00
 url: /blog/website-gets-new-domain-now-protected-lets-encrypt/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Drupal 8 Release Parties: New York and Philly'
 author: FelicianoTech
-layout: post
 date: 2015-12-07T23:38:29+00:00
 url: /blog/drupal-8-release-parties-new-york-and-philly/
 dsq_thread_id:

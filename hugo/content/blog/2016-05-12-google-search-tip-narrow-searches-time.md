@@ -1,7 +1,6 @@
 ---
 title: 'Google Search Tip: Narrow down Searches by Time Range'
 author: FelicianoTech
-layout: post
 date: 2016-05-12T20:24:37+00:00
 url: /blog/google-search-tip-narrow-searches-time/
 dsq_thread_id:

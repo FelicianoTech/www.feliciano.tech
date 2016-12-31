@@ -1,7 +1,6 @@
 ---
 title: Install a Recent Version of OpenVPN on Ubuntu 14.04 “Trusty”
 author: FelicianoTech
-layout: post
 date: 2016-03-14T14:00:51+00:00
 url: /blog/install-recent-openvpn-on-ubuntu-14-04/
 dsq_thread_id:

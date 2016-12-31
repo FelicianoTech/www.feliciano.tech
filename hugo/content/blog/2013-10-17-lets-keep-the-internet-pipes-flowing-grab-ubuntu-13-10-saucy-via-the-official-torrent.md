@@ -1,7 +1,6 @@
 ---
 title: Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 13.10 (“Saucy”) via the Official Torrent
 author: FelicianoTech
-layout: post
 date: 2013-10-17T17:47:22+00:00
 url: /blog/lets-keep-the-internet-pipes-flowing-grab-ubuntu-13-10-saucy-via-the-official-torrent/
 dsq_thread_id:

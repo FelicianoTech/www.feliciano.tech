@@ -1,7 +1,6 @@
 ---
 title: Reclaim Control of Your Server – Running Drupal on a Freedom Host
 author: FelicianoTech
-layout: post
 date: 2015-08-26T22:54:42+00:00
 url: /blog/reclaim-control-of-your-server-running-drupal-on-a-freedom-host/
 dsq_thread_id:

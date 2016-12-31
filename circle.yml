@@ -1,17 +1,22 @@
 machine:
   environment:
     HUGO_VERSION: 0.18
+    # Speeds up installation of html-proofer
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
 dependencies:
   pre:
     - scripts/install-hugo.sh
+  post:
+    - HUGO_ENV=production hugo -v -s hugo
+    - gem install html-proofer
   cache_directories:
     - ~/bin
 
 test:
   override:
-    - HUGO_ENV=production hugo -v -s hugo
     - ls -lah hugo/public
+    - htmlproofer hugo/public --allow-hash-href --check-html --disable-external --empty-alt-ignore | tee $CIRCLE_ARTIFACTS/htmlproofer-results.txt; exit ${PIPESTATUS[0]}
 
 deployment:
   production:

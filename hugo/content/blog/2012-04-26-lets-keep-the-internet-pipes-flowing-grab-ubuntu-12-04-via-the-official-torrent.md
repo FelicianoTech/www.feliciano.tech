@@ -1,7 +1,6 @@
 ---
 title: Let’s Keep the Internet Pipes Flowing, Grab Ubuntu 12.04 via the Official Torrent
 author: FelicianoTech
-layout: post
 date: 2012-04-26T12:14:56+00:00
 url: /blog/lets-keep-the-internet-pipes-flowing-grab-ubuntu-12-04-via-the-official-torrent/
 dsq_thread_id:
