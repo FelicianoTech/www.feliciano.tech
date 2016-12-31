@@ -12,6 +12,7 @@ dependencies:
     - gem install html-proofer
   cache_directories:
     - ~/bin
+    - "/opt/circleci/.rvm/gems"
 
 test:
   override:
