@@ -20,7 +20,7 @@ Many times when I&#8217;m searching for something, it is usually technical, and 
 
 To make your search results more relevant, I suggest taking advantage of Google Search Tools. After you start your search and you&#8217;re on the results page, there is a menu under the search bar. The last item says &#8220;Search tools&#8221;. Clicking that slides out a menu where you can adjust the time-frame of the search. Here&#8217;s a picture of it:
 
-[<img src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/05/google-search-time-range.png?resize=640%2C515&#038;ssl=1" alt="google-search-time-range" class="aligncenter size-full wp-image-1642" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/05/google-search-time-range.png?w=1002&ssl=1 1002w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/05/google-search-time-range.png?resize=600%2C483&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/05/google-search-time-range.png?resize=768%2C618&ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />][4]
+<img src="/assets/img/article/google-search-time-range.png" alt="google-search-time-range" class="aligncenter size-full wp-image-1642" />
 
 ## How I use it
 
@@ -36,5 +36,4 @@ Google Search Tools smallest time range is only &#8220;Past hour&#8221;. So if y
  [1]: https://ubuntu.com
  [2]: https://wiki.ubuntu.com/Python/3
  [3]: https://wiki.ubuntu.com/XenialXerus/ReleaseNotes#Python_3
- [4]: https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/05/google-search-time-range.png?ssl=1
  [5]: http://jwebnet.net/advancedgooglesearch.html

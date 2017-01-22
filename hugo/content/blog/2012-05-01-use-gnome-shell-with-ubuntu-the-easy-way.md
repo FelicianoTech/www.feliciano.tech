@@ -16,8 +16,6 @@ tags:
   - ubuntu-12.04
 
 ---
-<img class="size-medium wp-image-39 alignright" title="Ubuntu 12.04 GNOME Shell Remix" src="https://i1.wp.com/ironpatriotny.com/wp-content/uploads/2012/05/precise-is-here-300x222.jpg?resize=300%2C222" alt="Ubuntu 12.04 GNOME Shell Remix Feature Graphic" data-recalc-dims="1" />
-
 For those Unity haters, alternative desktop options are sparse on a standard install of Ubuntu. If you don&#8217;t want Unity, you may choose Unity 2D. Yeah, not exactly an alternative is it.
 
 The Ubuntu repositories provide some options. We can install GNOME Classic or GNOME Shell. For some though, installing Ubuntu, then having to install GNOME Shell afterward is just too tedious. For those people, there&#8217;s Ubuntu GNOME Shell Remix. An unofficial remix of Ubuntu, with GNOME Shell baked right in.

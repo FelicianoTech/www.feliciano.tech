@@ -38,6 +38,4 @@ Dell, thank you for bringing three generations of the XPS 13 to developers like 
   
 <a href="https://plus.google.com/communities/114528776750711434800" target="_blank">Google+ Community</a> &#8211; I have no idea if this is considered &#8216;official&#8217; or not but hey, useful post are awaiting your +1&#8217;s.
   
-<a href="https://ftbeowulf.wordpress.com/2015/06/20/dell-xps-13-9343-developer-edition-vs-lenovo-x1-carbon-2015/" target="_blank">Comparison Review</a> &#8211; While I didn&#8217;t review the XPS 13 here, a friend of mine (Ubuntu Member, Ubuntu Community Council Member) has. He actually writes about a lot of cool things so you should check out his <a href="https://ftbeowulf.wordpress.com/" target="_blank">entire blog</a>.
-
 What are your thoughts?
