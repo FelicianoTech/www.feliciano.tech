@@ -1,6 +1,6 @@
 machine:
   environment:
-    HUGO_VERSION: 0.18
+    HUGO_VERSION: 0.18.1
     # Speeds up installation of html-proofer
     NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
