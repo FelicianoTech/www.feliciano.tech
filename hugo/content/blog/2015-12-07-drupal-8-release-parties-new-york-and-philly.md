@@ -23,92 +23,44 @@ Both events were great and I&#8217;m very happy I was able to attend. Linode spo
 
 Drupal 8 Release Party in NYC:
 
-<div id='gallery-1' class='gallery galleryid-792 gallery-columns-3 gallery-size-large'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-15-16/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.15.16.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.15.16" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.15.16.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.15.16.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.15.16.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.15.16.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-27-50/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.50.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.27.50" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.50.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.50.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.50.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.50.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-27-57/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.57.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.27.57" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.57.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.57.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.57.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.27.57.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-28-58/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.28.58.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.28.58" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.28.58.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.28.58.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.28.58.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.28.58.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-29-20/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.29.20.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.29.20" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.29.20.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.29.20.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.29.20.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.29.20.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-56-30/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.30.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.56.30" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.30.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.30.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.30.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.30.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-19-19-56-37/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.37.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-19 19.56.37" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.37.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.37.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.37.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-19-19.56.37.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure>
-</div>
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.15.16.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.27.50.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.27.57.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.28.58.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.29.20.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.56.30.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-19-19.56.37.jpg" class="attachment-large size-large" alt="" />
 
 Drupal 8 Release Party in Philly
 
-<div id='gallery-2' class='gallery galleryid-792 gallery-columns-3 gallery-size-large'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-18-36-2/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.361.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.18.36" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.361.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.361.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.361.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.361.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-18-41/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.41.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.18.41" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.41.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.41.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.41.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.41.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-18-48/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.48.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.18.48" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.48.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.48.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.48.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.48.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-18-56/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.56.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.18.56" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.56.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.56.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.56.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.18.56.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-51-23/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.23.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.51.23" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.23.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.23.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.23.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.23.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-51-30/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.30.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.51.30" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.30.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.30.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.30.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.51.30.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-52-27/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.27.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.52.27" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.27.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.27.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.27.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.27.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-18-52-32/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.32.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 18.52.32" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.32.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.32.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.32.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-18.52.32.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-19-00-34-just-ricardo/'><img width="640" height="628" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?fit=640%2C628&ssl=1" class="attachment-large size-large" alt="2015-11-20 19.00.34--just-ricardo" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?w=3048&ssl=1 3048w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?resize=600%2C588&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?resize=50%2C50&ssl=1 50w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.00.34-just-ricardo.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-19-08-21/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.21.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 19.08.21" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.21.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.21.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.21.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.21.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-19-08-29/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.29.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 19.08.29" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.29.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.29.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.29.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.29.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-19-08-37/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.37.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 19.08.37" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.37.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.37.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.37.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.08.37.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/drupal-8-release-parties-new-york-and-philly/2015-11-20-19-20-56/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.20.56.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-11-20 19.20.56" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.20.56.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.20.56.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.20.56.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-11-20-19.20.56.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure>
-</div>
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.18.361.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.18.41.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.18.48.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.18.56.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.51.23.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.51.30.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.52.27.jpg" class="attachment-large size-large" alt="" />
+
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.52.32.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="628" src="/assets/img/article/2015-11-20-19.00.34-just-ricardo.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-19.08.21.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-19.08.29.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-19.08.37.jpg" class="attachment-large size-large" alt="" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-19.20.56.jpg" class="attachment-large size-large" alt="" />

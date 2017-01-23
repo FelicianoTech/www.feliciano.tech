@@ -17,7 +17,7 @@ dependencies:
 test:
   override:
     - ls -lah hugo/public
-    - htmlproofer hugo/public --allow-hash-href --check-html --disable-external --empty-alt-ignore | tee $CIRCLE_ARTIFACTS/htmlproofer-results.txt; exit ${PIPESTATUS[0]}
+    - htmlproofer hugo/public --allow-hash-href --check-html --empty-alt-ignore | tee $CIRCLE_ARTIFACTS/htmlproofer-results.txt; exit ${PIPESTATUS[0]}
 
 deployment:
   production:

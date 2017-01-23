@@ -29,7 +29,7 @@ Or get the torrents from their <a title="Straight from the horses mouth" href="h
 
 Don&#8217;t forget to seed and enjoy the release everyone! 🙂
 
-[2]: http://ironpatriotny.com/wp-content/uploads/2012/10/ubuntu-12.10-desktop-amd64.iso.torrent "Ubuntu 12.10 Desktop 64-bit Torrent Download"
-[3]: http://ironpatriotny.com/wp-content/uploads/2012/10/ubuntu-12.10-desktop-i386.iso.torrent "Ubuntu 12.10 Desktop 32-bit Torrent Download"
-[4]: http://ironpatriotny.com/wp-content/uploads/2012/10/ubuntu-12.10-server-i386.iso.torrent "Ubuntu 12.10 Server 32-bit Download"
-[5]: http://ironpatriotny.com/wp-content/uploads/2012/10/ubuntu-12.10-server-amd64.iso.torrent "Ubuntu 12.10 Server 64-bit Torrent Download"
+[2]: http://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-desktop-amd64.iso.torrent "Ubuntu 12.10 Desktop 64-bit Torrent Download"
+[3]: http://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-desktop-i386.iso.torrent "Ubuntu 12.10 Desktop 32-bit Torrent Download"
+[4]: http://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-server-i386.iso.torrent "Ubuntu 12.10 Server 32-bit Download"
+[5]: http://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-server-amd64.iso.torrent "Ubuntu 12.10 Server 64-bit Torrent Download"

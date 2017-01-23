@@ -11,7 +11,7 @@ tags:
   - GIMP-2.8
 
 ---
-[<img class="size-medium wp-image-51 alignright" title="2.8-single-window-mode" src="https://i0.wp.com/ironpatriotny.com/wp-content/uploads/2012/05/2.8-single-window-mode-300x187.png?resize=300%2C187" alt="" data-recalc-dims="1" />][1]New Features That Just Make Me SO Happy
+New Features That Just Make Me SO Happy
 
   * Taking Entire Webpage Screenshots
   * Single Window Mode
@@ -30,12 +30,6 @@ For Ubuntu users, the following PPA is available:
 
 Screenshot below
 
-<p style="text-align: center;">
-  <a href="/assets/img/article/1280x800-fresh-start1.jpg?ssl=1"><img class="size-large wp-image-52 aligncenter" title="GIMP 2.8 Screenshot" src="https://i1.wp.com/ironpatriotny.com/wp-content/uploads/2012/05/1280x800-fresh-start-1024x640.jpg?resize=640%2C400" alt="GIMP 2.8 First Run Screenshot" data-recalc-dims="1" /></a>
-</p>
-
 <p style="text-align: left;">
   via <a title="Gimp.org" href="http://www.gimp.org/" target="_blank">Gimp.org</a>
 </p>
-
- [1]: /assets/img/article/2.8-single-window-mode1.png

@@ -28,13 +28,13 @@ In May of this year, I attended the [Write the Docs conference][1] in Portland 
 
 Firstly, if you&#8217;re on Twitter, please [follow us][10]. Also, I have created a [Twitter list][11] of every WTD meetup that I&#8217;ve found on Twitter so far. Feel free to follow the list, or if you know of a meetup that is missing, please let me know.
 
- [1]: http://www.writethedocs.org/
- [2]: https://feliciano.tech/blog/write-docs-2016-recap/
- [4]: http://www.writethedocs.org/meetups/nyc/
- [5]: https://www.meetup.com/WriteTheDocsNYC/events/235610319/
- [6]: https://www.meetup.com/WriteTheDocsNYC/
- [7]: http://slack.writethedocs.org/
- [8]: https://witter.com/WriteTheDocsNYC
- [9]: http://forum.writethedocs.org/c/meetups
- [10]: https://twitter.com/WriteTheDocsNYC
- [11]: https://twitter.com/FelicianoTech/lists/write-the-docs-meetups
+[1]: http://www.writethedocs.org/
+[2]: https://feliciano.tech/blog/write-docs-2016-recap/
+[4]: http://www.writethedocs.org/meetups/nyc/
+[5]: https://www.meetup.com/WriteTheDocsNYC/events/235610319/
+[6]: https://www.meetup.com/WriteTheDocsNYC/
+[7]: http://slack.writethedocs.org/
+[8]: https://twitter.com/WriteTheDocsNYC
+[9]: http://forum.writethedocs.org/c/meetups
+[10]: https://twitter.com/WriteTheDocsNYC
+[11]: https://twitter.com/FelicianoTech/lists/write-the-docs-meetups

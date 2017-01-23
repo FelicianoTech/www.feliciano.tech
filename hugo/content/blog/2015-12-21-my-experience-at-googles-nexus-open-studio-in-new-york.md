@@ -32,36 +32,20 @@ On my way out, I was given a thank you present by the staff; Android wrapping pa
 
 I really enjoyed attending Nexus Open Studio. It was a very well put together event with a great vibe, semi-private feel, and unique opportunities to learn about Nexus and provide direct feedback. Thanks Google for inviting me. I hope I get to attend more in the future.
 
-<div id='gallery-3' class='gallery galleryid-902 gallery-columns-3 gallery-size-large'>
-  <figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-12-11-18.10.52.jpg" class="attachment-large size-large" alt="Google Engineer Discussion Android Marshmallow" />
   
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-11-18-10-52/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="Google Engineer Discussion Android Marshmallow" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.10.52.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-12-11-17.32.55.jpg" class="attachment-large size-large" alt="2015-12-11 17.32.55" />
   
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-11-17-32-55/'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-12-11 17.32.55" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?resize=768%2C432&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.32.55.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-11-17-33-02/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-12-11 17.33.02" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?resize=768%2C432&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-17.33.02.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-11-18-01-51/'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-12-11 18.01.51" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.01.51.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-11-18-30-36/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-12-11 18.30.36" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?resize=768%2C432&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-11-18.30.36.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-12-12-26-42/'><img width="640" height="419" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-12-12.26.42.jpg?fit=640%2C419&ssl=1" class="attachment-large size-large" alt="2015-12-12 12.26.42" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-12-12.26.42.jpg?w=1920&ssl=1 1920w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-12-12.26.42.jpg?resize=600%2C393&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-12-12.26.42.jpg?resize=768%2C503&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-12-12.26.42.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://feliciano.tech/blog/my-experience-at-googles-nexus-open-studio-in-new-york/2015-12-18-14-22-07/'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="2015-12-18 14.22.07" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?resize=768%2C432&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2015/12/2015-12-18-14.22.07.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div></figure>
-</div>
+<img width="640" height="360" src="/assets/img/article/2015-12-11-17.33.02.jpg" class="attachment-large size-large" alt="2015-12-11 17.33.02" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-12-11-18.01.51.jpg" class="attachment-large size-large" alt="2015-12-11 18.01.51" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-12-11-18.30.36.jpg" class="attachment-large size-large" alt="2015-12-11 18.30.36" />
+ 
+<img width="640" height="419" src="/assets/img/article/2015-12-12-12.26.42.jpg" class="attachment-large size-large" alt="2015-12-12 12.26.42" />
+ 
+<img width="640" height="360" src="/assets/img/article/2015-12-18-14.22.07.jpg" class="attachment-large size-large" alt="2015-12-18 14.22.07" />
 
- [1]: https://www.androidexperiments.com/
+
+
+[1]: https://www.androidexperiments.com/

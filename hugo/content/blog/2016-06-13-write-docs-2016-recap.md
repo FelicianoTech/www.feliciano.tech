@@ -24,19 +24,19 @@ In the end of May, I attended [Write the Docs (WTD) 2016][1] in Portland, and wh
 
 <!--more-->
 
-## Day 0 &#8211; Writing Day
+## Day 0 -- Writing Day
 
 Writing Day didn’t actually take place at the main venue, instead we were set up in a nice coworking space a quarter-mile away. Upon arriving, WTD organizers immediately greeted attendees, told us where everything was, and gave off this incredibly friendly demeanor. Saying WTD attempted to be inclusive to everyone is a complete understatement. They were thoughtful enough to provide vegetarian and vegan meals each day, and put these signs up at the restrooms.
 
-[<img src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?resize=640%2C856&#038;ssl=1" alt="" class="aligncenter size-full wp-image-1809" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?w=2992&ssl=1 2992w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?resize=449%2C600&ssl=1 449w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?resize=768%2C1027&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?resize=1496%2C2000&ssl=1 1496w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />][2]
+<img src="/assets/img/article/2016-05-22-11.28.19.jpg" class="aligncenter size-full wp-image-1809" alt="" />
 
 _WTD made sure everyone was welcome at the conference_
 
 Writing Day was about getting together in groups and choosing a project to work on. This could be an open-source project that could really use help with their docs (Mozilla had a project), or a group getting together to provide feedback on the each other&#8217;s company docs. My table had technical writers from [CrashPlan][3], [Splunk][4], and my friends at [Linode][5]. Peer feedback was really nice to make sure we were on the right track with our documentation, putting out the best product for our readers. Dinner was at the Mediterranean Exploration Company, a really lovely restaurant. Some of us got together to discuss which talks we were most interested in hearing in the upcoming two days.
 
-## Day 1 & 2 &#8211; Talks at the Beautiful Crystal Ballroom
+## Day 1 & 2 -- Talks at the Beautiful Crystal Ballroom
 
-[<img src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?resize=640%2C640&#038;ssl=1" alt="" class="aligncenter size-full wp-image-1819" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?w=2992&ssl=1 2992w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?resize=200%2C200&ssl=1 200w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?resize=600%2C600&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?resize=768%2C768&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />][6]
+<img src="/assets/img/article/IMG_20160523_082720.jpg" class="aligncenter size-full wp-image-1819" alt="" />
 
 The first real day of the conference was Sunday at the Portland Crystal Ballroom. This venue is a beautiful place where many bands come and perform at night. The floors were actually springboard dancefloors, meaning they bounced up and down as we walked around. How mind-boggling. There were nine roughly thirty minute talks on the main stage while unconference talks started around noon on the second floor.
 
@@ -44,7 +44,7 @@ A great talk that really stood out was [Two great teams that work better togethe
 
 My favorite talk of the entire conference was [Copy that: Helping your users succeed with effective product copy][8] by [Sarah Day][9]. Product copy being a form of documentation was fascinating.
 
-[<img src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?resize=640%2C856&#038;ssl=1" alt="" class="aligncenter size-full wp-image-1824" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?w=2992&ssl=1 2992w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?resize=449%2C600&ssl=1 449w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?resize=768%2C1027&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?resize=1496%2C2000&ssl=1 1496w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />][10]
+<img src="/assets/img/article/2016-05-24-11.17.45.jpg" class="aligncenter size-full wp-image-1824" alt="" />
 
 The most visual talk was by [Christy Lutz][11] called [We’re not in Kansas anymore: How to find courage while following the Technical Doc Road][12]. When she walked on stage with ruby red slippers, I knew this talk was going to be interesting.
 
@@ -54,7 +54,7 @@ After everyone cleared out of the Crystal Ballroom, we set out to get dinner. Fo
 
 ## Conclusion
 
-[<img src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?resize=640%2C400&#038;ssl=1" alt="" class="aligncenter size-full wp-image-1829" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?w=4242&ssl=1 4242w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?resize=600%2C375&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?resize=768%2C480&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />][13]
+<img src="/assets/img/article/writethedocs-hockley-0185.jpg" class="aligncenter size-full wp-image-1829" alt="" />
 
 WTD 2016 Portland was my first WTD event and I really enjoyed it. I would love to go again next year however I also don&#8217;t want to wait that long to do this again. Using my newfound knowledge and friends from the WTD Meetup Unconference Talk, as I make my way out East, I plan on resurrecting the WTD New York meetup. I&#8217;ll be working with the Linode Docs Team to help them start a brand new WTD Meetup in the great city of Philadelphia. If you would like to learn more about these meetups or to chat with me and others, you can join the #nyc and #philly channels in the [WTD Slack Team][14].
 
@@ -71,19 +71,15 @@ Conference Takeaways:
   * CI can lead to faster shipping for docs (hell yeah!)
   * Patheon gave a shout-out to CircleCI (<3)
 
- [1]: http://www.writethedocs.org/conf/na/2016/
- [2]: https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-22-11.28.19.jpg?ssl=1
- [3]: https://www.crashplan.com/en-us/
- [4]: http://www.splunk.com/
- [5]: https://www.linode.com/
- [6]: https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/IMG_20160523_082720.jpg?ssl=1
- [7]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-neal-kaplan
- [8]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-sarah-day
- [9]: https://twitter.com/scribblingfox
- [10]: https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/06/2016-05-24-11.17.45.jpg?ssl=1
- [11]: https://twitter.com/canncrochet
- [12]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-christy-lutz
- [13]: https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/06/writethedocs-hockley-0185.jpg?ssl=1
- [14]: http://slack.writethedocs.org/
- [15]: https://circleci.com/docs/
- [16]: http://www.impactlearning.com/resources/metrics/customer-service-satisfaction-rate-csat/
+[1]: http://www.writethedocs.org/conf/na/2016/
+[3]: https://www.crashplan.com/en-us/
+[4]: http://www.splunk.com/
+[5]: https://www.linode.com/
+[7]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-neal-kaplan
+[8]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-sarah-day
+[9]: https://twitter.com/scribblingfox
+[11]: https://twitter.com/canncrochet
+[12]: http://www.writethedocs.org/conf/na/2016/speakers/#speaker-christy-lutz
+[14]: http://slack.writethedocs.org/
+[15]: https://circleci.com/docs/
+[16]: http://www.impactlearning.com/resources/metrics/customer-service-satisfaction-rate-csat/

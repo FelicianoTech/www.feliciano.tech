@@ -33,7 +33,7 @@ Working in Support, especially for a hosting company was truly great. I even wro
 
 While working in support, Linode sent me to a few events, including my first ever hackathon, [HackPrinceton][2]. I fell in love. Hanging out all weekend with a group of hackers from various backgrounds and levels of expertise to educate, instruct, demo, and debate various hacks, languages, frameworks, etc was exhilarating. I had to figure out a way to have Linode let me do that again. After some research, I pitched Linode the idea of opening up a developer evangelist position and slipped right into it.
 
-<figure id="attachment_1071" style="width: 600px" class="wp-caption alignright"><a href="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?ssl=1" rel="attachment wp-att-1071"><img class="wp-image-1071 size-medium" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&#038;ssl=1" alt="Flying to the west coast." srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-06-11-13.40.37.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Flying out to the west coast.</figcaption></figure> 
+<figure id="attachment_1071" style="width: 600px" class="wp-caption alignright"><img class="wp-image-1071 size-medium" src="/assets/img/article/2015-06-11-13.40.37.jpg?resize=600%2C450&#038;ssl=1" alt="Flying to the west coast." /><figcaption class="wp-caption-text">Flying out to the west coast.</figcaption></figure> 
 
 2015 alone was amazing. I&#8217;ve spent most of my life in the northeast of the United States but I traveled A LOT this year. According to an email I received from Marriott, I visited 11 cities in 2015. That&#8217;s only counting the ones that I stayed with Marriott at. I flew out to the west coast 7 times totaling over 80 hours of air travel. I flew to several cities in the south and drove a bunch to towns local to New Jersey.
 
@@ -59,125 +59,135 @@ I&#8217;m confident that I will hit the ground running at my next endeavor with 
   My Linode Highlight Reel
 </h2>
 
-<div id='gallery-4' class='gallery galleryid-1057 gallery-columns-3 gallery-size-large'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?ssl=1'><img width="640" height="427" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?fit=640%2C427&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1123" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?w=2048&ssl=1 2048w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?resize=600%2C400&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?resize=768%2C512&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/1614497_892421597475186_1345141943294986516_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1123'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?ssl=1'><img width="640" height="497" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?fit=640%2C497&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1127" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?w=2048&ssl=1 2048w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?resize=600%2C466&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?resize=768%2C596&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10257025_892421497475196_1901003315859519879_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1127'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?ssl=1'><img width="640" height="427" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?fit=640%2C427&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1119" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?w=2048&ssl=1 2048w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?resize=600%2C400&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?resize=768%2C512&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/1498985_892431067474239_1086374816408988501_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1119'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?ssl=1'><img width="640" height="960" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?fit=640%2C960&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1135" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?w=1365&ssl=1 1365w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?resize=400%2C600&ssl=1 400w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?resize=768%2C1152&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?resize=1333%2C2000&ssl=1 1333w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10911261_892429170807762_1345062348090387486_o.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1135'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?ssl=1'><img width="640" height="427" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?fit=640%2C427&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1131" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?w=2048&ssl=1 2048w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?resize=600%2C400&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?resize=768%2C512&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10847145_892433070807372_3867719955333402651_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1131'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?ssl=1'><img width="640" height="427" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?fit=640%2C427&ssl=1" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1151" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?w=2048&ssl=1 2048w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?resize=600%2C400&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?resize=768%2C512&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001663_892442274139785_7091726249163537543_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1151'> HackTCNJ 2015 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2014-08-14-07.01.55.jpeg?ssl=1'><img width="640" height="415" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2014-08-14-07.01.55.jpeg?fit=640%2C415&ssl=1" class="attachment-large size-large" alt="Linode Outing: Airshow at Atlantic City." aria-describedby="gallery-4-1075" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2014-08-14-07.01.55.jpeg?w=900&ssl=1 900w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2014-08-14-07.01.55.jpeg?resize=600%2C389&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2014-08-14-07.01.55.jpeg?resize=768%2C498&ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1075'> Linode Outing: Airshow at Atlantic City. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Limos.... we travel in style." aria-describedby="gallery-4-1079" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?w=3264&ssl=1 3264w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-02-19-10.51.54.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1079'> Limos&#8230;. we travel in style. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?ssl=1'><img width="640" height="283" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?fit=640%2C283&ssl=1" class="attachment-large size-large" alt="SCALE13x - Met Jono Bacon, Jorge Castro, and other Ubuntu people." aria-describedby="gallery-4-1195" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?w=1384&ssl=1 1384w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?resize=600%2C265&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?resize=768%2C340&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/scale-13x.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1195'> SCALE13x &#8211; Met Jono Bacon, Jorge Castro, and other Ubuntu people. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Sponsor & Mentor at HackNY" aria-describedby="gallery-4-1083" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?w=3264&ssl=1 3264w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-03-10-05.39.07.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1083'> Sponsor & Mentor at HackNY </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Just checking if there were any developers by the Hollywood sign =)" aria-describedby="gallery-4-1087" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?w=3264&ssl=1 3264w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-12.27.28.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1087'> Just checking if there were any developers by the Hollywood sign =) </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?ssl=1'><img width="640" height="480" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Linode lit up in the rafters. What a weekend." aria-describedby="gallery-4-1091" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?w=3264&ssl=1 3264w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-03-17.01.25.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1091'> Linode lit up in the rafters. What a weekend. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="We prepped for a hackathon by taking a quick detour to Santa Monica." aria-describedby="gallery-4-1095" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?w=3264&ssl=1 3264w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-06-14.14.59.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1095'> We prepped for a hackathon by taking a quick detour to Santa Monica. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="The original developer tablet. Everyone loved our custom Nexus 7s." aria-describedby="gallery-4-1099" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?w=3264&ssl=1 3264w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-04-22-16.03.06.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1099'> The original developer tablet. Everyone loved our custom Nexus 7s. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?ssl=1'><img width="640" height="360" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="Hackathons were never the same once these showed up." aria-describedby="gallery-4-1103" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?w=5312&ssl=1 5312w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?resize=600%2C338&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?resize=768%2C432&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-08-19-08.29.08.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1103'> Hackathons were never the same once these showed up. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?ssl=1'><img width="640" height="360" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="I was able to get a custom cake for the Drupal 8 launch in Philly." aria-describedby="gallery-4-1111" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?w=5312&ssl=1 5312w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?resize=600%2C338&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?resize=768%2C432&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-20-18.52.32.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1111'> I was able to get a custom cake for the Drupal 8 launch in Philly. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?ssl=1'><img width="640" height="426" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?fit=640%2C426&ssl=1" class="attachment-large size-large" alt="Linode Holiday Party 2014" aria-describedby="gallery-4-1139" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?w=2048&ssl=1 2048w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?resize=600%2C399&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?resize=768%2C511&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/10954456_10155196352130037_5380651972721212692_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1139'> Linode Holiday Party 2014 </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10989218_10155261511755037_8818279037238141548_n.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10989218_10155261511755037_8818279037238141548_n.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="College Talk" aria-describedby="gallery-4-1147" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10989218_10155261511755037_8818279037238141548_n.jpg?w=960&ssl=1 960w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10989218_10155261511755037_8818279037238141548_n.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/10989218_10155261511755037_8818279037238141548_n.jpg?resize=768%2C576&ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1147'> College Talk </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001886_10155261511910037_8560082470197136898_n.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001886_10155261511910037_8560082470197136898_n.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="College Talk" aria-describedby="gallery-4-1155" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001886_10155261511910037_8560082470197136898_n.jpg?w=960&ssl=1 960w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001886_10155261511910037_8560082470197136898_n.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11001886_10155261511910037_8560082470197136898_n.jpg?resize=768%2C576&ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1155'> College Talk </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?ssl=1'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="Philly Tech Week - Developer Day: I did a quick talk on Raspberry Pis" aria-describedby="gallery-4-1199" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-12-12-20.34.38-1.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1199'> Philly Tech Week &#8211; Developer Day: I did a quick talk on Raspberry Pis </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Linode Independance Day 2015 BBQ" aria-describedby="gallery-4-1159" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?w=2000&ssl=1 2000w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/11700750_10155799405810037_8122762924223231021_o.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1159'> Linode Independance Day 2015 BBQ </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="LA Hacks - Wow this was amazing." aria-describedby="gallery-4-1163" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?w=4000&ssl=1 4000w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140403114515.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1163'> LA Hacks &#8211; Wow this was amazing. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="LA Hacks - The crowd I gave a quick Linode speech to." aria-describedby="gallery-4-1167" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?w=4000&ssl=1 4000w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405065443.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1167'> LA Hacks &#8211; The crowd I gave a quick Linode speech to. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?ssl=1'><img width="640" height="480" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="LA Hacks" aria-describedby="gallery-4-1171" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?w=4000&ssl=1 4000w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?resize=600%2C450&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/20140405080114.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1171'> LA Hacks </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?ssl=1'><img width="640" height="320" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?fit=640%2C320&ssl=1" class="attachment-large size-large" alt="Linodians" aria-describedby="gallery-4-1179" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?w=3000&ssl=1 3000w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?resize=600%2C300&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?resize=768%2C384&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0166-1.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1179'> Linodians </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="HackPrinceton" aria-describedby="gallery-4-1187" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?w=4000&ssl=1 4000w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?resize=768%2C576&ssl=1 768w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?w=1280&ssl=1 1280w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0212.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1187'> HackPrinceton </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?ssl=1'><img width="640" height="480" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="HackPrinceton - Things get weird when you&#039;re 24+ hours in." aria-describedby="gallery-4-1191" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?w=4000&ssl=1 4000w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?resize=600%2C450&ssl=1 600w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?resize=768%2C576&ssl=1 768w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?w=1280&ssl=1 1280w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/01/IMG_0231.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1191'> HackPrinceton &#8211; Things get weird when you&#8217;re 24+ hours in. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?ssl=1'><img width="640" height="360" src="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?fit=640%2C360&ssl=1" class="attachment-large size-large" alt="Messages from my co-workers for my 2-year anniversary at Linode." aria-describedby="gallery-4-1107" srcset="https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?w=5312&ssl=1 5312w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?resize=600%2C338&ssl=1 600w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?resize=768%2C432&ssl=1 768w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?w=1280&ssl=1 1280w, https://i0.wp.com/feliciano.tech/wp-content/uploads/2016/01/2015-11-04-14.43.53.jpg?w=1920&ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1107'> Messages from my co-workers for my 2-year anniversary at Linode. </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/CWyBkJnVAAAN2Vi.jpg?ssl=1'><img width="640" height="480" src="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/CWyBkJnVAAAN2Vi.jpg?fit=640%2C480&ssl=1" class="attachment-large size-large" alt="Chris (CEO) took Linode to see Star Wars Episode VII." aria-describedby="gallery-4-1175" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/CWyBkJnVAAAN2Vi.jpg?w=1024&ssl=1 1024w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/CWyBkJnVAAAN2Vi.jpg?resize=600%2C450&ssl=1 600w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2016/01/CWyBkJnVAAAN2Vi.jpg?resize=768%2C576&ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-4-1175'> Chris (CEO) took Linode to see Star Wars Episode VII. </figcaption></figure>
-</div>
+<figure> 
+	<img width="640" height="427" src="/assets/img/article/1614497_892421597475186_1345141943294986516_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1123" />
+	<figcaption>HackTCNJ 2015</figcaption>
+</figure>
+
+<figure> 
+	<img width="640" height="497" src="/assets/img/article/10257025_892421497475196_1901003315859519879_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" />
+	<figcaption>HackTCNJ 2015</figcaption>
+</figure>
+
+<figure> 
+	<img width="640" height="427" src="/assets/img/article/1498985_892431067474239_1086374816408988501_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" />
+	<figcaption>HackTCNJ 2015</figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="960" src="/assets/img/article/10911261_892429170807762_1345062348090387486_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" aria-describedby="gallery-4-1135" />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1135'> HackTCNJ 2015 </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="427" src="/assets/img/article/10847145_892433070807372_3867719955333402651_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1131'> HackTCNJ 2015 </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="427" src="/assets/img/article/11001663_892442274139785_7091726249163537543_o.jpg" class="attachment-large size-large" alt="HackTCNJ 2015" />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1151'> HackTCNJ 2015 </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="415" src="/assets/img/article/2014-08-14-07.01.55.jpeg" class="attachment-large size-large" alt="Linode Outing: Airshow at Atlantic City." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1075'> Linode Outing: Airshow at Atlantic City.</figcaption>
+</figure>
+
+<figure class='gallery-item'>
+	<img width="640" height="480" src="/assets/img/article/2015-02-19-10.51.54.jpg" class="attachment-large size-large" alt="Limos.... we travel in style." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1079'> Limos&#8230;. we travel in style. </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="283" src="/assets/img/article/scale-13x.jpg" class="attachment-large size-large" alt="SCALE13x - Met Jono Bacon, Jorge Castro, and other Ubuntu people." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1195'> SCALE13x &#8211; Met Jono Bacon, Jorge Castro, and other Ubuntu people. </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="480" src="/assets/img/article/2015-03-10-05.39.07.jpg" class="attachment-large size-large" alt="Sponsor & Mentor at HackNY" />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1083'> Sponsor & Mentor at HackNY </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="480" src="/assets/img/article/2015-04-03-12.27.28.jpg" class="attachment-large size-large" alt="Just checking if there were any developers by the Hollywood sign =)" />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1087'> Just checking if there were any developers by the Hollywood sign =) </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="480" src="/assets/img/article/2015-04-03-17.01.25.jpg" class="attachment-large size-large" alt="Linode lit up in the rafters. What a weekend." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1091'> Linode lit up in the rafters. What a weekend. </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="480" src="/assets/img/article/2015-04-06-14.14.59.jpg" class="attachment-large size-large" alt="We prepped for a hackathon by taking a quick detour to Santa Monica." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1095'> We prepped for a hackathon by taking a quick detour to Santa Monica. </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+	<img width="640" height="480" src="/assets/img/article/2015-04-22-16.03.06.jpg" class="attachment-large size-large" alt="The original developer tablet. Everyone loved our custom Nexus 7s." />
+	<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1099'> The original developer tablet. Everyone loved our custom Nexus 7s. </figcaption>
+</figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-08-19-08.29.08.jpg" class="attachment-large size-large" alt="Hackathons were never the same once these showed up." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1103'> Hackathons were never the same once these showed up. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-11-20-18.52.32.jpg" class="attachment-large size-large" alt="I was able to get a custom cake for the Drupal 8 launch in Philly." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1111'> I was able to get a custom cake for the Drupal 8 launch in Philly. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="426" src="/assets/img/article/10954456_10155196352130037_5380651972721212692_o.jpg" class="attachment-large size-large" alt="Linode Holiday Party 2014" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1139'> Linode Holiday Party 2014 </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/10989218_10155261511755037_8818279037238141548_n.jpg" class="attachment-large size-large" alt="College Talk" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1147'> College Talk </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/11001886_10155261511910037_8560082470197136898_n.jpg" class="attachment-large size-large" alt="College Talk" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1155'> College Talk </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-12-12-20.34.38-1.jpg" class="attachment-large size-large" alt="Philly Tech Week - Developer Day: I did a quick talk on Raspberry Pis" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1199'> Philly Tech Week &#8211; Developer Day: I did a quick talk on Raspberry Pis </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/11700750_10155799405810037_8122762924223231021_o.jpg" class="attachment-large size-large" alt="Linode Independance Day 2015 BBQ" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1159'> Linode Independance Day 2015 BBQ </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/20140403114515.jpg" class="attachment-large size-large" alt="LA Hacks - Wow this was amazing." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1163'> LA Hacks &#8211; Wow this was amazing. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/20140405065443.jpg" class="attachment-large size-large" alt="LA Hacks - The crowd I gave a quick Linode speech to." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1167'> LA Hacks &#8211; The crowd I gave a quick Linode speech to. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/20140405080114.jpg" class="attachment-large size-large" alt="LA Hacks" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1171'> LA Hacks </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="320" src="/assets/img/article/IMG_0166-1.jpg" class="attachment-large size-large" alt="Linodians" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1179'> Linodians </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/IMG_0212.jpg" class="attachment-large size-large" alt="HackPrinceton" />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1187'> HackPrinceton </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/IMG_0231.jpg" class="attachment-large size-large" alt="HackPrinceton - Things get weird when you&#039;re 24+ hours in." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1191'> HackPrinceton &#8211; Things get weird when you&#8217;re 24+ hours in. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="360" src="/assets/img/article/2015-11-04-14.43.53.jpg" class="attachment-large size-large" alt="Messages from my co-workers for my 2-year anniversary at Linode." />
+<figcaption class='wp-caption-text gallery-caption' id='gallery-4-1107'> Messages from my co-workers for my 2-year anniversary at Linode. </figcaption></figure>
+
+<figure class='gallery-item'> 
+<img width="640" height="480" src="/assets/img/article/CWyBkJnVAAAN2Vi.jpg" class="attachment-large size-large" alt="Chris (CEO) took Linode to see Star Wars Episode VII." />
+<figcaption> Chris (CEO) took Linode to see Star Wars Episode VII. </figcaption></figure>
 
 [1]: https://feliciano.tech/blog/skills-needed-to-pursue-a-career-in-web-hosting-support/
 [2]: https://hackprinceton.com/

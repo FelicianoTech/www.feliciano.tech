@@ -14,7 +14,7 @@ tags:
   - X51
 
 ---
-<img class="aligncenter size-full wp-image-134" alt="Image of the Alienware X51 with Ubuntu" src="/assets/img/article/ubuntu-alienware-x51.jpg?resize=640%2C285&#038;ssl=1" srcset="https://i2.wp.com/feliciano.tech/wp-content/uploads/2013/04/ubuntu-alienware-x51.jpg?w=948&ssl=1 948w, https://i2.wp.com/feliciano.tech/wp-content/uploads/2013/04/ubuntu-alienware-x51.jpg?resize=300%2C134&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
+<img class="aligncenter size-full wp-image-134" alt="Image of the Alienware X51 with Ubuntu" src="/assets/img/article/ubuntu-alienware-x51.jpg" />
 
 Ubuntu made some great headway in 2012 and the excitement doesn&#8217;t seem to be over. Dell has announced that their gaming desktop, the Alienware X51 will now ship with Ubuntu as an option.<!--more-->
 
