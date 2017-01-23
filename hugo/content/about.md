@@ -17,7 +17,7 @@ U.S. Navy Cyber Warfare Sailor, Developer Evangelist at CircleCI, and recovering
 
 I'm a mix of developer, sys admin, product manager, and dreamer. With that being said, I'm still secretly waiting for the call to be picked up by the New York Mets as a starting shortstop (I did mention dreamer right?). Driven by my ever expanding skillset, competitiveness, and passion for open-source, design, and quality - Plan A for me, simply put, <strong>is to change the world</strong>.
 
-<p style="text-align: center;"><a class="button button-black" href="https://old.feliciano.tech/wp-content/uploads/2015/08/ricardo-n-feliciano-resume-public.pdf">Download Resume</a> <a class="button button-black" href="https://www.linkedin.com/in/ricardofeliciano">LinkedIn Profile</a></p>
+<p style="text-align: center;"><a class="button button-black" href="https://old.feliciano.tech/wp-content/uploads/2015/08/ricardo-n-feliciano-resume-public.pdf">Download Resume</a> <a class="button button-black" href="https://www.linkedin.com/in/ricardofeliciano" data-proofer-ignore>LinkedIn Profile</a></p>
 
 ## Developer Evangelism
 
@@ -51,4 +51,8 @@ I use a Linux desktop (Ubuntu) because I believe in the open-source movement. I 
 
 I admire people like Elon Musk who work everyday to advance mankind. Who give their everything to move the status quo forward.
 
-Want to chat with me about an event? Project? The Mets? Find me on Twitter <a href="https://twitter.com/FelicianoTech">@FelicianoTech</a>. Something more in depth? <a href="https://feliciano.tech/contact/">Send me a message</a>.
+Want to chat with me about an event? Project? The Mets? Find me on Twitter <a href="https://twitter.com/FelicianoTech">@FelicianoTech</a>. Something more in depth? [Send me a message][contact-link].
+
+
+
+[contact-link]: https://docs.google.com/forms/d/e/1FAIpQLSejIUSnOYaaca2WTXQYDqae54IdnCWg1c-PMXaSgPY6mN94Cw/viewform

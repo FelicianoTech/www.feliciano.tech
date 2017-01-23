@@ -19,7 +19,7 @@ tags:
 
 Like me, I&#8217;m sure there&#8217;s some of you who have more than one Google account. In my case, I have a personal Google/Gmail account I use, then a Google Apps account for business. Using Chromium profiles, I&#8217;m able to keep my bookmarks, tabs, saved fields, etc separate. Cool. However, when both profiles are open in different windows, Unity puts them into the same launcher. Not cool. Here&#8217;s how to fix that.<!--more--><figure id="attachment_230" style="width: 341px" class="wp-caption aligncenter">
 
-<figure><img class="size-full wp-image-230" src="/assets/img/article/two-windows-of-chromium.png?resize=341%2C215&#038;ssl=1" alt="Two Windows of Chromium" srcset="https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/06/two-windows-of-chromium.png?w=341&ssl=1 341w, https://i1.wp.com/feliciano.tech/wp-content/uploads/2013/06/two-windows-of-chromium.png?resize=300%2C189&ssl=1 300w" sizes="(max-width: 341px) 100vw, 341px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Unity grouping both instances of Chromium.</figcaption></figure> 
+<figure><img class="size-full wp-image-230" src="/assets/img/article/two-windows-of-chromium.png" alt="Two Windows of Chromium" /><figcaption class="wp-caption-text">Unity grouping both instances of Chromium.</figcaption></figure> 
 
 Chrome/Chromium has a command line flag that suppose to fix this issue for us called **&#8211;user-data-dir**. This is supposed to tell the browser which profile to load from. This does load the correct profile, but doesn&#8217;t fix the issue of Unity grouping together both browser instances.
 

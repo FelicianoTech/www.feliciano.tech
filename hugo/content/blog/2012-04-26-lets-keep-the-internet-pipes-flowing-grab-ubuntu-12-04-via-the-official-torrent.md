@@ -25,7 +25,7 @@ Let&#8217;s help Canonical out and well as our selves. Downloading the latest Ub
 
 Don&#8217;t forget to seed! Enjoy the release everyone 🙂
 
- [1]: http://ironpatriotny.com/wp-content/uploads/2012/04/ubuntu-12.04-desktop-i386.iso.torrent
- [2]: http://ironpatriotny.com/wp-content/uploads/2012/04/ubuntu-12.04-desktop-amd64.iso.torrent
- [3]: http://ironpatriotny.com/wp-content/uploads/2012/04/ubuntu-12.04-server-i386.iso.torrent
- [4]: http://ironpatriotny.com/wp-content/uploads/2012/04/ubuntu-12.04-server-amd64.iso.torrent
+[1]: http://old-releases.ubuntu.com/releases/precise/ubuntu-12.04-desktop-i386.iso.torrent
+[2]: http://old-releases.ubuntu.com/releases/precise/ubuntu-12.04-desktop-amd64.iso.torrent
+[3]: http://old-releases.ubuntu.com/releases/precise/ubuntu-12.04-server-i386.iso.torrent
+[4]: http://old-releases.ubuntu.com/releases/precise/ubuntu-12.04-server-amd64.iso.torrent

@@ -25,7 +25,7 @@ For a basic example, we&#8217;re going to build an AppIndicator that spits out a
 
 We utilize <a href="http://pokeapi.co" target="_blank">pokeapi.co</a> to pull in a random Pokemon from the site, instead of the Chuck Norris jokes from the original example.<figure id="attachment_1330" style="width: 600px" class="wp-caption aligncenter">
 
-<figure><a href="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/02/pokeball-icon-appindicator.png?ssl=1" rel="attachment wp-att-1330"><img class="size-medium wp-image-1330" src="https://i1.wp.com/feliciano.tech/wp-content/uploads/2016/02/pokeball-icon-appindicator.png?resize=600%2C400&#038;ssl=1" alt="Screenshot of custom Pokemon AppIndicator." data-recalc-dims="1" /></a><figcaption class="wp-caption-text">That pokeball up in the corner is our custom AppIndicator.</figcaption></figure> 
+<figure><img class="size-medium wp-image-1330" src="/assets/img/article/pokeball-icon-appindicator.png" alt="Screenshot of custom Pokemon AppIndicator." data-recalc-dims="1" /><figcaption class="wp-caption-text">That pokeball up in the corner is our custom AppIndicator.</figcaption></figure> 
 
 ## More Information & Discussion
 
