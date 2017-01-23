@@ -24,9 +24,9 @@ With the release of Ubuntu 12.04 LTS (which you can download [fast here][2]), co
 
 Download it, Try it out:
 
-<a title="Download Ubuntu GNOME Shell Remix 64-bit" href="http://www.demonoid.ph/files/download/2920303/" target="_blank">64-bit ISO (torrent)</a>
+64-bit ISO (torrent) - link no longer exists
 
-<a title="Download Ubuntu GNOME Shell Remix 32-bit" href="http://www.demonoid.ph/files/download/2920301/" target="_blank">32-bit ISO (torrent)</a>
+32-bit ISO (torrent) - link no longer exists
 
 or download via their site: <http://ubuntu-gs-remix.sourceforge.net/p/download/>.
 
