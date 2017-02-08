@@ -1,10 +1,10 @@
 [[events]]
 type       = "meetup"
-name       = "CI/CD For Documentation — Meetup Reboot"
-start_date = 2016-12-02T00:00:00Z
-end_date   = 2016-12-02T00:00:00Z
+name       = "Continuous Integration and Deployment For Documentation"
+start_date = 2017-02-27T18:30:00-05:00
+end_date   = 2017-02-27T19:45:00-05:00
 location   = "New York, NY"
-link       = "https://www.meetup.com/WriteTheDocsNYC/events/235610319/"
+link       = "https://www.meetup.com/WriteTheDocsNYC/events/237540081/"
 
 [[events]]
 type       = "meetup"
