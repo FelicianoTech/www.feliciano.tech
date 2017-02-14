@@ -9,7 +9,7 @@ tags:
   - wallpaper
 ---
 
-February 1st was my one year anniversary with [CircleCI][cci-site]. Looking back on the past year, I had a blast and I'm excited for what's coming up in the future for both CircleCI and myself. In celebration, this weekend I made a CircleCI wallpaper for my laptop that I'd like to share. You'll fine the preview below as well as links to the 16:9 version (for normal laptops) and a 16:10 version (I'm looking at you Apple).<!--more-->
+February 1st was my one year anniversary with [CircleCI][cci-site]. Looking back on the past year, I had a blast and I'm excited for what's coming up in the future for both CircleCI and myself. In celebration, this weekend I made a CircleCI wallpaper for my laptop that I'd like to share. You'll find the preview below as well as links to the 16:9 version (for normal laptops) and a 16:10 version (I'm looking at you Apple).<!--more-->
 
 {{< figure src="/assets/img/article/circleci-wallpaper-1-preview.png" caption="CircleCI Wallpaper #1" >}}
 
