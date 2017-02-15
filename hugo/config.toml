@@ -6,6 +6,8 @@ theme = "feliciano.tech-2016"
 googleAnalytics = "UA-66191620-1"
 disqusShortname = "felicianotechcom"
 
+enableEmoji = true
+
 
 SectionPagesMenu = "main"
 
