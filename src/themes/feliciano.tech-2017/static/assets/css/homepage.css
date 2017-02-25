@@ -1,0 +1,20 @@
+body.home{
+	background: linear-gradient(to bottom, #1C1C1C, rgba(0,0,0,0.0))
+	top/100% 15em no-repeat, #999999 url("/assets/img/blog-background-small.jpg") right bottom/cover no-repeat;
+	overflow: hidden;
+}
+	body.home > header{
+		background: none;
+	}
+
+	body.home #homepage-title{
+		position: absolute;
+		top: 50%;
+		margin: -1em auto 0;
+		width: 100%;
+		text-align: center;
+		color: #FFFFFF;
+		font-family: Parisienne, cursive, serif;
+		font-size: 8.0rem;
+		font-weight: 100;
+	}
