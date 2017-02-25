@@ -53,3 +53,19 @@ start_date = 2016-05-22T00:00:00Z
 end_date   = 2016-05-24T00:00:00Z
 location   = "Portland, OR"
 link       = "http://www.writethedocs.org/conf/na/2016/"
+
+[[events]]
+type       = "meetup"
+name       = "March Office Hours: Features & Benefits Coming With CircleCI 2.0"
+start_date = 2017-03-02T18:30:00-05:00
+end_date   = 2017-03-02T19:45:00-05:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/circleci-office-hours-nyc/events/237768776/"
+
+[[events]]
+type       = "meetup"
+name       = "DevOps Wall Street: Enabling Agile Culture Shift In Highly Regulated Industries."
+start_date = 2017-03-03T08:00:00-05:00
+end_date   = 2017-03-03T17:00:00-05:00
+location   = "New York, NY"
+link       = "http://devopsnyc.co/"
