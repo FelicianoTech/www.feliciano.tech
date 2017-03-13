@@ -69,3 +69,11 @@ start_date = 2017-03-03T08:00:00-05:00
 end_date   = 2017-03-03T17:00:00-05:00
 location   = "New York, NY"
 link       = "http://devopsnyc.co/"
+
+[[events]]
+type       = "meetup"
+name       = "Continuous Integration and Deployment For Documentation"
+start_date = 2017-03-27T18:30:00-05:00
+end_date   = 2017-03-27T19:45:00-05:00
+location   = "Philadelphia, PA"
+link       = "https://www.meetup.com/WriteTheDocsPHL/events/238320868/"
