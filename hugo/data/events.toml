@@ -77,3 +77,19 @@ start_date = 2017-03-27T18:30:00-05:00
 end_date   = 2017-03-27T19:45:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://www.meetup.com/WriteTheDocsPHL/events/238320868/"
+
+[[events]]
+type       = "conference"
+name       = "Community Leadership Summit 2017"
+start_date = 2017-05-06T18:30:00-05:00
+end_date   = 2017-05-07T19:45:00-05:00
+location   = "Austin, TX"
+link       = "http://www.communityleadershipsummit.com/"
+
+[[events]]
+type       = "conference"
+name       = "Write the Docs Portland 2017"
+start_date = 2017-05-13T18:30:00-05:00
+end_date   = 2017-05-16T19:45:00-05:00
+location   = "Portland, OR"
+link       = "http://www.writethedocs.org/conf/na/2017/"
