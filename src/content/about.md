@@ -2,7 +2,7 @@
 title: "About"
 menu:
   main:
-    weight: 2
+    weight: 30
 ---
 
 > Plan B is for people who don't have the confidence in Plan A. It’s a constant reminder that you don't want it as bad as you want to breathe. --W.S.
