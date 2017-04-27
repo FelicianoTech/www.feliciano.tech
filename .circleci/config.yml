@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.20.2
+      - image: felicianotech/docker-hugo:0.20.6
     working_directory: ~/feliciano.tech
     steps:
       - checkout
