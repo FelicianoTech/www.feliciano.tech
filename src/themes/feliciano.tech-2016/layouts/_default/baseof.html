@@ -12,6 +12,7 @@
 	{{ if (getenv "HUGO_ENV") eq "production" }}
 		{{ template "_internal/google_analytics.html" . }}
 	{{ end }}
+	<link href="/blog/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 </head>
 <body class="{{ if .IsHome }}home{{ end }}">
 	{{ partial "header" . }}
