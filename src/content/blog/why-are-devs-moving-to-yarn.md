@@ -7,7 +7,7 @@ tags:
   - Engineering
 ---
 
-{{< figure src="/assets/img/article/yarn-logo.png" class="aligncenter" >}}
+{{< figure src="/assets/img/article/yarn-logo.png" class="aligncenter" alt="Yarn logo" >}}
 
 The JavaScript world changes every second. To say a lot has happened in the past year would be an understatement. Among those changes was that [Angular2 was released][angular-post], [Node.js 7.0.0 was released][nodejs-post], and the feature set for [ECMAScript 2016 (ES7)][ecma-post] was finalized. In October 2016, Facebook, Exponent, Google, and Tilde released something unexpected, an [npm][npm-link] replacement they dubbed [Yarn][yarn-site].
 
@@ -59,7 +59,7 @@ Switching from npm to Yarn is painless since they're compatible. We first wrote 
 
 ## npm to Yarn Cheatsheet
 
-{{< figure src="/assets/img/article/yarn-cheatsheet.png" class="aligncenter" >}}
+{{< figure src="/assets/img/article/yarn-cheatsheet.png" class="aligncenter" alt="npm to Yarn cheatsheet">}}
 
 ## Summary
 
