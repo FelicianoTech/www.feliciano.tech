@@ -2,16 +2,16 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.21
-    working_directory: ~/feliciano.tech
+      - image: felicianotech/docker-hugo:0.22.1
+    working_directory: ~/project
     steps:
       - checkout
       - run:
           name: "Run Hugo"
-          command: HUGO_ENV=production hugo -v -s ~/feliciano.tech/src/
+          command: HUGO_ENV=production hugo -v -s src/
       - run:
           name: "Test Website"
-          command: htmlproofer ~/feliciano.tech/src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external | tee $CIRCLE_ARTIFACTS/htmlproofer-results.txt; exit ${PIPESTATUS[0]}
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - add_ssh_keys
       - deploy:
           command: |
