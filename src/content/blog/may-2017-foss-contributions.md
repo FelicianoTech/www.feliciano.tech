@@ -7,7 +7,7 @@ categories: foss
 
 Continuing my [new blog series][1], here's my May 2017 contributions.
 
-[1]: /blog/january-2017-foss-contributions/
+[1]: /blog/january-2019-foss-contributions/
 
 ---
 
