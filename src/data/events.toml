@@ -77,3 +77,11 @@ start_date = 2017-03-27T18:30:00-05:00
 end_date   = 2017-03-27T19:45:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://www.meetup.com/WriteTheDocsPHL/events/238320868/"
+
+[[events]]
+type       = "meetup"
+name       = "Notes and Scribbles - What counts as documentation?"
+start_date = 2017-06-20T18:30:00-04:00
+end_date   = 2017-06-20T19:45:00-04:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/WriteTheDocsNYC/events/240583297/"
