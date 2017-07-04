@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="single">
+	<article id="{{ .UniqueID }}">
+		<header>
+			<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+			<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ dateFormat "January 2, 2006"  .Date }}</time></span>
+		</header>
+		{{ if .Params.feature }}
+			<div class="feature"><img src="/assets/img/feature/{{ .Params.feature }}" /></div>
+		{{ end }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+	</article>
+	{{ if (getenv "HUGO_ENV") eq "production" }}
+		{{ template "_internal/disqus.html" . }}
+	{{ end }}
+</main>
+{{ end }}

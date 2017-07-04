@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main class="list">
+	{{ range (.Paginate (.Data.Pages.ByDate.Reverse)).Pages }}
+		<article id="{{ .UniqueID }}">
+			<header>
+				<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+				<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ dateFormat "January 2, 2006"  .Date }}</time></span>
+			</header>
+			<div class="content">
+				{{ .Summary }}
+				{{ if .Truncated }}
+					<a class="more-link" href="{{ .RelPermalink }}">continue&nbsp;reading&nbsp;→</a>
+				{{ end }}
+			</div>
+			<footer>
+				<a class="comment" href="{{ .Permalink}}#disqus_thead">Leave a comment</a>
+			</footer>
+		</article>
+	{{ end }}
+	{{ partial "pager" . }}
+</main>
+{{ end }}
