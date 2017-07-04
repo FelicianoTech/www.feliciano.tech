@@ -12,7 +12,7 @@ tags:
   - nexus
   - Nexus 6p
   - NexusStudio
-
+feature: "2015-nexus-event.jpg"
 ---
 A couple of weeks ago I received a mysterious invite from Google via Twitter inviting me to a #NexusStudio event. I happily RSVPed and didn&#8217;t regret it one bit.<!--more-->
 

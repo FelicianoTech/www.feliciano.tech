@@ -12,7 +12,7 @@ tags:
   - testing
   - ubuntu
   - ubuntu-snappy-core
-
+feature: "linode-ubuntu-snappy-core.png"
 ---
 When I first heard of Ubuntu Snappy Core I was immediately intrigued. Dual file systems, new package manager, the ability to roll-back updates, what in the world was Canonical up to? I had to find it out for myself.
 

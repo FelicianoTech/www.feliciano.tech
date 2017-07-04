@@ -13,7 +13,7 @@ tags:
   - nyc
   - philly
   - release-party
-
+feature: "drupal-8-cake.jpg"
 ---
 This is a bit late, but I had the pleasure of attending two different release parties for Drupal 8 back in November.
 

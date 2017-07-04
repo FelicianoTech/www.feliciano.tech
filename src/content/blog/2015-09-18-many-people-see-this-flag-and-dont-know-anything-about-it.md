@@ -12,7 +12,7 @@ tags:
   - mia
   - nation
   - pow
-
+feature: "pow-flag.png"
 ---
 This is the U.S. Prisoner of War (POW)/Missing in Action flag. As explained on <a href="https://en.wikipedia.org/wiki/POW/MIA_flag" target="_blank">Wikipedia</a>:
 
