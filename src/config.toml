@@ -21,3 +21,6 @@ enableEmoji = true
 	name	= "Blog"
 	url		= "/blog/"
 	weight	= 10
+
+[social]
+	twitter = "FelicianoTech"
