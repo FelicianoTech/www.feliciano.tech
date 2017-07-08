@@ -14,6 +14,7 @@
 	<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
 	<meta name="description" content="Linodians Docs is a website providing documentation, tutorials, and guides for Linode tools and Linux server applications." />
 	<meta name="keywords" content="linode, linux, server, docs, documentation, web serer, apache, nginx, ubuntu, debian, centos" />
+	{{ partial "open-graph" . }}
 	{{ partial "head-verifications" . }}
 </head>
 <body class="{{ if .IsHome }}home {{ end }}{{ if .Section }}section-{{ .Section }}{{ end }}">
