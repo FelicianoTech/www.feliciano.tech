@@ -6,7 +6,7 @@
 			<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ dateFormat "January 2, 2006"  .Date }}</time></span>
 		</header>
 		{{ if .Params.feature }}
-			<div class="feature"><img src="/assets/img/feature/{{ .Params.feature }}" /></div>
+			<div class="feature"><img src="/assets/img/feature/{{ .Params.feature }}" alt="" /></div>
 		{{ end }}
 		<div class="content">
 			{{ .Content }}

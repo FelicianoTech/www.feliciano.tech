@@ -13,7 +13,7 @@ tags:
   - developer-evangelist
   - linode
   - support
-
+feature: "leaving-linode.jpg"
 ---
 As 2015 ended, so did my career with Linode. Surprisingly rewarding, and oh what a ride. Leaving is never easy, but there are new adventures ahead.
 

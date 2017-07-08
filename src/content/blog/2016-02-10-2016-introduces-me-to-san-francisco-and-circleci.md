@@ -12,7 +12,7 @@ tags:
   - circleci
   - moving
   - san-francisco
-
+feature: "san-francisco-lands-end.jpg"
 ---
 The last week of January was very interesting for me. After <a href="https://feliciano.tech/blog/leaving-linode-best-job-ive-yet/" target="_blank">resigning from my position</a> at Linode, I packed up everything I had and drove from Atlantic City all the way west to San Francisco. 2016 introduces me to a new job and a new city and I&#8217;m so ready for it.<!--more-->
 

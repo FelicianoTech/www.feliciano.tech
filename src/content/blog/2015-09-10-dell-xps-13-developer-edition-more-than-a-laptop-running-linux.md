@@ -10,7 +10,7 @@ categories:
   - Ubuntu
 tags:
   - xps-13
-
+feature: "xps-13-first-boot.png"
 ---
 As a Developer Evangelist, I tend to travel. Frequently. I recently decided to retire my lovely Sony VAIO Z3 laptop and purchase something with a more recent CPU (more battery life). I narrowed my search down to the Lenovo X250, Lenovo X1 Carbon, Dell XPS 13, Chromebook Pixel 2, or figure out how to import a new VAIO Z from Japan. Unfortunately importing seemed more work than it was worth.
 
@@ -28,7 +28,7 @@ I&#8217;m a very big fan of Linux and Ubuntu. Like many others I install it afte
 
 With Project Sputnik, Dell has managed to take the craftsmanship that is reserved for high-end Windows PCs and Macbook Pros and bring it to Linux developers. They have finally acknowledged that Linux people like nice things too. Our money is just as good as anybody else&#8217;s. Also, Dell put so much love into the Developer Edition, that they actually created a unique and totally awesome first-boot video.
 
-
+{{< youtube apx_HyxFqjA >}}
 
 Dell, thank you for bringing three generations of the XPS 13 to developers like me. Thank you for showing your support for Linux, for Ubuntu, and for open-source software. Honestly, thank you for a sexy laptop, it&#8217;s just great.
 

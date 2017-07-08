@@ -11,7 +11,7 @@ tags:
   - meetups
   - wtd
   - wtdnyc
-
+feature: "writethedocs-nyc.jpg"
 ---
 In May of this year, I attended the [Write the Docs conference][1] in Portland for the first time. It was an enjoyable experience and my most favorite conference to date. You can read about my experience [here][2]. I said at the end of that blog post that I was so inspired that I&#8217;d start a local meetup for Write the Docs in New York City. Half a year later, I have finally done so.<!--more-->
 

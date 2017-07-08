@@ -7,7 +7,6 @@ dsq_thread_id:
   - 4470135106
 categories:
   - Miscellaneous
-
 ---
 Happy New Year everyone!
 
@@ -15,16 +14,6 @@ To start off 2016 right, I made two changes to this website. First, I switched o
 
 Second, I dumped my StartSSL certificate that I purchased earlier this year from NameCheap in favor of a certificate from <a href="https://letsencrypt.org/" target="_blank">Let&#8217;s Encrypt</a>. I believe ALL websites should be running HTTPS and I&#8217;ve <a href="https://feliciano.tech/blog/10-tips-on-running-https-websites-always-on-ssl/" target="_blank">written about it before</a>. Fortunately, many people and companies had the same belief and formed Let&#8217;s Encrypt, a free certificate authority (CA) for everyone to use. They <a href="https://twitter.com/letsencrypt/status/684221075966705664" target="_blank">recently announced</a> their 250,000th certificate issued, with this site now being in the mix.
 
-<blockquote class="twitter-tweet" width="550">
-  <p lang="en" dir="ltr">
-    Just issued our 250,000th certificate!
-  </p>
-  
-  <p>
-    &mdash; Let's Encrypt (@letsencrypt) <a href="https://twitter.com/letsencrypt/status/684221075966705664">January 5, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 684221075966705664 >}}
 
 Stay tuned to **<a href="https://Feliciano.Tech/blog" target="_blank">Feliciano.Tech/blog</a>** for future posts!

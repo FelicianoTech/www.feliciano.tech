@@ -10,7 +10,7 @@ categories:
 tags:
   - docs
   - writing
-
+feature: "write-the-docs.png"
 ---
 * * *
 
