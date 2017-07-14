@@ -1,4 +1,4 @@
-baseurl = "https://Feliciano.tech/"
+baseurl = "https://Feliciano.Tech/"
 title = "Feliciano.Tech"
 languageCode = "en-us"
 theme = "feliciano.tech-2017"
@@ -7,7 +7,6 @@ googleAnalytics = "UA-66191620-1"
 disqusShortname = "felicianotechcom"
 
 enableEmoji = true
-
 
 [blackfriday]
 	hrefTargetBlank	=	true
@@ -20,6 +19,11 @@ enableEmoji = true
 [[menu.main]]
 	name	= "Blog"
 	url		= "/blog/"
+	weight	= 5
+
+[[menu.main]]
+	name	= "Projects"
+	url		= "/projects/"
 	weight	= 10
 
 [social]

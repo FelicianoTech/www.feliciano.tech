@@ -3,7 +3,7 @@ title: "Contact Me"
 menu:
   main:
     name: "Contact"
-    weight: 40
+    weight: 25
 ---
 
 <form action="https://formspree.io/ricardo@feliciano.tech" method="POST">
