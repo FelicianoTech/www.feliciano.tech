@@ -259,6 +259,72 @@ main article{
 }
 
 
+/* Section - Projects */
+body.section-projects .project{
+	display: flex;
+	align-items: flex-start;
+	position: relative;
+	margin-top: 20px;
+	border: solid 1px #000000;
+	background-color: #1C1C1C;
+}
+	body.section-projects .project:1st-child{
+		margin-top: 0;
+	}
+
+	body.section-projects .project:nth-child(odd){
+		flex-direction: row-reverse;
+	}
+
+	body.section-projects .project img{
+		width: 50%;
+	}
+
+	body.section-projects .project .content{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		position: absolute;
+		top: 0; bottom: 0;
+		padding: 10px 20px;
+		width: 50%;
+		color: #FFFFFF;
+	}
+		body.section-projects .project:nth-child(even) .content{
+			right: 0;
+		}
+
+		body.section-projects .project:nth-child(odd) .content{
+			left: 0;
+		}
+
+		body.section-projects .project h2{
+			margin: 0;
+		}
+
+		body.section-projects .project a{
+			color: #FFFFFF;
+			text-decoration: none;
+		}
+
+		body.section-projects .project p{
+			margin: 5px 0 0;
+			line-height: 1.2;
+			vertical-align: middle;
+		}
+
+		body.section-projects .project .metadata{
+			height: 30px;
+			line-height: 30px;
+		}
+			body.section-projects .project .project-type{
+				float: right;
+				border-radius: 5px;
+				background-color: #800000;
+				padding: 0 8px;
+			}
+
+
 
 /************************************************
  * Elements

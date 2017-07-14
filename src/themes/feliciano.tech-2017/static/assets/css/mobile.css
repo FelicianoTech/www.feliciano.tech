@@ -1,10 +1,20 @@
-/* Rules without a media query present take affect when the webpage is 1,000px% or
+/* Rules without a media query present take affect when the webpage is 1,100px or
 less. */
 
+
+main{
+	margin: 0 9%;
+}
+
+
 /************************************************
- * <= 700px width
+ * <= 900px width
  * *********************************************/
-@media(max-width: 700px){
+@media(max-width: 900px){
+
+	main{
+		margin: 0 5%
+	}
 
 	body > header div.social-icons{
 		display: none;
@@ -32,19 +42,50 @@ less. */
 			display: list-item;
 		}
 
+	body.section-projects .project .content{
+		padding: 5px 10px;
+	}
+}
+
+
+/************************************************
+ * <= 700px width
+ * *********************************************/
+@media(max-width: 700px){
+
 	main{
-		margin: 0 5%;
+		margin: 0 2%;
 	}
 
 	body.home #homepage-title{
 		font-size: 4.0rem;
 	}
+
+	body.section-projects .project{
+		display: block;
+		position: static;
+	}
+		body.section-projects .project img{
+			display: block;
+			width: 100%;
+		}
+
+		body.section-projects .project .content{
+			position: static;
+			padding: 10px 20px;
+			width: 100%;
+		}
 }
 
+
 /************************************************
- * <= 375px width
+ * <= 400px width
  * *********************************************/
 @media(max-width: 400px){
+
+	main{
+		margin: 0;
+	}
 
 	body > header .site-title{
 		font-size: 1.6rem;
