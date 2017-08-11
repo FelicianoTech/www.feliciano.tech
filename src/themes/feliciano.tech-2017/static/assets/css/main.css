@@ -336,8 +336,8 @@ body.section-projects .project{
 	margin: 2px;
 	background: linear-gradient(#45484d, #111111);
 	padding: 8px 20px;
-	color: #FFFFFF;
-	text-decoration: none;
+	color: #FFFFFF !important;
+	text-decoration: none !important;
 }
 	.button:hover{
 		background: #111111;
