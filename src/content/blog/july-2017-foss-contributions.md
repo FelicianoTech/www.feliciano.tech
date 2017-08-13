@@ -1,7 +1,7 @@
 ---
 title: July 2017 FOSS Contributions
 author: FelicianoTech
-date: 2017-07-08T09:00:00-04:00
+date: 2017-08-13T09:00:00-04:00
 categories: foss
 ---
 
