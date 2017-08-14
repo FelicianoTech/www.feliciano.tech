@@ -10,10 +10,10 @@
 			<p>{{ .Description }}</p>
 			<div class="metadata">
 				<span class="project-type">{{ .Params.ProjectType }}</span>
-				{{ if .Params.github }}<a href="{{ .Params.github }}"><i class="fa fa-github"></i></a>{{ end }}
-				{{ if .Params.DockerHub }}<a href="{{ .Params.DockerHub }}"><i class="fa fa-ship"></i></a>{{ end }}
-				{{ if .Params.website }}<a href="{{ .Params.website }}"><i class="fa fa-globe"></i></a>{{ end }}
-				{{ if .Params.ChromeStore }}<a href="{{ .Params.ChromeStore }}"><i class="fa fa-chrome"></i></a>{{ end }}
+				{{ if .Params.github }}<a href="{{ .Params.github }}" target="_blank"><i class="fa fa-github"></i></a>{{ end }}
+				{{ if .Params.DockerHub }}<a href="{{ .Params.DockerHub }}" target="_blank"><i class="fa fa-ship"></i></a>{{ end }}
+				{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank"><i class="fa fa-globe"></i></a>{{ end }}
+				{{ if .Params.ChromeStore }}<a href="{{ .Params.ChromeStore }}" target="_blank"><i class="fa fa-chrome"></i></a>{{ end }}
 			</div>
 		</div>
 	</div>
