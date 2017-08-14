@@ -7,6 +7,7 @@ ProjectType: "Software" #allows filtering in Projects page. Should be one of "So
 website: "https://x.x" #Full Website URL
 github: "https://github.com/x/x" #Full GitHub URL
 DockerHub: "https://hub.docker.com/r/x/x/" #Full Docker Hub URL
+ChromeStore: "https://chrome.google.com/webstore/detail/x/x" #Replace with Chrome Store URL
 ---
 
 Longform description of what the project is.
