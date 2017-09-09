@@ -12,13 +12,7 @@ tags:
   - writing
 feature: "write-the-docs.png"
 ---
-* * *
-
-<p style="text-align:center">
-  This was originally posted on the <a href="https://circleci.com/blog/write-the-docs-2016-recap/">CircleCI Blog</a>
-</p>
-
-* * *
+{{< repost name="The CircleCI Blog" url="https://circleci.com/blog/write-the-docs-2016-recap/" >}}
 
 In the end of May, I attended [Write the Docs (WTD) 2016][1] in Portland, and what a conference it was. While I didn&#8217;t make it on Saturday for the hike, I think it&#8217;s awesome that a conference has a group hike together. That was a sort of foreshadowing of the type of people and conference this turned out to be.
 
