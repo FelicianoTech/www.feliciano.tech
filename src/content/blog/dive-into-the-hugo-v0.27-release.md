@@ -55,10 +55,10 @@ Due to support for chaining multiple configuration files landing in [Viper](http
 
 ### Via Download
 
-- Deb: <https://github.com/gohugoio/hugo/releases/download/v0.27/hugo_0.27_Linux-64bit.deb>
-- Linux Tarball: <https://github.com/gohugoio/hugo/releases/download/v0.27/hugo_0.27_Linux-64bit.tar.gz>
-- macoS Tarball: <https://github.com/gohugoio/hugo/releases/download/v0.27/hugo_0.27_macOS-64bit.tar.gz>
-- Windows Zip: <https://github.com/gohugoio/hugo/releases/download/v0.27/hugo_0.27_Windows-64bit.zip>
+- Deb: <https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.deb>
+- Linux Tarball: <https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Linux-64bit.tar.gz>
+- macoS Tarball: <https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_macOS-64bit.tar.gz>
+- Windows Zip: <https://github.com/gohugoio/hugo/releases/download/v0.27.1/hugo_0.27.1_Windows-64bit.zip>
 
 ### Via Docker
 
@@ -74,7 +74,7 @@ More options are available on the [GitHub Release Page](https://github.com/gohug
 ## More Information
 
 - **[Release Post](https://gohugo.io/news/0.27-relnotes/)** - Official Hugo release blog post.
-- **[GitHub Release Page](https://github.com/gohugoio/hugo/releases/tag/v0.27)** - Release page and additional download links from GitHub.
+- **[GitHub Release Page](https://github.com/gohugoio/hugo/releases/tag/v0.27.1)** - Release page and additional download links from GitHub.
 - **[Hugo Forum](https://discourse.gohugo.io/)** - Hugo's Discourse forum.
 - **[Hugo Docs](https://gohugo.io/documentation/)** - Hugo's Documentation website.
 - **[Build, Test, Deploy a Hugo Website](https://circleci.com/blog/build-test-deploy-hugo-sites/)** - Learn how to build, test, and deploy a Hugo generated website with [CircleCI](https://circleci.com) and [Docker Hugo](https://feliciano.tech/blog/introducing-docker-hugo/).
