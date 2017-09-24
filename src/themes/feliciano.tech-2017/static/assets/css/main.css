@@ -245,6 +245,8 @@ main article{
 	}
 
 	main article footer{
+		border-top: 1px solid #000000;
+		border-bottom: 1px solid #000000;
 		overflow: auto;
 	}
 		main article footer a{
@@ -253,6 +255,11 @@ main article{
 			main article footer a.comment{
 				float: right;
 			}
+
+		body.section-blog article footer iframe{
+			vertical-align: middle;
+		}
+
 
 #disqus_thread {
 	margin: 3em 14% 2em;
