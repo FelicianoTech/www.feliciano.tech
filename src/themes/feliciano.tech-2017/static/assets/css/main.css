@@ -178,7 +178,11 @@ main form{
 	}
 
 main h1,
-main h1 a{
+main h2,
+main h3,
+main h1 a,
+main h2 a,
+main h3 a{
 	color: #333333;
 }
 
@@ -225,6 +229,11 @@ main article{
 		main article h1{
 			margin: 0;
 			font-size: 4.0rem;
+		}
+
+		body.section-blog main.list article h2{
+			margin: 0;
+			font-size: 3.4rem;
 		}
 
 	main article .feature{

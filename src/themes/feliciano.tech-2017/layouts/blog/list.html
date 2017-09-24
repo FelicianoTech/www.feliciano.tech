@@ -1,9 +1,11 @@
 {{ define "main" }}
 <main class="list">
+	<h1>{{ .Title }}</h1>
+	{{ if .Content }}<div class="content-body">{{ .Content }}</div>{{ end }}
 	{{ range (.Paginate (.Data.Pages.ByDate.Reverse)).Pages }}
 		<article id="{{ .UniqueID }}">
 			<header>
-				<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 				<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ dateFormat "January 2, 2006"  .Date }}</time></span>
 			</header>
 			<div class="content">
