@@ -244,10 +244,12 @@ main article{
 		font-weight: bold;
 	}
 
-	main article footer{
+	main.list article footer{
+		overflow: auto;
+	}
+	main.single article footer{
 		border-top: 1px solid #000000;
 		border-bottom: 1px solid #000000;
-		overflow: auto;
 	}
 		main article footer a{
 			font-weight: bold;
