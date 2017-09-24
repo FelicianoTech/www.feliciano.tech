@@ -2,8 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.27.1
-    working_directory: ~/project
+      - image: cibuilds/hugo:0.27.1
     steps:
       - checkout
       - run:
