@@ -12,7 +12,7 @@ Continuing my [new blog series][1], here's this month's open-source contribution
 
 ---
 
-- Lean Launch Page: Released a new [Hugo](hugo) theme called Lean Launch Page. - <https://github.com/felicianotech/hugo-theme-lean-launch-page>
+- Lean Launch Page: Released a new [Hugo][hugo] theme called Lean Launch Page. - <https://github.com/felicianotech/hugo-theme-lean-launch-page>
 - [Hugo][hugo]: Issue on YAML data files not unmarshalling correctly when the root node is a YAML sequence/list. - <https://gohugo.io/>
 - mikefarah/yaml: Issue on supporting `--version`. It was implemented. - <https://github.com/mikefarah/yaml/issues/24>
 - GitHub Corners: Continuing my campaigning of fixing misspellings of the word `GitHub` around the Internet. - <https://github.com/tholman/github-corners/pull/33>
