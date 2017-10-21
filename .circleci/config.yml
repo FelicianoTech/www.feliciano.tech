@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:0.29
+      - image: cibuilds/hugo:0.30.2
     steps:
       - checkout
       - run:
