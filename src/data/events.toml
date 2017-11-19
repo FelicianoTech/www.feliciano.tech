@@ -85,3 +85,27 @@ start_date = 2017-06-20T18:30:00-04:00
 end_date   = 2017-06-20T19:45:00-04:00
 location   = "New York, NY"
 link       = "https://www.meetup.com/WriteTheDocsNYC/events/240583297/"
+
+[[events]]
+type       = "paint-party"
+name       = "Night of Acrylics at Corner Tavern"
+start_date = 2017-11-29T19:00:00-05:00
+end_date   = 2017-11-29T21:00:00-05:00
+location   = "Galloway, NJ"
+link       = "https://nightofacrylics.com/events/e171129082051/"
+
+[[events]]
+type       = "meetup"
+name       = "Working With Workflows"
+start_date = 2017-12-05T18:30:00-05:00
+end_date   = 2017-06-20T20:30:00-05:00
+location   = "San Francisco, CA"
+link       = "https://www.meetup.com/CircleCI-Office-Hours/events/245068757/"
+
+[[events]]
+type       = "paint-party"
+name       = "Night of Acrylics at JD's Pub & Grille"
+start_date = 2017-12-12T19:00:00-05:00
+end_date   = 2017-12-12T21:00:00-05:00
+location   = "Galloway, NJ"
+link       = "https://nightofacrylics.com/events/e171212082051/"
