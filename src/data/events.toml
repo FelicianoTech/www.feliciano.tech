@@ -95,12 +95,12 @@ location   = "Galloway, NJ"
 link       = "https://nightofacrylics.com/events/e171129082051/"
 
 [[events]]
-type       = "meetup"
-name       = "Working With Workflows"
-start_date = 2017-12-05T18:30:00-05:00
-end_date   = 2017-06-20T20:30:00-05:00
-location   = "San Francisco, CA"
-link       = "https://www.meetup.com/CircleCI-Office-Hours/events/245068757/"
+type       = "seminar"
+name       = "MICRO-LOANS: WHAT ARE THEY AND HOW DO I APPLY FOR ONE"
+start_date = 2017-12-07T19:10:00-05:00
+end_date   = 2017-12-07T21:12:00-05:00
+location   = "Atlantic City, NJ"
+link       = "https://www.eventbrite.com/e/micro-loans-what-are-they-and-how-do-i-apply-for-one-tickets-39297571093"
 
 [[events]]
 type       = "paint-party"
