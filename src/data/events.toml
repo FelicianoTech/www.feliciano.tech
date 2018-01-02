@@ -109,3 +109,35 @@ start_date = 2017-12-12T19:00:00-05:00
 end_date   = 2017-12-12T21:00:00-05:00
 location   = "Galloway, NJ"
 link       = "https://nightofacrylics.com/events/e171212082051/"
+
+[[events]]
+type       = "meetup"
+name       = "South Jersey Linux User Group January Meetup"
+start_date = 2018-01-02T16:00:00-05:00
+end_date   = 2018-01-02T18:00:00-05:00
+location   = "Galloway, NJ"
+link       = "https://twitter.com/sjlug/status/948249181239566337"
+
+[[events]]
+type       = "paint-party"
+name       = "Night of Acrylics at JD's Pub & Grille"
+start_date = 2018-02-01T19:00:00-05:00
+end_date   = 2018-02-01T21:00:00-05:00
+location   = "Galloway, NJ"
+link       = "https://nightofacrylics.com/events/e180201082051/"
+
+[[events]]
+type       = "meetup"
+name       = "Talk: Community Management for Docs on GitHub"
+start_date = 2018-01-16T18:30:00-05:00
+end_date   = 2018-01-16T19:45:00-05:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/WriteTheDocsNYC/events/246419891/"
+
+[[events]]
+type       = "seminar"
+name       = "Snapcraft Seminar"
+start_date = 2018-01-28T18:00:00-05:00
+end_date   = 2018-02-03T10:00:00-05:00
+location   = "Seattle, WA"
+link       = "https://snapcraft.io/"
