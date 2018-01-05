@@ -129,8 +129,8 @@ link       = "https://nightofacrylics.com/events/e180201082051/"
 [[events]]
 type       = "meetup"
 name       = "Talk: Community Management for Docs on GitHub"
-start_date = 2018-01-16T18:30:00-05:00
-end_date   = 2018-01-16T19:45:00-05:00
+start_date = 2018-01-17T18:30:00-05:00
+end_date   = 2018-01-17T19:45:00-05:00
 location   = "New York, NY"
 link       = "https://www.meetup.com/WriteTheDocsNYC/events/246419891/"
 
