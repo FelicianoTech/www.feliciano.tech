@@ -43,7 +43,7 @@ I get the privilege to speak to computer science &amp; programming classes at sc
 
 <img class="alignleft wp-image-368" src="/assets/img/article/388959_142530225862217_1467313439_n-480x600.jpg" alt="Official Military Photo" width="300" height="375" />
 
-## <del>Being Freaking Awesome</del> Citizen Evangelism
+## ~~Being Freaking Awesome~~ Citizen Evangelism
 
 I'm a big believer in being the change you want to see in the world.
 
@@ -51,7 +51,7 @@ I use a Linux desktop (Ubuntu) because I believe in the open-source movement. I 
 
 I admire people like Elon Musk who work everyday to advance mankind. Who give their everything to move the status quo forward.
 
-Want to chat with me about an event? Project? The Mets? Find me on Twitter <a href="https://twitter.com/FelicianoTech">@FelicianoTech</a>. Something more in depth? [Send me a message][contact-link].
+Want to chat with me about an event? Project? The Awesome Mets? Find me on Twitter <a href="https://twitter.com/FelicianoTech">@FelicianoTech</a>. Something more in depth? [Send me a message][contact-link].
 
 
 
