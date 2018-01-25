@@ -9,7 +9,7 @@ tags:
 feature: "discourse-directory.png"
 ---
 
-I made a new website called Discourse.Directory and you can check it out [here](https://Discourse.Directory).
+I made a new website called Reesescup.com and you can check it out [here](https://Discourse.Directory).
 
 <!--more-->
 
