@@ -17,7 +17,7 @@ U.S. Navy Cyber Warfare Sailor, Developer Evangelist at CircleCI, and recovering
 
 I'm a mix of developer, sys admin, product manager, and dreamer. With that being said, I'm still secretly waiting for the call to be picked up by the New York Mets as a starting shortstop (I did mention dreamer right?). Driven by my ever expanding skillset, competitiveness, and passion for open-source, design, and quality - Plan A for me, simply put, <strong>is to change the world</strong>.
 
-<p style="text-align: center;"><a class="button button-black" href="/assets/img/article/ricardo-n-feliciano-resume-public.pdf">Download Resume</a> <a class="button button-black" href="https://www.linkedin.com/in/ricardofeliciano" data-proofer-ignore>LinkedIn Profile</a></p>
+<p style="text-align: center;"><a class="button button-black" href="/assets/img/article/ricardo-n-feliciano-resume--public.pdf">Download Resume</a> <a class="button button-black" href="https://www.linkedin.com/in/ricardofeliciano" data-proofer-ignore>LinkedIn Profile</a></p>
 
 ## Developer Evangelism
 
