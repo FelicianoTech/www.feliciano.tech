@@ -12,7 +12,7 @@ Continuing my [new blog series][1], here's my open-source contributions for this
 
 ---
 
-- Launched <MassShootings.US> - <https://github.com/felicianotech/massshootings.us>
+- Launched <https://MassShootings.US> - <https://github.com/felicianotech/massshootings.us>
 - [Hugo][hugo]: Added `.Site.IsServer` as a variable. - <https://github.com/gohugoio/hugo/pull/4541>
 - [CI Builds](https://github.com/cibuilds/): Added the `jq` tool to the base image. - <https://github.com/cibuilds/base/pull/6>
 
