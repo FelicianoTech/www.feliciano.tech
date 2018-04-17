@@ -141,3 +141,11 @@ start_date = 2018-01-28T18:00:00-05:00
 end_date   = 2018-02-03T10:00:00-05:00
 location   = "Seattle, WA"
 link       = "https://snapcraft.io/"
+
+[[events]]
+type       = "event"
+name       = "TIDE NYC: Simplicity at Scale"
+start_date = 2018-04-24T12:30:00-04:00
+end_date   = 2018-04-24T19:00:00-04:00
+location   = "New York, NY"
+link       = "https://tidenyc.splashthat.com/"
