@@ -133,3 +133,11 @@ start_date = 2018-01-28T18:00:00-05:00
 end_date   = 2018-02-03T10:00:00-05:00
 location   = "Seattle, WA"
 link       = "https://snapcraft.io/"
+
+[[events]]
+type       = "meetup"
+name       = "IoT CI/CD + Hack Night"
+start_date = 2018-05-17T18:00:00-05:00
+end_date   = 2018-05-17T21:00:00-05:00
+location   = "Philadelphia, PA"
+link       = "https://www.meetup.com/phLoRa/events/250559230"
