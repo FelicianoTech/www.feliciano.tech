@@ -8,7 +8,7 @@ feature: "foss-contributions-march.png"
 
 Continuing my [new blog series][1], here's my open-source contributions for this past month:
 
-[1]: /blog/january-20177-foss-contributions/
+[1]: /blog/january-2017-foss-contributions/
 
 ---
 
