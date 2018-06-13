@@ -13,7 +13,7 @@ menu:
 
 ## Summary
 
-U.S. Navy Cyber Warfare Sailor, Developer Evangelist at CircleCI, and recovering citizen of Colbert Nation.
+U.S. Navy Cyber Warfare Sailor, Developer Advocate at CircleCI, and recovering citizen of Colbert Nation.
 
 I'm a mix of developer, sys admin, product manager, and dreamer. With that being said, I'm still secretly waiting for the call to be picked up by the New York Mets as a starting shortstop (I did mention dreamer right?). Driven by my ever expanding skillset, competitiveness, and passion for open-source, design, and quality - Plan A for me, simply put, <strong>is to change the world</strong>.
 
@@ -29,7 +29,7 @@ In 2013, I joined the legendary Customer Support department at Linode as a Custo
 
 Explaining what I do is never easy, and that's exactly why I love it. The best description that I've read is by Brandon Wirtz, "A great developer evangelist is part Product Manager, Part Technical Support, and Part Tinkerer". He goes on to say:
 
-> Being a developer evangelist means having a deep understanding of the product you are evangelizing, so that you can help others solve their problems, create great tech demos, and talk to the core team for the product you evangelize about what the community needs. --Brandon Wirtz
+> Being a Developer Advocate means having a deep understanding of the product you are evangelizing, so that you can help others solve their problems, create great tech demos, and talk to the core team for the product you evangelize about what the community needs. --Brandon Wirtz
 
 <div style="clear:both"></div>
 
