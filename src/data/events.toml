@@ -141,3 +141,11 @@ start_date = 2018-05-17T18:00:00-05:00
 end_date   = 2018-05-17T21:00:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://www.meetup.com/phLoRa/events/250559230"
+
+[[events]]
+type       = "conference"
+name       = "FOSSCON"
+start_date = 2018-08-25T09:30:00-05:00
+end_date   = 2018-08-25T17:00:00-05:00
+location   = "Philadelphia, PA"
+link       = "https://fosscon.us/"
