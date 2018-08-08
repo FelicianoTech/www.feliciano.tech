@@ -149,3 +149,19 @@ start_date = 2018-08-25T09:30:00-05:00
 end_date   = 2018-08-25T17:00:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://fosscon.us/"
+
+[[events]]
+type       = "conference"
+name       = "Write the Docs Cincinnati"
+start_date = 2018-08-18T09:30:00-05:00
+end_date   = 2018-08-19T17:00:00-05:00
+location   = "Cincinnati, OH"
+link       = "http://www.writethedocs.org/conf/cincinnati/2018/"
+
+[[events]]
+type       = "meetup"
+name       = "August Meet & Greet - Comics 'N' Coffee NYC"
+start_date = 2018-08-22T18:30:00-05:00
+end_date   = 2018-08-22T19:30:00-05:00
+location   = "New York City, NY"
+link       = "https://www.meetup.com/Comics-N-Coffee-NYC/events/253627113/"
