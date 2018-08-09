@@ -160,7 +160,7 @@ link       = "http://www.writethedocs.org/conf/cincinnati/2018/"
 
 [[events]]
 type       = "meetup"
-name       = "August Meet & Greet - Comics 'N' Coffee NYC"
+name       = "Comics 'N' Coffee NYC - August Meet & Greet"
 start_date = 2018-08-22T18:30:00-05:00
 end_date   = 2018-08-22T19:30:00-05:00
 location   = "New York City, NY"
