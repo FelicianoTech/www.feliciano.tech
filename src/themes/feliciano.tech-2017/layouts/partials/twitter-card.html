@@ -4,6 +4,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:image:src" content="{{ printf "/assets/img/feature/%s" . | absURL }}" />
 {{ else }}
+	<meta name="twitter:image:src" content="{{ "/assets/img/feature/default.png" | absURL }}" />
 	<meta name="twitter:card" content="summary" />
 {{ end }}
 <!-- Twitter Card data -->
