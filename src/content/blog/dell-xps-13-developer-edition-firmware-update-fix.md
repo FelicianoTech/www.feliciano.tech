@@ -1,5 +1,5 @@
 ---
-title: "Dell XPS 13 Developer Edition Update Firmware Fix"
+title: "Dell XPS 13 Developer Edition Firmware Update Fix"
 author: FelicianoTech
 date: 2018-09-11T09:00:00-04:00
 categories:
