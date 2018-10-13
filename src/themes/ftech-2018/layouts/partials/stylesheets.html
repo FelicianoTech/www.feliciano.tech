@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="{{ "vendor/sanitize-8.0/sanitize.css" | absURL }}" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amaranth%7CNoto+Sans%7CNoto+Serif%7CWork+Sans%7CBungee" />
+	{{- $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}" />
+{{- if .IsHome }}
+	{{- $style := resources.Get "css/homepage.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}" />
+{{ end }}
+	{{- $style := resources.Get "css/mobile.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}" media="(max-width:1000px)" />

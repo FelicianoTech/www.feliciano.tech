@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="single">
+	<h1>{{ .Title }}</h1>
+	<div class="content">
+		{{ .Content }}
+		<h2>Upcoming Events I’m Attending</h2>
+		<ul>
+		{{ range sort (where .Site.Data.events.events ".start_date" "ge" now) ".start_date" "asec" }}
+			<li>{{ .start_date.Format "January 2, 2006" }} - <a href="{{ .link }}">{{ .name }}</a></li>
+		{{ end }}
+		</ul>
+	
+		<h2>Past Events</h2>
+		<ul>
+		{{ range sort (where .Site.Data.events.events ".start_date" "lt" now) ".start_date" "desc" }}
+			<li>{{ .start_date.Format "January 2, 2006" }} - <a href="{{ .link }}">{{ .name }}</a></li>
+		{{ end }}
+		</ul>
+	</div>
+</main>
+{{ end }}

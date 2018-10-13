@@ -1,21 +1,20 @@
 ---
-title: "About"
-menu:
-  main:
-    weight: 20
+title: "About Ricardo"
 ---
 
 > Plan B is for people who don't have the confidence in Plan A. It’s a constant reminder that you don't want it as bad as you want to breathe. --W.S.
 
 * * *
 
-<img class="alignleft wp-image-360" src="/assets/img/article/10835196_693677857414115_3574281855233265095_o-600x600.jpg" alt="Photo of Ricardo Feliciano" width="300" height="300" />
+<img class="alignleft" src="/assets/img/article/10835196_693677857414115_3574281855233265095_o-600x600.jpg" alt="Photo of Ricardo N Feliciano" width="300" height="300" />
 
 ## Summary
 
-U.S. Navy Cyber Warfare Sailor, Developer Advocate at CircleCI, and recovering citizen of Colbert Nation.
+Developer Advocate at CircleCI, U.S. Navy Veteran (Cyber Warfare), and recovering citizen of Colbert Nation.
 
-I'm a mix of developer, sys admin, product manager, and dreamer. With that being said, I'm still secretly waiting for the call to be picked up by the New York Mets as a starting shortstop (I did mention dreamer right?). Driven by my ever expanding skillset, competitiveness, and passion for open-source, design, and quality - Plan A for me, simply put, <strong>is to change the world</strong>.
+I'm a mix of developer, sys admin, product manager, and dreamer.
+With that being said, I'm still secretly waiting for the call to be picked up by the New York Mets as a starting shortstop (I did mention dreamer right?).
+Driven by my ever expanding skillset, competitiveness, and passion for open-source, design, and quality - Plan A for me, simply put, <strong>is to change the world</strong>.
 
 <p style="text-align: center;"><a class="button button-black" href="/assets/img/article/ricardo-n-feliciano-resume--public.pdf">Download Resume</a> <a class="button button-black" href="https://www.linkedin.com/in/ricardofeliciano" data-proofer-ignore>LinkedIn Profile</a></p>
 
