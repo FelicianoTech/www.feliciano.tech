@@ -1,4 +1,4 @@
-baseurl = "https://Feliciano.Tech/"
+baseurl = "https://www.Feliciano.Tech/"
 title = "Feliciano.Tech"
 languageCode = "en-us"
 theme = "feliciano.tech-2017"
@@ -10,6 +10,7 @@ enableEmoji = true
 
 [blackfriday]
 	hrefTargetBlank	=	true
+
 
 [[menu.main]]
 	name	= "Home"
@@ -26,5 +27,33 @@ enableEmoji = true
 	url		= "/projects/"
 	weight	= 10
 
-[social]
-	twitter = "FelicianoTech"
+[[menu.main]]
+	name	= "About"
+	url		= "/about/"
+	weight	= 20
+
+
+[[menu.social]]
+    url = "https://twitter.com/FelicianoTech"
+    name = "twitter"
+    weight = 1
+
+[[menu.social]]
+    name = "github"
+    url = "https://github.com/FelicianoTech"
+    weight = 2
+
+[[menu.social]]
+    url = "https://www.facebook.com/FelicianoTech"
+    name = "facebook"
+    weight = 3
+
+[[menu.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/FelicianoTech/"
+    weight = 4
+
+[[menu.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/ricardofeliciano"
+    weight = 5

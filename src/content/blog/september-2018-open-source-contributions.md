@@ -1,14 +1,15 @@
 ---
-title: My September 2018 Open-Source Contributions
+title: "My September 2018 Open-Source Contributions"
 author: FelicianoTech
 date: 2018-10-05T17:30:00-04:00
-categories: foss
+categories:
+  - "foss"
 feature: "foss-contributions-september.png"
 ---
 
 Continuing my [new blog series][1], here's my open-source contributions for this past month:
 
-[1]: /blog/january-2017-foss-contributions/
+<!--more-->
 
 ---
 
@@ -25,6 +26,7 @@ Continuing my [new blog series][1], here's my open-source contributions for this
 
 
 
+[1]: /blog/january-2017-foss-contributions/
 [hugo]: https://gohugo.io/
 [discoursehub]: https://DiscourseHub.com
 [cibuilds]: https://github.com/cibuilds

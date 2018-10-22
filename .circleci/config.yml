@@ -3,7 +3,10 @@ workflows:
   main:
     jobs:
       - build
-      - deploy:
+      - deploy-staging:
+          requires:
+            - build
+      - deploy-production:
           requires:
             - build
           filters:
@@ -19,8 +22,11 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Build Website With  Hugo"
+          name: "Build Website With Hugo"
           command: HUGO_ENV=production hugo -v -s src/
+      - run:
+          name: "Build Staging With Hugo"
+          command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
       - run:
           name: "Test Website"
           command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
@@ -28,8 +34,9 @@ jobs:
           root: src
           paths:
             - public
+            - staging
 
-  deploy:
+  deploy-staging:
     docker:
       - image: cibuilds/hugo:0.49.2
     steps:
@@ -38,4 +45,15 @@ jobs:
       - add_ssh_keys
       - run: |
           echo 'web01.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJiGRY6N9WYQ0vy6cTiwAgNbc6ueJmVo/EafBtmT7bcD6cQMbipYM/KfYQ2lCn2TxqWepZKYoyoVQXgArycCOns=' >> ~/.ssh/known_hosts
-          rsync -va --delete src/public/ staticweb@web01.revidian.net:www/feliciano.tech/public_html
+          rsync -va --delete src/staging/ staticweb@web01.revidian.net:www/www.feliciano.tech/staging_html
+
+  deploy-production:
+    docker:
+      - image: cibuilds/hugo:0.49.2
+    steps:
+      - attach_workspace:
+          at: src
+      - add_ssh_keys
+      - run: |
+          echo 'web01.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJiGRY6N9WYQ0vy6cTiwAgNbc6ueJmVo/EafBtmT7bcD6cQMbipYM/KfYQ2lCn2TxqWepZKYoyoVQXgArycCOns=' >> ~/.ssh/known_hosts
+          rsync -va --delete src/public/ staticweb@web01.revidian.net:www/www.feliciano.tech/public_html
