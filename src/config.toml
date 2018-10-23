@@ -1,7 +1,7 @@
 baseurl = "https://www.Feliciano.Tech/"
 title = "Feliciano.Tech"
 languageCode = "en-us"
-theme = "feliciano.tech-2017"
+theme = "ftech-2018"
 
 googleAnalytics = "UA-66191620-1"
 disqusShortname = "felicianotechcom"
