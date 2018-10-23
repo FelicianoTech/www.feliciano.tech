@@ -167,6 +167,14 @@ main.single{
 		h1{
 			font-size: 2.8rem;
 		}
+
+		.alignleft,
+		.aligncenter,
+		.alignright{
+			display: block;
+			margin: 0 auto;
+			float: none;
+		}
 	}
 
 	form{
