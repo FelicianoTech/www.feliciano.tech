@@ -1,6 +1,6 @@
 ---
 title: "Would a Nonprofit Twitter Clone Work?"
-date: 2018-10-24T19:10:30-04:00
+date: 2018-10-24T11:00:00-04:00
 author: FelicianoTech
 categories:
   - "business"
