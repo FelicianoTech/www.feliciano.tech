@@ -3,12 +3,12 @@ workflows:
   main:
     jobs:
       - build
-      - deploy-staging:
-          requires:
-            - build
-          filters:
-            branches:
-              ignore: master
+      #- deploy-staging:
+      #    requires:
+      #      - build
+      #    filters:
+      #      branches:
+      #        ignore: master
       - deploy-production:
           requires:
             - build
