@@ -6,6 +6,9 @@ workflows:
       - deploy-staging:
           requires:
             - build
+          filters:
+            branches:
+              ignore: master
       - deploy-production:
           requires:
             - build
