@@ -34,7 +34,7 @@ That's fair, that's their right as makers and entrepreneurs.
 Personally, I mostly like the way Twitter works and would like an exact clone.
 It's gotten as big as it has for a reason, right?
 
----
+## So can we do it?
 
 How possible would it be to create an identical Twitter clone, where the backing company is a nonprofit or foundation?
 Where making money isn't one of the underlying goals but instead a sustainable communications and news platform for the world is?
