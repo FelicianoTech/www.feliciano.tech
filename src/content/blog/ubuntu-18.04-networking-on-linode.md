@@ -51,14 +51,14 @@ A quick explanation of some of the pieces is available at the end of this post.
           dhcp4: no
           dhcp6: no
           addresses:
-            - 1.2.3.4/24                             # Primary public IPv4 address
-            - 192.168.1.2/17                         # A private IPv4 address
+            - 1.2.3.4/24                                    # Primary public IPv4 address
+            - 192.168.1.2/17                                # A private IPv4 address
             - "2001:0db8:85a3:0000:0000:8a2e:0370:7334/64"  # Primary IPv6 address
-          gateway4: 1.2.3.1                      # Primary public IPv4 address's gateway
-          gateway6: "fe80::1"                        $ Primary IPv6 address's gateway
+          gateway4: 1.2.3.1                                 # Primary public IPv4 address's gateway
+          gateway6: "fe80::1"                               # Primary IPv6 address's gateway
           nameservers:
-            search: [members.linode.com]             # Search domain
-            addresses: [8.8.8.8, 8.8.4.4]            # Google's DNS Servers
+            search: [members.linode.com]                    # Search domain
+            addresses: [8.8.8.8, 8.8.4.4]                   # Google's DNS Servers
     ```
 
 1. With the network configuration complete, we can validate and apply it with `netplan`:
