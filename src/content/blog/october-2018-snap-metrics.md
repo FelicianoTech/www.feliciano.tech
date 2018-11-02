@@ -14,7 +14,7 @@ I maintain a few Snap packages (installable Linux software packages) and I've be
 it's a (minor) indicator of how large the snap userbase is (or at least growth) as well as how useful a snap may or may not be.
 So here's the beginning of what may be a new monthly series on my blog.
 
-Here's the snap metrics for snaps I maintain for the past month:
+Here's the metrics for snaps I maintain for the past month:
 
 <!--more-->
 
