@@ -163,3 +163,23 @@ div.share-buttons{
 		}
 	}
 }
+
+table{
+	width: 100%;
+
+	thead{
+		border-bottom: 2px solid white;
+	}
+
+	tr:nth-child(odd){
+		background-color: #010101;
+	}
+
+	tr:nth-child(even){
+		background-color: #121212;
+	}
+
+	td{
+		padding: 5px 15px;
+	}
+}
