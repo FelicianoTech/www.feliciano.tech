@@ -7,14 +7,16 @@ categories:
 tags:
   - "hugo"
   - "chrome"
-feature: "hugo-extension-logo.png"
 ---
 
-I made a very simple Google Chrome Extension for people who build websites with the [Hugo static site generator][hugo] (SSG).
+I made a very simple Google Chrome Extension for people who build websites with the [Hugo static site generator][hugo] (SSG) and [launched it](https://www.producthunt.com/posts/hugo-chrome-extension) on Product Hunt.
+
 This first release has two main features:
 
 1. The extension icon "lights up" whenever you're browsing a Hugo-built website.
-1. You can search the Hugo documentation from Chrome's Omnibar (address bar).
+1. You can search the Hugo documentation from Chrome's Omnibox (address bar).
+
+![Hugo doc search example](/assets/img/article/hugo-screencast.gif)
 
 ## Install
 
