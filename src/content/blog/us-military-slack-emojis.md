@@ -13,7 +13,14 @@ So I created some.
 
 <!--more-->
 
-Here's each icon, my suggested Slack name and alias, with the download link at the bottom:
+I'm no longer in the Navy but I love my branch and am fortunate for the experienes and knowledge I've gained with them.
+
+I created a Slack emoji for the U.S. Navy, U.S. Marine Corps, U.S. Army, and U.S. Air Force.
+I've packaged all four icons together in a zipfle:
+
+<a class="button" href="/downloads/us-military-slack-emojis.zip">Download U.S. Military Slack Emojis Zipfile</a>
+
+Here's a summary of each icon, my suggested Slack name and alias:
 
 - name: `:us-navy:`
 - alias: `:usn:`
@@ -35,6 +42,3 @@ Here's each icon, my suggested Slack name and alias, with the download link at t
 
 ![](/assets/img/article/airforce-icon.png)
 
-You can download each of the four icons together in a zipfle:
-
-<a class="button" href="/downloads/us-military-slack-emojis.zip">Download U.S. Military Slack Emojis Zipfile</a>
