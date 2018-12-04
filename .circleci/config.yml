@@ -21,7 +21,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:0.51
+      - image: cibuilds/hugo:0.52
     steps:
       - checkout
       - run:
@@ -41,7 +41,7 @@ jobs:
 
   deploy-staging:
     docker:
-      - image: cibuilds/hugo:0.51
+      - image: cibuilds/hugo:0.52
     steps:
       - attach_workspace:
           at: src
@@ -52,7 +52,7 @@ jobs:
 
   deploy-production:
     docker:
-      - image: cibuilds/hugo:0.49.2
+      - image: cibuilds/hugo:0.52
     steps:
       - attach_workspace:
           at: src
