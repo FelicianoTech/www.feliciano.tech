@@ -1,5 +1,5 @@
+version: 2.1
 workflows:
-  version: 2
   main:
     jobs:
       - build
@@ -15,9 +15,6 @@ workflows:
           filters:
             branches:
               only: master
-
-
-version: 2
 jobs:
   build:
     docker:
@@ -27,12 +24,18 @@ jobs:
       - run:
           name: "Build Website With Hugo"
           command: HUGO_ENV=production hugo -v -s src/
-      - run:
-          name: "Build Staging With Hugo"
-          command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
+      #- run:
+      #    name: "Build Staging With Hugo"
+      #    command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
       - run:
           name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external --http-status-ignore=999
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              # Don't test external links on master
+              htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+            else
+              htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --http-status-ignore=999
+            fi
       - persist_to_workspace:
           root: src
           paths:
