@@ -14,6 +14,8 @@ tags:
   - ubuntu-snappy-core
 feature: "linode-ubuntu-snappy-core.png"
 ---
+***This is a very old article. The instructions likely don't work anymore.***
+
 When I first heard of Ubuntu Snappy Core I was immediately intrigued. Dual file systems, new package manager, the ability to roll-back updates, what in the world was Canonical up to? I had to find it out for myself.
 
 With VirtualBox in tow, I went to Ubuntu&#8217;s website so I can download and install the ISO. No luck. Ubuntu Core was being distributed different from traditional Ubuntu. Tarballs for Internet-of-Things (IoT) devices and &#8216;cloud images&#8217; for everything else. I decided to try to get it running on Linode and it was simply a bit&#8230;. pain, to get working. This was many months ago. Fast forward to today and Linode now has KVM, Ubuntu Core has KVM images&#8230; you get where I&#8217;m going with this. Below are instructions for how to get Ubuntu Snappy Core running on a Linode.
@@ -27,8 +29,8 @@ With VirtualBox in tow, I went to Ubuntu&#8217;s website so I can download and i
   3. From the &#8216;Rescue&#8217; tab on the Dashboard, boot into Rescue Mode.
   4. Connect to your Linode via <a href="https://www.linode.com/docs/networking/using-the-linode-shell-lish" target="_blank">Lish</a> or SSH. For this step I prefer Lish.
   5. Download the Ubuntu Snappy Core image to your Linode (takes less than 4 seconds). You can run the first command for the stable release or the second command for the edge release: 
-      * wget http://releases.ubuntu.com/15.04/ubuntu-15.04-snappy-amd64-generic.img.xz
-      * wget http://cdimage.ubuntu.com/ubuntu-snappy/15.04/edge/ubuntu-15.04-snappy-amd64-generic.img.xz
+      * `wget http://releases.ubuntu.com/15.04/ubuntu-15.04-snappy-amd64-generic.img.xz`
+      * `wget http://cdimage.ubuntu.com/ubuntu-snappy/15.04/edge/ubuntu-15.04-snappy-amd64-generic.img.xz`
   6. Decompress the image (took about a minute). 
       * unxz ubuntu-15.04-snappy-amd64-generic.img.xz
   7. Copy the downloaded image to our raw disk (took about 4 seconds): 
@@ -53,10 +55,8 @@ Helpful/Interesting related links:
 
   * [Robot spider powered by Ubuntu Snappy Core][1]
   * [Ubuntu Snappy Core&#8217;s main developer page][2]
-  * [Some tutorials][3]
 
 &nbsp;
 
  [1]: http://insights.ubuntu.com/2015/08/05/the-first-app-enabled-spider
  [2]: https://developer.ubuntu.com/en/snappy
- [3]: https://developer.ubuntu.com/en/snappy/tutorials/using-snappy

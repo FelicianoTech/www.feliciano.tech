@@ -18,7 +18,7 @@ tags:
 
 Ubuntu made some great headway in 2012 and the excitement doesn&#8217;t seem to be over. Dell has announced that their gaming desktop, the Alienware X51 will now ship with Ubuntu as an option.<!--more-->
 
-On Alienware's new [Ubuntu page][alienware], they claim 3 reasons for "Why Ubuntu":
+On Alienware's new Ubuntu page (now defunct), they claim 3 reasons for "Why Ubuntu":
 
 * Simple and stylish
 * Fast and secure
@@ -27,7 +27,3 @@ On Alienware's new [Ubuntu page][alienware], they claim 3 reasons for "Why Ubunt
 Name dropping Steam on Linux, Dell further details gaming on Ubuntu and the large assortment of free software.
 
 <img class="size-medium wp-image-136 aligncenter" alt="Ubuntu Applications" src="/assets/img/article/alienware-ubuntu-software.jpg" />
-
-
-
-[alienware]: http://www.alienware.com/ubuntu/

@@ -27,7 +27,7 @@ Currently, I&#8217;ve set up a <a href="https://plus.google.com/communities/1003
 
 The actual technology that I want to use to build this is still up in the air. I envision this being built on top of [headless] Drupal with custom modules, wrapper code, etc. The code and specific technologies aren&#8217;t important at this time however. The overall idea and feature set is what I would like to focus on now. Some communities that I&#8217;m currently a fan of include:
 
-  * <a href="http://developer.getpebble.com/" target="_blank">Pebble Developer Website</a>
+  * Pebble Developer Website (now defunct)
   * <a href="https://duck.co/" target="_blank">DuckDuckGo&#8217;s Community</a> (<a href="https://github.com/duckduckgo/community-platform" target="_blank">code</a>)
 
 **So what does your community need?**

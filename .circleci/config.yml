@@ -32,7 +32,7 @@ jobs:
           command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
       - run:
           name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external --http-status-ignore=999
       - persist_to_workspace:
           root: src
           paths:

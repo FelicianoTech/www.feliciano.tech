@@ -68,7 +68,8 @@ name       = "Continuous Integration and Deployment For Documentation"
 start_date = 2017-03-27T18:30:00-05:00
 end_date   = 2017-03-27T19:45:00-05:00
 location   = "Philadelphia, PA"
-link       = "https://www.meetup.com/WriteTheDocsPHL/events/238320868/"
+link       = "https://www.meetup.com/"
+oldlink    = "https://www.meetup.com/WriteTheDocsPHL/events/238320868/"
 
 [[events]]
 type       = "meetup"
@@ -116,7 +117,8 @@ name       = "Night of Acrylics at JD's Pub & Grille"
 start_date = 2018-02-01T19:00:00-05:00
 end_date   = 2018-02-01T21:00:00-05:00
 location   = "Galloway, NJ"
-link       = "https://nightofacrylics.com/events/e180201082051/"
+link       = "https://nightofacrylics.com/events/"
+oldlink    = "https://nightofacrylics.com/events/e180201082051/"
 
 [[events]]
 type       = "meetup"

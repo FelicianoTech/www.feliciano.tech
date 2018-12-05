@@ -15,7 +15,7 @@ tags:
   - unity-launcher
 
 ---
-I&#8217;ve written a <a title="How To Create a Unity Launcher Icon for Each Chrome/Chromium Profile in Ubuntu" href="http://RicardoFeliciano.me/how-to-create-a-unity-launcher-icon-for-each-chromechromium-profile-in-ubuntu/" target="_blank">similar article</a> for older versions of Ubuntu. Unfortunately newer versions of Chromium dropped support for the &#8211;class flag which means my method no longer works. After careful digging, it looks like Chromium now appends the user profile directory as a part of its class name. Below are the new steps required to get multiple launchers to work.
+I've written a <a title="How To Create a Unity Launcher Icon for Each Chrome/Chromium Profile in Ubuntu" href="/blog/how-to-create-a-unity-launcher-icon-for-each-chromechromium-profile-in-ubuntu/" target="_blank">similar article</a> for older versions of Ubuntu. Unfortunately newer versions of Chromium dropped support for the &#8211;class flag which means my method no longer works. After careful digging, it looks like Chromium now appends the user profile directory as a part of its class name. Below are the new steps required to get multiple launchers to work.
 
 <!--more-->
 

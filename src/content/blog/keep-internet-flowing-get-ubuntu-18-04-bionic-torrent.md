@@ -17,10 +17,10 @@ As per usual, I just want to remind everyone that you can download the Ubuntu 18
 
 Here are the torrents for both the desktop and server release:
 
-- [Ubuntu 18.04 Desktop (64-bit)][1] 
-- [Ubuntu 18.04 Server (64-bit)][2]
+- [Ubuntu 18.04.1 Desktop (64-bit)][1] 
+- [Ubuntu 18.04.1 Server (64-bit)][2]
   
 Don’t forget to seed! I will be.
 
-[1]: http://releases.ubuntu.com/18.04/ubuntu-18.04-desktop-amd64.iso.torrent
-[2]: http://releases.ubuntu.com/18.04/ubuntu-18.04-live-server-amd64.iso.torrent
+[1]: http://releases.ubuntu.com/18.04/ubuntu-18.04.1-desktop-amd64.iso.torrent
+[2]: http://releases.ubuntu.com/18.04/ubuntu-18.04.1.0-live-server-amd64.iso.torrent
