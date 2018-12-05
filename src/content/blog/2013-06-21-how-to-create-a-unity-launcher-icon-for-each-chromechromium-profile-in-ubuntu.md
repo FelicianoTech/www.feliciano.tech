@@ -15,7 +15,7 @@ tags:
   - unity-launcher
 
 ---
-<span style="color: #ff0000;">**<a title="How To Create a Unity Launcher Icon for Each Chromium Profile in Ubuntu 14.04" href="http://RicardoFeliciano.me/how-to-create-a-unity-launcher-icon-for-each-chromium-profile-in-ubuntu-14-04/"><span style="color: #ff0000;">Update: Rewritten for Ubuntu 14.04</span></a>***</span>
+<span style="color: #ff0000;">**<a title="How To Create a Unity Launcher Icon for Each Chromium Profile in Ubuntu 14.04" href="/blog/how-to-create-a-unity-launcher-icon-for-each-chromium-profile-in-ubuntu-14-04/"><span style="color: #ff0000;">Update: Rewritten for Ubuntu 14.04</span></a>***</span>
 
 Like me, I&#8217;m sure there&#8217;s some of you who have more than one Google account. In my case, I have a personal Google/Gmail account I use, then a Google Apps account for business. Using Chromium profiles, I&#8217;m able to keep my bookmarks, tabs, saved fields, etc separate. Cool. However, when both profiles are open in different windows, Unity puts them into the same launcher. Not cool. Here&#8217;s how to fix that.<!--more--><figure id="attachment_230" style="width: 341px" class="wp-caption aligncenter">
 

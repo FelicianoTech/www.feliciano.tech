@@ -20,7 +20,7 @@ On April 18th, <a title="View Release Post" href="http://blog.jquery.com/2013/04
 
 ## Use a 3rd Party Plugin
 
-For non-coders, the easiest way to get the latest version of jQuery on Drupal 7 is to use a module. There&#8217;s probably a few modules out there to do the job, but here I&#8217;ll suggest using <a title="Visit the jQuery Update project page." href="http://drupal.org/project/jquery_update" target="_blank">jQuery Update</a>. You can install it the usual way, and it will update the jQuery version&nbsp;used for you. Just make sure to check the _status report_ page to verify that jQuery was updated.
+For non-coders, the easiest way to get the latest version of jQuery on Drupal 7 is to use a module. There&#8217;s probably a few modules out there to do the job, but here I&#8217;ll suggest using <a title="Visit the jQuery Update project page." href="https://www.drupal.org/project/jquery_update" target="_blank" data-proofer-ignore>jQuery Update</a>. You can install it the usual way, and it will update the jQuery version&nbsp;used for you. Just make sure to check the _status report_ page to verify that jQuery was updated.
 
 <p style="padding-left: 30px;">
   <strong>Note</strong>: As of this writing, the jQuery Update module doesn&#8217;t yet support jQuery 2.0. I decided to include it anyway because the module seems to be fairly good at updates, with a dev release posted only 21 days ago. I&#8217;d suggest install it, use jQuery 1.82, and wait till they update it for jQuery 2.0.
