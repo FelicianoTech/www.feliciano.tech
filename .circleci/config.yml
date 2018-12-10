@@ -29,13 +29,7 @@ jobs:
       #    command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
       - run:
           name: "Test Website"
-          command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              # Don't test external links on master
-              htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
-            else
-              htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --http-status-ignore=999
-            fi
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - persist_to_workspace:
           root: src
           paths:
