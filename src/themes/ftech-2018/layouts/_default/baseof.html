@@ -11,7 +11,13 @@
 	{{ end }}
 	<link rel="icon" type="image/png" href="{{ "favicon.png" | absURL }}" />
 	<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-	<meta name="description" content="{{ .Site.Params.Description }}" />
+	{{ if .Description }}
+		<meta name="description" content="{{ .Description }}" />
+	{{ else if .IsHome }}
+		<meta name="description" content="{{ .Site.Params.Description }}" />
+	{{ else }}
+		<meta name="description" content="{{ .Summary | plainify }}" />
+	{{ end }}
 	{{ partial "open-graph" . }}
 	{{ partial "twitter-card" . }}
 	{{ partial "verifications" . }}

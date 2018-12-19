@@ -8,6 +8,9 @@ disqusShortname = "felicianotechcom"
 
 enableEmoji = true
 
+[params]
+	description	= "This is my (Ricardo N Feliciano) personal website. A place for me to blog and share my projects."
+
 [blackfriday]
 	hrefTargetBlank	=	true
 
