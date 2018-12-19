@@ -7,12 +7,14 @@
 		<ul>
 		{{ range sort (where .Site.Data.events.events ".start_date" "ge" now) ".start_date" "asec" }}
 			<li>{{ .start_date.Format "January 2, 2006" }} - <a href="{{ .link }}">{{ .name }}</a></li>
+		{{ else }}
+			<p>I don't have any upcoming events right now. Check back later.</p>
 		{{ end }}
 		</ul>
 	
-		<h2>Past Events</h2>
+		<h2>Some Past Events</h2>
 		<ul>
-		{{ range sort (where .Site.Data.events.events ".start_date" "lt" now) ".start_date" "desc" }}
+		{{ range first 15 (sort (where .Site.Data.events.events ".start_date" "lt" now) ".start_date" "desc") }}
 			<li>{{ .start_date.Format "January 2, 2006" }} - <a href="{{ .link }}">{{ .name }}</a></li>
 		{{ end }}
 		</ul>
