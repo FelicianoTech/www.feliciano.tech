@@ -7,6 +7,7 @@ categories:
 tags:
   - "goals"
 feature: "my-2019-goals.png"
+featureHide: true
 ---
 
 Near the end of December I wrote a friendly post on social media asking about what everyone's 2019 goals were.
