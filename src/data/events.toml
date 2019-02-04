@@ -167,3 +167,11 @@ start_date = 2018-08-22T18:30:00-05:00
 end_date   = 2018-08-22T19:30:00-05:00
 location   = "New York City, NY"
 link       = "https://www.meetup.com/Comics-N-Coffee-NYC/events/253627113/"
+
+[[events]]
+type       = "Conference"
+name       = "Philly Tech Week - Kickoff Festival"
+start_date = 2019-05-03T17:00:00-05:00
+end_date   = 2019-05-03T22:00:00-05:00
+location   = "Philadelphia, PA"
+link       = "https://www.eventbrite.com/e/ptw19-kickoff-festival-in-old-city-tickets-55762905351"
