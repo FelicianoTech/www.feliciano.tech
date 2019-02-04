@@ -6,6 +6,7 @@ categories:
   - "Personal"
 tags:
   - "circleci"
+feature: "community-and-partner-engineer.png"
 ---
 
 At the start of 2016 I signed on to be a Developer Evangelist at CircleCI.
