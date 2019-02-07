@@ -9,7 +9,7 @@ feature: "docsthursday.png"
 ---
 
 I love open source documentation and if you're reading this, maybe you do too.
-I have a personal mantra of "Inspire, Educate, Motivate".
+I have a personal mantra of "Inspire, Educate, Motivate" and documentation fits right into that.
 Documentation allows us to **educate** others to a near infinite scale.
 
 You know, I partially owe my career to the free and accessible Linux server documentation that is available on the [Linode Docs](https://www.linode.com/docs/) website.
@@ -25,13 +25,13 @@ I want to **motivate** more people to contribute and learn from one another on h
 ## Why DocsThursday?
 
 There's nothing special about Thursdays.
-I could have does a Docs Wednesday or Friday but it wasn't as catchy and we all know Tuesdays are for tacos.
-So DocsThursday it is.
+I could have done a Docs Wednesday or Friday but it wasn't as catchy and we all know Tuesdays are for tacos.
+So Thursday it is.
 
 DocsThursday is inspired by DigitalOcean's [Hacktoberfest](https://hacktoberfest.digitalocean.com/), [24 Pull Requests](https://24pullrequests.com/), and most importantly, Write the Docs's [Writing Day](https://www.writethedocs.org/conf/portland/2019/writing-day/).
-I'm trying to take the energy and productivity of Writing Day and do it more frequently at meetups local to you, with your co-workers within your company, and as an online hackathon.
+I'm trying to take the energy and productivity of Writing Day and replicate it more frequently at meetups local to you, with your co-workers within your company, and even online as a hackathon.
 
-Let's take 30 minutes, an hour or more, once a month in order to give some love to open source documentation.
+Let's take 30 minutes, an hour or even more, just once a month in order to give some love to open source documentation.
 
 Interested? Check out the website, [DocsThursday.com](https://DocsThursday.com).
 
