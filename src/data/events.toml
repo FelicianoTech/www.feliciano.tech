@@ -175,3 +175,11 @@ start_date = 2019-05-03T17:00:00-05:00
 end_date   = 2019-05-03T22:00:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://www.eventbrite.com/e/ptw19-kickoff-festival-in-old-city-tickets-55762905351"
+
+[[events]]
+type       = "meetup"
+name       = "Write the Docs NYC: February DocsThursday"
+start_date = 2019-02-21T18:30:00-05:00
+end_date   = 2019-02-21T19:45:00-05:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/WriteTheDocsNYC/events/258747106/"
