@@ -177,6 +177,14 @@ location   = "New York, NY"
 link       = "https://www.meetup.com/WriteTheDocsNYC/events/258747106/"
 
 [[events]]
+type       = "Conference"
+name       = "MicroConf: Starter Edition 2019"
+start_date = 2019-03-26T17:00:00-05:00
+end_date   = 2019-03-29T22:00:00-05:00
+location   = "Las Vegas, NV"
+link       = "https://www.eventbrite.com/e/microconf-starter-edition-2019-tickets-52680307217"
+
+[[events]]
 type       = "trip"
 name       = "CircleCI Chicago Trip"
 start_date = 2019-03-31T15:50:00-05:00
