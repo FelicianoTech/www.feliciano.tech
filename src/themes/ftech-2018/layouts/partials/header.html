@@ -7,9 +7,9 @@
 		{{ end }}
 		</ul>
 		<ul class="menu h main">
-		{{ $currentNode := . }}
+		{{- $urlPart1 := print "/" (index (split .URL "/") 1) "/" -}}
 		{{ range .Site.Menus.main }}
-			<li class="{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}active{{ end }}">
+			<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
 				<a href="{{ .URL }}">{{ .Name }}</a>
 			</li>
 		{{ end }}
