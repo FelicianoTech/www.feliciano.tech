@@ -1,53 +1,23 @@
 version: 2.1
+
+orbs:
+  hugo: circleci/hugo@0.1.0
+
 workflows:
   main:
     jobs:
-      - build
-      #- deploy-staging:
-      #    requires:
-      #      - build
-      #    filters:
-      #      branches:
-      #        ignore: master
-      - deploy-production:
+      - hugo/build:
+          version: "0.54"
+          source: "src/"
+          html-proofer: true
+      - deploy:
           requires:
-            - build
+            - hugo/build
           filters:
             branches:
               only: master
 jobs:
-  build:
-    docker:
-      - image: cibuilds/hugo:0.54
-    steps:
-      - checkout
-      - run:
-          name: "Build Website With Hugo"
-          command: HUGO_ENV=production hugo -v -s src/
-      #- run:
-      #    name: "Build Staging With Hugo"
-      #    command: HUGO_ENV=staging hugo -v -s src/ -d staging --config=src/staging-config.toml
-      - run:
-          name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
-      - persist_to_workspace:
-          root: src
-          paths:
-            - public
-            - staging
-
-  deploy-staging:
-    docker:
-      - image: cibuilds/hugo:0.54
-    steps:
-      - attach_workspace:
-          at: src
-      - add_ssh_keys
-      - run: |
-          echo 'web01.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJiGRY6N9WYQ0vy6cTiwAgNbc6ueJmVo/EafBtmT7bcD6cQMbipYM/KfYQ2lCn2TxqWepZKYoyoVQXgArycCOns=' >> ~/.ssh/known_hosts
-          rsync -va --delete src/staging/ staticweb@web01.revidian.net:www/www.feliciano.tech/staging_html
-
-  deploy-production:
+  deploy:
     docker:
       - image: cibuilds/hugo:0.54
     steps:
