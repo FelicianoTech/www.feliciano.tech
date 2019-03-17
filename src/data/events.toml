@@ -177,7 +177,7 @@ location   = "New York, NY"
 link       = "https://www.meetup.com/WriteTheDocsNYC/events/258747106/"
 
 [[events]]
-type       = "Conference"
+type       = "conference"
 name       = "MicroConf: Starter Edition 2019"
 start_date = 2019-03-26T17:00:00-05:00
 end_date   = 2019-03-29T22:00:00-05:00
@@ -192,7 +192,14 @@ end_date   = 2019-04-04T18:00:00-05:00
 location   = "Chicago, IL"
 
 [[events]]
-type       = "Conference"
+type       = "hackathon"
+name       = "CircleCI's Orbapalooza"
+start_date = 2019-04-25T13:00:00-04:00
+end_date   = 2019-04-25T18:00:00-04:00
+location   = "Boston, MA"
+
+[[events]]
+type       = "conference"
 name       = "Philly Tech Week - Kickoff Festival"
 start_date = 2019-05-03T17:00:00-05:00
 end_date   = 2019-05-03T22:00:00-05:00
