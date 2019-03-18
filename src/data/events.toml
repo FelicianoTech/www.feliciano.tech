@@ -197,6 +197,7 @@ name       = "CircleCI's Orbapalooza"
 start_date = 2019-04-25T13:00:00-04:00
 end_date   = 2019-04-25T18:00:00-04:00
 location   = "Boston, MA"
+link       = "https://www.eventbrite.com/e/orb-a-palooza-circleci-partners-hackathon-event-tickets-58665634492"
 
 [[events]]
 type       = "conference"
