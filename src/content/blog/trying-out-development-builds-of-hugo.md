@@ -8,18 +8,18 @@ tags:
 
 Hugo has fairly frequent releases.
 It's one of the many things I like about it.
-Once in awhile though you may want to test our the in-development version of Hugo.
+Once in awhile though you may want to test out the in-development version of Hugo.
 Maybe there's a new feature or bug fix that's merged that you just can't wait to use, or maybe there's a larger change coming that the development team needs help testing.
 Maybe you just like living wildly.
 Regardless of your reason, here's three ways to run the development version of Hugo.
 
-*The is specifically showing you how to use unreleased, probably buggy software. Keep that in mind.*
+*This is specifically showing you how to use unreleased, probably buggy software. Keep that in mind.*
 
 <!--more-->
 
 ## Via Snap
 
-If you're already using the Hugo snap (which is you're using Linux, is an easy & quick install) then trying out the development build of Hugo is very simple.
+If you're already using the Hugo snap (which if you're using Linux, is an easy & quick install) then trying out the development build of Hugo is very simple.
 Simply tell SnapD to switch to the edge channel.
 
 ```
