@@ -21,7 +21,7 @@ Turns out, there's a User Experience (UX) bug going on here.
 There's another setting located in "Privacy" called "Location Services.
 This controls whether or not Ubuntu can determine (through cellular, GPS, WiFi, etc) its location which is needed for automatically determining the timezone.
 
-This bug was reported and "fixed" in Gnome [here](https://gitlab.gnome.org/GNOME/gnome-control-center/merge_requests/165).
+This bug was reported and "fixed" in Gnome [Bug Tracker](https://gitl.gnome.org/GNOME/gnome-control-center/merge_requests/165).
 So in either the Ubuntu 19.04 or 19.10 releases (I don't know which) the "Automatic Time Zone" setting will be grayed out when location services is off.
 The problem there is that it still won't tell you the issue, but at least it's a step in the right direction I guess.
 
