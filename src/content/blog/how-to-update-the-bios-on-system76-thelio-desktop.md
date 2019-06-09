@@ -13,6 +13,14 @@ tags:
 feature: "system76-thelio-bios.png"
 ---
 
+**Update:** An engineer from System76 chipped in suggesting that this is not a good way to update the BIOS.
+Their method is still unavailable though.
+While this may not be the best way to update the BIOS for Thelio computers, this method should still work for GIGABYTE based PCs that don't support Linux the way System76 does.
+
+---
+
+{{< tweet 1137809054057750528 >}}
+
 I bought a [System76 Thelio][s76-thelio] desktop computer earlier this year (btw, I love it).
 The BIOS on its Gigabyte motherboard is two releases old.
 All of the instructions I found on how to update the BIOS involved Windows or formatting and imaging a USB flash drive.
@@ -22,13 +30,10 @@ Here's how I updated the UEFI BIOS on my Thelio's Gigabyte motherboard using onl
 
 <!--more-->
 
+
 ***disclaimer 1:*** &nbsp;Many people suggest that when it comes to BIOS updates, if your BIOS is behaving correctly, you're probably better off not updating it to avoid any risk of messing it up.
 I like to have all my firmware/software up-to-date.
 I followed the exact steps below on my own computer and it worked great.
-
-***disclaimer 2:*** &nbsp;My update worked successfully though I did lose the System76 logo when the BIOS starts up on boot.
-These instructions were not provided by System76.
-In fact, I couldn't find any which is why I wrote this.
 
 
 ## How to update Gigabyte BIOS using Ubuntu and EFI partition
