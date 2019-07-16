@@ -206,3 +206,11 @@ start_date = 2019-05-03T17:00:00-05:00
 end_date   = 2019-05-03T22:00:00-05:00
 location   = "Philadelphia, PA"
 link       = "https://www.eventbrite.com/e/ptw19-kickoff-festival-in-old-city-tickets-55762905351"
+
+[[events]]
+type       = "conference"
+name       = "FOSSCON 2019"
+start_date = 2019-08-17T08:00:00-05:00
+end_date   = 2019-08-17T17:00:00-05:00
+location   = "Philadelphia, PA"
+link       = "https://fosscon.us/"
