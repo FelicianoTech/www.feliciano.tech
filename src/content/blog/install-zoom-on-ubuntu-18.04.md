@@ -14,6 +14,11 @@ Here's how to install Zoom, a popular video chat software, on Ubuntu 18.04.
 
 <!--more-->
 
+**Update:** I created a script to make this even easier.
+Please see [my new blog post](https://www.feliciano.tech/blog/install-and-update-zoom-on-ubuntu/).
+
+---
+
 ```bash
 wget -O /tmp/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
 sudo apt update && sudo apt install libxcb-xtest0
