@@ -5,7 +5,9 @@ date: 2018-09-06T00:00:00-04:00
 categories:
   - "How To"
 tags:
-  - ""
+  - "zoom"
+  - "ubuntu"
+  - "ubuntu-1804"
 ---
 
 Here's how to install Zoom, a popular video chat software, on Ubuntu 18.04.
