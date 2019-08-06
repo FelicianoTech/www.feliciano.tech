@@ -25,5 +25,5 @@ jobs:
           at: src
       - add_ssh_keys
       - run: |
-          echo 'web01.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJiGRY6N9WYQ0vy6cTiwAgNbc6ueJmVo/EafBtmT7bcD6cQMbipYM/KfYQ2lCn2TxqWepZKYoyoVQXgArycCOns=' >> ~/.ssh/known_hosts
-          rsync -va --delete src/public/ staticweb@web01.revidian.net:www/www.feliciano.tech/public_html
+          echo 'sweb0.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHyIA/VJN9GHUeYUvauk+sGsQcvk8FpXErixwvgqQmW1pdje/Vo4RyAAskzdgoR+HUYOWM1gLW7ZFZHL8F//sqw=' >> ~/.ssh/known_hosts
+          rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/felicianotech/www/public_html
