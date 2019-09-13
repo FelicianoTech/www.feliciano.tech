@@ -200,17 +200,17 @@ location   = "Boston, MA"
 link       = "https://www.eventbrite.com/e/orb-a-palooza-circleci-partners-hackathon-event-tickets-58665634492"
 
 [[events]]
-type       = "conference"
-name       = "Philly Tech Week - Kickoff Festival"
-start_date = 2019-05-03T17:00:00-05:00
-end_date   = 2019-05-03T22:00:00-05:00
-location   = "Philadelphia, PA"
-link       = "https://www.eventbrite.com/e/ptw19-kickoff-festival-in-old-city-tickets-55762905351"
+type       = "meetup"
+name       = "NYC Mesh: Org Meetup"
+start_date = 2019-08-06T19:00:00-05:00
+end_date   = 2019-08-06T21:00:00-05:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/nycmesh/events/ljtlvqyzlbrb/"
 
 [[events]]
-type       = "conference"
-name       = "FOSSCON 2019"
-start_date = 2019-08-17T08:00:00-05:00
-end_date   = 2019-08-17T17:00:00-05:00
-location   = "Philadelphia, PA"
-link       = "https://fosscon.us/"
+type       = "meetup"
+name       = "Golang NYC: September Meetup"
+start_date = 2019-09-24T19:00:00-05:00
+end_date   = 2019-09-24T21:00:00-05:00
+location   = "New York, NY"
+link       = "https://www.meetup.com/golanguagenewyork/events/264249534/"
