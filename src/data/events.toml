@@ -209,8 +209,16 @@ link       = "https://www.meetup.com/nycmesh/events/ljtlvqyzlbrb/"
 
 [[events]]
 type       = "meetup"
-name       = "Golang NYC: September Meetup"
-start_date = 2019-09-24T19:00:00-05:00
-end_date   = 2019-09-24T21:00:00-05:00
+name       = "Hacktoberfest 2019 Official Kick-Off Celebration"
+start_date = 2019-10-01T18:30:00-05:00
+end_date   = 2019-10-01T21:30:00-05:00
 location   = "New York, NY"
-link       = "https://www.meetup.com/golanguagenewyork/events/264249534/"
+link       = "https://www.eventbrite.com/e/hacktoberfest-2019-official-kick-off-celebration-tickets-71109054095"
+
+[[events]]
+type       = "meetup"
+name       = "Hacktoberfest Open Hack Night in New York"
+start_date = 2019-10-28T18:00:00-05:00
+end_date   = 2019-10-28T21:00:00-05:00
+location   = "New York, NY"
+link       = "https://www.eventbrite.com/e/hacktoberfest-open-hack-night-in-new-york-tickets-73438308959"
