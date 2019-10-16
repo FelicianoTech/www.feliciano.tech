@@ -16,6 +16,28 @@ workflows:
           filters:
             branches:
               only: master
+  nightly:
+    # This nightly workflow is to rebuild the site in case there are blog posts
+    # that need to be published
+    triggers:
+      - schedule:
+          # Everyday at 10am UTC or 5/6am Eastern
+          cron: "0 10 * * *"
+          filters:
+            branches:
+              only: master
+    jobs:
+      - hugo/build:
+          version: "0.58.2"
+          source: "src/"
+          html-proofer: true
+      - deploy:
+          requires:
+            - hugo/build
+          filters:
+            branches:
+              only: master
+
 jobs:
   deploy:
     docker:
