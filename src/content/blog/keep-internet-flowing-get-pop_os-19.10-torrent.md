@@ -30,4 +30,4 @@ Here are the torrents for both the Intel/AMD 64-bit and Nvidia releases:
 Don’t forget to seed! I will be.
 
 [1]: https://www.feliciano.tech/downloads/pop-os_19.10_amd64_intel_8.iso.torrent
-[2]: https://www.feliciano.tech/downloads/pop-os_19.10_amd64_intel_8.iso.torrent
+[2]: https://www.feliciano.tech/downloads/pop-os_19.10_amd64_nvidia_8.iso.torrent
