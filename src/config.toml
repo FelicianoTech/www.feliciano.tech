@@ -47,8 +47,8 @@ enableEmoji = true
     weight = 2
 
 [[menu.social]]
-    url = "https://www.facebook.com/FelicianoTech"
-    name = "facebook"
+    name = "dev"
+    url = "https://dev.to/felicianotech"
     weight = 3
 
 [[menu.social]]
