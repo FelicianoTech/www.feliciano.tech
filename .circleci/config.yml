@@ -8,7 +8,7 @@ workflows:
     jobs:
       - hugo/build:
           version: "0.59.0"
-          source: "src/"
+          source: "src"
           html-proofer: true
       - deploy:
           requires:
@@ -29,7 +29,7 @@ workflows:
     jobs:
       - hugo/build:
           version: "0.59.0"
-          source: "src/"
+          source: "src"
           html-proofer: true
       - deploy:
           requires:
