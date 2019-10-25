@@ -54,7 +54,10 @@ Here's an example using `.ByTitle`:
 ```
 
 That's how you can customize sort in a single page template.
-It's not as simple as if `.NextInSection.ByTitle` could exist, but it's simple enough and works.
+It's not as simple as using something like `.NextInSection.ByTitle` if it existed, but it's simple enough and works.
+
+
+_edit: I was told that this method works **best** when used with Hugo v0.59.0 and newer._
 
 
 
