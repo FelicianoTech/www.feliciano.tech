@@ -47,6 +47,6 @@ jobs:
           at: src
       - add_ssh_keys
       - run: |
-          apt-get install rsync
+          apt-get install -y rsync
           echo 'sweb0.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHyIA/VJN9GHUeYUvauk+sGsQcvk8FpXErixwvgqQmW1pdje/Vo4RyAAskzdgoR+HUYOWM1gLW7ZFZHL8F//sqw=' >> ~/.ssh/known_hosts
           rsync -va --delete src/public/ root@sweb0.revidian.net:/static-websites/felicianotech/www/public_html
