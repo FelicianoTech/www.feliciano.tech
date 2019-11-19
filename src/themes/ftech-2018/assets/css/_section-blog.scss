@@ -24,6 +24,12 @@ main.single{
 		margin: 0;
 	}
 
+	h2::before{
+		margin-right: 8px;
+		content: "#";
+		color: $logo-blue;
+	}
+
 	img.feature{
 		margin-top: 20px;
 	}
