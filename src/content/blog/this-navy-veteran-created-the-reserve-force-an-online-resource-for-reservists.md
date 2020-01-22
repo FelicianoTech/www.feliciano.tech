@@ -8,6 +8,7 @@ tags:
   - military
   - release
   - navy
+feature: "the-reserve-force.png"
 ---
 
 I spent 6+ years serving in the United States Navy.
