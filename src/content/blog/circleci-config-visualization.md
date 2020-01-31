@@ -28,3 +28,6 @@ Here's a brief explanation of the terms:
 **job** - A collection of steps that will run in a specified execution environment (executor). Either a Docker container or a virtual machine (VM).
 
 **step** - The smallest unit in a CircleCI pipeline, it runs shell commands. These shell commands are typically Bash commands but a step can be configured to run something else. In CircleCI Orbs, steps go by the name `commands` instead but they work the same.
+
+This is my personal explanation on how this all works.
+You can go straight to the source and learn more at [CircleCI Docs](https://circleci.com/docs/).
