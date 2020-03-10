@@ -17,11 +17,11 @@ Here's a few CircleCI gotchas and myths that I tend to see with new users or com
 <!--more-->
 
 - [Each step runs in its own shell](#1-each-step-runs-in-its-own-shell)
-- [Binaries in secondary images aren't available in primary image](#2-binaries-in-secondary-images-aren-t-available-in-primary-image)
+- [Binaries in secondary images aren't available in primary image](#2-binaries-in-secondary-images-arent-available-in-primary-image)
 - [Sometimes CircleCI is too fast](#3-sometimes-circleci-is-too-fast)
 - [Docker knowledge is required to use CircleCI](#4-docker-knowledge-is-required-to-use-circleci)
-- [CircleCI doesn't support X language](#5-circleci-doesn-t-support-x-language)
-- [CircleCI doesn't support monorepos](#6-circleci-doesn-t-support-monorepos)
+- [CircleCI doesn't support X language](#5-circleci-doesnt-support-x-language)
+- [CircleCI doesn't support monorepos](#6-circleci-doesnt-support-monorepos)
 
 
 ## Common Gotchas
