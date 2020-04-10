@@ -1,7 +1,7 @@
 ---
 title: "Discourse Directory"
 description: "A directory of Discourse communities from around the Internet."
-weight: 20
+weight: 40
 feature: "discourse-directory.png"
 ProjectType: "Website"
 website: "https://Discourse.Directory"

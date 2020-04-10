@@ -1,7 +1,7 @@
 ---
 title: "Pointless"
 description: "Pointless is a CircleCI extension that enhances browsing experience on websites such as GitHub."
-weight: 10
+weight: 20
 feature: "pointless.png"
 ProjectType: "Software"
 github: "https://github.com/felicianotech/pointless"
