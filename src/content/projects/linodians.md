@@ -1,7 +1,7 @@
 ---
 title: "Linodians"
 description: "The Linode Fan Community. For folks who like to run their own servers and share tips with each other."
-weight: 5
+weight: 30
 feature: "linodians.png"
 ProjectType: "Community"
 website: "https://Linodians.com"
