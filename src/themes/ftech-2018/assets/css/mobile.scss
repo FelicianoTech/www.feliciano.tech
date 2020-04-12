@@ -137,6 +137,14 @@ main.single{
 	form{
 		width: 75%;
 	}
+
+	body > footer{
+		height: 150px;
+
+		img.logo{
+			height: 80px;
+		}
+	}
 }
 
 
@@ -179,5 +187,18 @@ main.single{
 
 	form{
 		width: 85%;
+	}
+
+	body > footer{
+		height: 100px;
+
+		span{
+			width: 40%;
+			font-size: smaller;
+		}
+
+		img.logo{
+			height: 50px;
+		}
 	}
 }
