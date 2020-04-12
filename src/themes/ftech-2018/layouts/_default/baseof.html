@@ -21,6 +21,7 @@
 	{{ partial "open-graph" . }}
 	{{ partial "twitter-card" . }}
 	{{ partial "verifications" . }}
+	<link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="Feliciano.Tech Blog" />
 </head>
 <body class="{{ if .IsHome }}home {{ end }}{{ if .Section }}section-{{ .Section }}{{ end }}">
 	{{ partial "header" . }}
