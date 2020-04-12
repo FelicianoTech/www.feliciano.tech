@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "subnav-blog" . }}
 <main class="single">
-<article id="{{ .UniqueID }}">
+<article id="{{ .File.UniqueID }}">
 	<header>
 		<h1>{{ .Title }}</h1>
 		<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time></span>

@@ -4,7 +4,7 @@
 	<h1>{{ .Title }}</h1>
 	{{ if .Content }}<div class="content-body">{{ .Content }}</div>{{ end }}
 	{{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
-		<article id="{{ .UniqueID }}">
+		<article id="{{ .File.UniqueID }}">
 			<header>
 				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 				<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time></span>
