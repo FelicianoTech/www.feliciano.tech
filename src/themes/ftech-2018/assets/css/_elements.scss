@@ -1,15 +1,18 @@
-code,
-pre code{
+pre{
+	border-radius: 5px;
 	background-color: #DEDEDE;
-	padding: 2px 6px;
-	color: #1C1C1C;
-	font-family: monospace;
-	white-space: pre;
+	padding: 10px;
+	overflow: auto;
 }
-pre code{
-	display: block;
-	padding: 20px;
-}
+
+	code,
+	pre code{
+		background-color: #DEDEDE;
+		padding: 4px 5px;
+		color: #1C1C1C;
+		font-family: monospace;
+		white-space: pre;
+	}
 
 ul.menu{
 
