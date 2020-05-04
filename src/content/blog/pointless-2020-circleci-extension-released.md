@@ -14,6 +14,10 @@ feature: "circleci-wallpaper11.jpg"
 Changes:
  - docs search cleaned up
  - orb search added
+ - orientation of status dot improved
+ 	- bigger
+	- alligned
+ - status dot now branch aware
 
 
 
