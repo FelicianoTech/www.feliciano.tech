@@ -12,7 +12,7 @@ function decodeVIN( vin, div ){
 
 	if( vin.length != 17 ){
 	
-		div.append( "Error: Not a valid VIN. Must be 13-digits." );
+		div.append( "Error: Not a valid VIN. Must be 17-characters." );
 		return;
 	}
 
