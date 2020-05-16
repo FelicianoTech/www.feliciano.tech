@@ -128,7 +128,7 @@ function verifyCheckDigit( vin ){
 // Much of this DB type data should move to a JSON file at some point
 var manufacturerID = [
 	{ "code": "1HD", "value": "Manufactured in the U.S.A. for the U.S.A." },
-	{ "code": "5HD", "value": "Manufactured in the U.S.A. for other counties." },
+	{ "code": "5HD", "value": "Manufactured in the U.S.A. for other countries." },
 	{ "code": "932", "value": "Manufactured in and for sale only in Brazil." },
 	{ "code": "MEG", "value": "Manufactured in and for sale only in India." },
 	{ "code": "MLY", "value": "Originally manufactured in Thailand." },
