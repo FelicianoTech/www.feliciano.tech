@@ -62,19 +62,21 @@ function decodeVIN( vin, div ){
 		}
 	});
 
-	var modelYear;
-	modelYears.forEach( function( item ){
-		
-		if( item.code == vin.substring( 9, 10 ) ){
-			modelYear = item.value;
-		}
-	});
-
 	var mfgPlant;
+	var yearGroup;
 	manufacturingPlant.forEach( function( item ){
 		
 		if( item.code == vin.substring( 10, 11 ) ){
 			mfgPlant = item.value;
+			yearGroup = item.yearGroup;
+		}
+	});
+
+	var modelYear;
+	modelYears.forEach( function( item ){
+		
+		if( item.code == vin.substring( 9, 10 ) ){
+			modelYear = item.value[ yearGroup ];
 		}
 	});
 
@@ -380,45 +382,46 @@ var introductionPeriods = [
 ];
 
 var modelYears = [
-	{ "code": "A", "value": "2010" },
-	{ "code": "B", "value": "1981, 2011" },
-	{ "code": "C", "value": "1982, 2012" },
-	{ "code": "D", "value": "1983, 2013" },
-	{ "code": "E", "value": "1984, 2014" },
-	{ "code": "F", "value": "1985, 2015" },
-	{ "code": "G", "value": "1986, 2016" },
-	{ "code": "H", "value": "1987, 2017" },
-	{ "code": "J", "value": "1988, 2018" },
-	{ "code": "K", "value": "1989, 2019" },
-	{ "code": "L", "value": "1990, 2020" },
-	{ "code": "M", "value": "1991, 2021" },
-	{ "code": "N", "value": "1992, 2022" },
-	{ "code": "P", "value": "1993, 2023" },
-	{ "code": "R", "value": "1994, 2024" },
-	{ "code": "S", "value": "1995, 2025" },
-	{ "code": "T", "value": "1996, 2026" },
-	{ "code": "V", "value": "1997, 2027" },
-	{ "code": "W", "value": "1998, 2028" },
-	{ "code": "X", "value": "1999, 2029" },
-	{ "code": "Y", "value": "2000, 2030" },
-	{ "code": "1", "value": "2001, 2031" },
-	{ "code": "2", "value": "2002, 2032" },
-	{ "code": "3", "value": "2003, 2033" },
-	{ "code": "4", "value": "2004, 2034" },
-	{ "code": "5", "value": "2005, 2035" },
-	{ "code": "6", "value": "2006, 2036" },
-	{ "code": "7", "value": "2007, 2037" },
-	{ "code": "8", "value": "2008, 2038" },
-	{ "code": "9", "value": "2009, 2039" },
+	{ "code": "A", "value": ["1980", "2010"] },
+	{ "code": "B", "value": ["1981", "2011"] },
+	{ "code": "C", "value": ["1982", "2012"] },
+	{ "code": "D", "value": ["1983", "2013"] },
+	{ "code": "E", "value": ["1984", "2014"] },
+	{ "code": "F", "value": ["1985", "2015"] },
+	{ "code": "G", "value": ["1986", "2016"] },
+	{ "code": "H", "value": ["1987", "2017"] },
+	{ "code": "J", "value": ["1988", "2018"] },
+	{ "code": "K", "value": ["1989", "2019"] },
+	{ "code": "L", "value": ["1990", "2020"] },
+	{ "code": "M", "value": ["1991", "2021"] },
+	{ "code": "N", "value": ["1992", "2022"] },
+	{ "code": "P", "value": ["1993", "2023"] },
+	{ "code": "R", "value": ["1994", "2024"] },
+	{ "code": "S", "value": ["1995", "2025"] },
+	{ "code": "T", "value": ["1996", "2026"] },
+	{ "code": "V", "value": ["1997", "2027"] },
+	{ "code": "W", "value": ["1998", "2028"] },
+	{ "code": "X", "value": ["1999", "2029"] },
+	{ "code": "Y", "value": ["2000", "2030"] },
+	{ "code": "1", "value": ["2001", "2031"] },
+	{ "code": "2", "value": ["2002", "2032"] },
+	{ "code": "3", "value": ["2003", "2033"] },
+	{ "code": "4", "value": ["2004", "2034"] },
+	{ "code": "5", "value": ["2005", "2035"] },
+	{ "code": "6", "value": ["2006", "2036"] },
+	{ "code": "7", "value": ["2007", "2037"] },
+	{ "code": "8", "value": ["2008", "2038"] },
+	{ "code": "9", "value": ["2009", "2039"] },
 ];
 
 var manufacturingPlant = [
-	{ "code": "B", "value": "York, PA" },
-	{ "code": "Y", "value": "York, PA" },
-	{ "code": "T", "value": "Tomahawk, WI" },
-	{ "code": "J", "value": "Milwaukee, WI" },
-	{ "code": "K", "value": "Kansas City, MO" },
-	{ "code": "D", "value": "Manaus, Brazil" },
-	{ "code": "E", "value": "Buell East Troy" },
-	{ "code": "N", "value": "Haryana, India (Bawal District Rewari)" },
+	{ "code": "B", "value": "York, PA", "yearGroup": 1 },
+	{ "code": "Y", "value": "York, PA", "yearGroup": 0 },
+	{ "code": "T", "value": "Tomahawk, WI", "yearGroup": 0 },
+	{ "code": "J", "value": "Milwaukee, WI", "yearGroup": 0 },
+	{ "code": "K", "value": "Kansas City, MO", "yearGroup": 0 },
+	{ "code": "D", "value": "Manaus, Brazil", "yearGroup": 0 },
+	{ "code": "E", "value": "Buell East Troy", "yearGroup": 0 },
+	{ "code": "N", "value": "Haryana, India (Bawal District Rewari)", "yearGroup": 0 },
+	{ "code": "C", "value": "Kansas City, MO", "yearGroup": 1 },
 ];
