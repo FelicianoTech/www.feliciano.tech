@@ -27,7 +27,7 @@ First we need to install **pcscd** and **coolkey**. pcscd is the software that h
 
 `sudo apt-get install coolkey pcscd`
 
-&nbsp;<figure id="attachment_193" style="width: 1000px" class="wp-caption aligncenter">
+<figure id="attachment_193" class="wp-caption aligncenter">
 
 <figure><img class="size-full wp-image-193" alt="Installing pcscd and coolkey in Terminal" src="/assets/img/article/dod-cac-setup-step1.png" /><figcaption class="wp-caption-text">Installing pcscd and coolkey in Terminal</figcaption></figure> 
 
@@ -35,13 +35,13 @@ First we need to install **pcscd** and **coolkey**. pcscd is the software that h
 
 Once everything is installed, we just need to tell Firefox to use coolkey for our CAC. Open Firefox, go to the menu at the top and click  Edit -> Preferences. In preferences, click Advanced, then the Encryption sub-tab. Click the Security Devices button.
 
-&nbsp;<figure id="attachment_194" style="width: 669px" class="wp-caption aligncenter">
+<figure id="attachment_194" class="wp-caption aligncenter">
 
 <figure><img class="size-full wp-image-194" alt="Edit -> Preferences -> Advanced -> Encryption Security Devices" src="/assets/img/article/dod-cac-setup-step2-1.png" /><figcaption class="wp-caption-text">Edit -> Preferences -> Advanced -> Encryption Security Devices</figcaption></figure> 
 
 In the window that opens up, called Device Manager, click the Load button on the right. For Module Name, type DoD CAC. Technically this can be anything, but put something descriptive. For Module filename, you have to tell Firefox where coolkey is installed. Click browse, click filesystem on the left. Coolkey is located at **/usr/lib/pkcs11/libcoolkeypk11.so**. Click okay, close out of everything, and restart Firefox.
 
-&nbsp;<figure id="attachment_195" style="width: 1071px" class="wp-caption aligncenter">
+<figure id="attachment_195" class="wp-caption aligncenter">
 
 <figure><img class="size-full wp-image-195" alt="Telling Firefox where Coolkey is" src="/assets/img/article/dod-cac-setup-step2-2.png" /><figcaption class="wp-caption-text">Telling Firefox where Coolkey is</figcaption></figure> 
 
