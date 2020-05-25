@@ -7,7 +7,7 @@ workflows:
   main:
     jobs:
       - hugo/build:
-          version: "0.71"
+          version: "0.71.0"
           source: "src"
           html-proofer: true
       - deploy:
@@ -28,7 +28,7 @@ workflows:
               only: master
     jobs:
       - hugo/build:
-          version: "0.71"
+          version: "0.71.0"
           source: "src"
           html-proofer: true
       - deploy:
@@ -41,7 +41,7 @@ workflows:
 jobs:
   deploy:
     docker:
-      - image: cibuilds/hugo:0.71
+      - image: cibuilds/hugo:0.71.0
     steps:
       - attach_workspace:
           at: src
