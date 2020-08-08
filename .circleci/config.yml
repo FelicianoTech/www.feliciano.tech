@@ -16,7 +16,6 @@ workflows:
           filters:
             branches:
               only: master
-  nightly:
     # This nightly workflow is to rebuild the site in case there are blog posts
     # that need to be published
     triggers:
