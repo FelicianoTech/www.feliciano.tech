@@ -1,7 +1,7 @@
 ---
 title: "CircleCI Tip: Use Explicit Packages"
 author: FelicianoTech
-date: 2020-10-05T19:00:00-05:00
+date: 2020-10-05T19:00:00-04:00
 categories:
   - "tips"
 tags:
