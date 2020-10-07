@@ -17,7 +17,7 @@ I shared a quick social media post that I have included below:
 
 <!--more-->
 
-{{< tweet 1039478344994226176 >}}
+<!--< tweet 1039478344994226176 >-->
 
 
 ## Brotherhood

@@ -19,7 +19,7 @@ While this may not be the best way to update the BIOS for Thelio computers, this
 
 ---
 
-{{< tweet 1137809054057750528 >}}
+<!--< tweet 1137809054057750528 >-->
 
 I bought a [System76 Thelio][s76-thelio] desktop computer earlier this year (btw, I love it).
 The BIOS on its Gigabyte motherboard is two releases old.
