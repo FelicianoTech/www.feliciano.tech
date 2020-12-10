@@ -1,18 +1,18 @@
 version: 2.1
 
 orbs:
-  hugo: circleci/hugo@0.3
+  gotham: hubci/gotham@0.1
 
 workflows:
   main:
     jobs:
-      - hugo/build:
-          version: "0.71.0"
+      - gotham/build:
+          version: "0.9.0"
           source: "src"
           html-proofer: true
       - deploy:
           requires:
-            - hugo/build
+            - gotham/build
           filters:
             branches:
               only: master
@@ -27,13 +27,13 @@ workflows:
             branches:
               only: master
     jobs:
-      - hugo/build:
-          version: "0.71.0"
+      - gotham/build:
+          version: "0.9.0"
           source: "src"
           html-proofer: true
       - deploy:
           requires:
-            - hugo/build
+            - gotham/build
           filters:
             branches:
               only: master
@@ -41,7 +41,7 @@ workflows:
 jobs:
   deploy:
     docker:
-      - image: cibuilds/hugo:0.71.0
+      - image: hubci/gotham:0.9.0
     steps:
       - attach_workspace:
           at: src
