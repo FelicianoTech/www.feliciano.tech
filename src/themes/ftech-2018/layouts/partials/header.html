@@ -3,7 +3,7 @@
 		<ul class="menu h social">
 			<li class="site-title"><a href="{{ .Site.BaseURL  }}">{{ .Site.Title }}</a></li>
 		{{ range .Site.Menus.social }}
-			<li><a href="{{ .URL }}" target="_blank"><i class="fab fa-{{ .Name }}"></i></a></li>
+			<li><a href="{{ .URL }}" rel="me" target="_blank"><i class="fab fa-{{ .Name }}"></i></a></li>
 		{{ end }}
 		</ul>
 		<ul class="menu h main">
@@ -15,7 +15,7 @@
 		{{ end }}
 			<li class="social-links">
 			{{ range .Site.Menus.social }}
-				<a href="{{ .URL }}" target="_blank"><i class="fab fa-{{ .Name }}"></i></a>
+				<a href="{{ .URL }}" rel="me" target="_blank"><i class="fab fa-{{ .Name }}"></i></a>
 			{{ end }}
 			</li>
 		</ul>
