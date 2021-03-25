@@ -1,7 +1,7 @@
 ---
 title: "The Reserve Force Turned 1!"
 author: FelicianoTech
-date: 2021-03-24T22:00:00-05:00
+date: 2021-03-24T22:00:00-04:00
 feature: "the-reserve-force.png"
 ---
 
