@@ -61,6 +61,16 @@ figcaption{
 	font-style: italic;
 }
 
+figure.small{
+	width: 40%;
+	min-width: 300px;
+}
+
+figure.medium{
+	width: 60%;
+	min-width: 350px;
+}
+
 form{
 	margin: 0 auto;
 	width: 60%;
