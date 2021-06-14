@@ -20,7 +20,7 @@ Here's how to install Minecraft Java Edition on Ubuntu, short and sweet.
 
 ```bash
 sudo apt install default-jre
-curl -sSL "https://launcher.mojang.com/download/Minecraft.deb" -O /tmp/Minecraft.deb
+curl -sSL "https://launcher.mojang.com/download/Minecraft.deb" -o /tmp/Minecraft.deb
 sudo dpkg -i /tmp/Minecraft.deb
 ```
 
