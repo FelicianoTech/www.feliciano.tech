@@ -114,6 +114,7 @@ $( "#gluster-calc-form" ).change( function( event ){
 	$( "#totalBricks input" ).val( totalBricks );
 	$( "#usableStorage input" ).val( usableStorage );
 	$( "#percentStorage input" ).val( percSize );
+	$( "#totalStorage input" ).val( totalStorage );
 	$( "#stripeSize input" ).val( stripeSize );
 
 });

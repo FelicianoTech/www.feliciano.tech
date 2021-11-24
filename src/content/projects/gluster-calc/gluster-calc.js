@@ -40,7 +40,7 @@ function dvCalcUsableStorage( size, dataBricks ){
 }
 
 function dvCalcTotalStorage( size, totalBricks ){
-	return Number( size ) * Number( totalBricks );
+	return ( Number( size ) * Number( totalBricks )) + " GiB";
 }
 
 function dvCalcStoragePercent( size, dataBricks, totalBricks ){
