@@ -19,6 +19,10 @@ enableEmoji = true
 		[markup.goldmark.renderer]
 			unsafe = true
 
+[jsConfig]
+	transpiler = "dartsass"
+	outputStyle = "expanded"
+
 [[menu.main]]
 	name	= "Home"
 	url		= "/"
