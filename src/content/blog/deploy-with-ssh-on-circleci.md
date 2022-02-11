@@ -8,7 +8,7 @@ tags:
   - circleci
 ---
 
-One of the most recurring issues I see on the [Circle Discuss](https://discuss.circleci.com) forum are being playing around with SSH keys in order to get them to work with external servers.
+One of the most recurring issues I see on the [CircleCI Discuss](https://discuss.circleci.com) forum are people playing around with SSH keys in order to get them to work with external servers.
 There are different ways to handle this.
 Here's my favorite method to do it.
 
