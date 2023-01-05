@@ -43,7 +43,7 @@ enableEmoji = true
 [[menu.social]]
     url = "https://twitter.com/FelicianoTech"
     name = "twitter"
-    weight = 10
+    weight = 30
 
 [[menu.social]]
     name = "github"
@@ -53,7 +53,7 @@ enableEmoji = true
 [[menu.social]]
     name = "mastodon"
     url = "https://nanobyte.cafe/@FelicianoTech"
-    weight = 30
+    weight = 10
 
 [[menu.social]]
     name = "dev"
