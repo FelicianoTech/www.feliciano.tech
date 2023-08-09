@@ -1,0 +1,25 @@
+{{- $font := resources.GetRemote "https://github.com/googlefonts/rubik/raw/main/old/version-2/fonts/ttf/Rubik-Bold.ttf" -}}
+{{- $textArea := resources.Get "/img/padding.png" -}}
+{{- $textArea = $textArea.Resize "1420x500" -}}
+{{- $textArea = $textArea.Filter (images.Text .Title (dict
+	"font" $font
+	"color" "#ffffff"
+	"size" 80
+	"x" 0
+	"y" 0
+)) -}}
+{{- $img := resources.Get "/img/blog/background.png" -}}
+{{- $img = $img.Filter (images.Text ( printf "%2d min read" .ReadingTime ) (dict
+	"color" "#ffffff"
+	"size" 40
+	"x" 1240
+	"y" 136
+)) -}}
+{{- $img = $img.Filter (images.Overlay $textArea 90 300 ) -}}
+{{- $img = $img.Filter (images.Text ( .Date.Format "January 2, 2006" ) (dict
+	"color" "#ffffff"
+	"size" 46
+	"x" 90
+	"y" 730
+)) -}}
+{{- $img.RelPermalink -}}

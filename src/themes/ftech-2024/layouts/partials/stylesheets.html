@@ -1,0 +1,21 @@
+{{- $style := resources.Get "vendor/sanitize-13.0/sanitize.css" | minify -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	<link rel="stylesheet" href="{{ "vendor/font-awesome-6.4/css/fontawesome.min.css" | relURL }}">
+	<link rel="stylesheet" href="{{ "vendor/font-awesome-6.4/css/brands.min.css" | relURL }}">
+	<link rel="stylesheet" href="{{ "vendor/font-awesome-6.4/css/solid.min.css" | relURL }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bungee&family=Noto+Sans:wght@400;700&family=Noto+Serif:wght@400;700&display=swap">
+{{- $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{- if .IsHome }}
+	{{- $style := resources.Get "css/homepage.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ end }}
+{{- $style := resources.Get "css/mobile.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}" media="(max-width:1000px)">
+{{ with .Page.Params.css }}
+	{{ range . -}}
+		<link rel="stylesheet" href="{{ . }}" crossorigin="">
+	{{- end }}
+{{ end }}

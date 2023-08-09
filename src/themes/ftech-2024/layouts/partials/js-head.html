@@ -1,0 +1,6 @@
+<script type="text/JavaScript" src="{{ "assets/js/main.js" | relURL }}"></script>
+{{ with .Page.Params.js }}
+	{{ range . }}
+		<script src="{{ . }}" crossorigin=""></script>
+	{{ end }}
+{{ end }}
