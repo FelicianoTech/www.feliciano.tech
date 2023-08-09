@@ -1,8 +1,0 @@
-{{ $pager := $.Paginator }}
-{{ if gt $pager.TotalPages 1 }}
-	<div class="pager">
-		{{ if $pager.HasPrev }}<a class="newer" href="{{ $pager.Prev.URL }}">&lt; Newer Posts</a>{{ end }}
-		{{ if $pager.HasNext }}<a class="older" href="{{ $pager.Next.URL }}">Older Posts &gt;</a>{{ end }}
-	</div>
-{{ end }}
-
