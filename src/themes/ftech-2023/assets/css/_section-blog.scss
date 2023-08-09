@@ -1,0 +1,42 @@
+main.list{
+	article{
+		margin-top: 30px;
+		border-top: 1px solid #333333;
+	}
+
+	h2{
+		margin-bottom: 0;
+	}
+
+	footer{
+		text-align: right;
+	}
+}
+
+main.single{
+
+	.posted-on{
+		display: block;
+		text-align: center;
+	}
+
+	h1{
+		margin: 0;
+	}
+
+	h2::before{
+		margin-right: 8px;
+		content: "#";
+		color: $logo-blue;
+	}
+
+	img.feature{
+		display: block;
+		margin: 20px auto 50px;
+	}
+
+	footer{
+		margin-top: 30px;
+		border-top: 1px solid grey;
+	}
+}

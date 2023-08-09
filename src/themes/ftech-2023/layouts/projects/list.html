@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="list">
+	<h1>{{ .Section | humanize }}</h1>
+	{{ range .Pages }}
+	<div id="{{ .File.UniqueID }}" class="project">
+		<img src="/assets/img/feature/{{ .Params.feature }}" alt="" />
+		<div class="content">
+			<h2>{{ .Title }}</h2>
+			<p>{{ .Description }}</p>
+			<div class="metadata">
+				<span class="project-type">{{ .Params.ProjectType }}</span>
+				{{ if .Params.github }}<a href="{{ .Params.github }}" target="_blank"><i class="fab fa-github"></i></a>{{ end }}
+				{{ if .Params.DockerHub }}<a href="{{ .Params.DockerHub }}" target="_blank"><i class="fa fa-ship"></i></a>{{ end }}
+				{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank"><i class="fa fa-globe"></i></a>{{ end }}
+				{{ if .Params.ChromeStore }}<a href="{{ .Params.ChromeStore }}" target="_blank"><i class="fab fa-chrome"></i></a>{{ end }}
+			</div>
+		</div>
+	</div>
+	{{ end }}
+</main>
+{{ end }}

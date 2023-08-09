@@ -1,0 +1,24 @@
+<header>
+	<nav>
+		<ul class="menu h social">
+			<li class="site-title"><a href="{{ .Site.BaseURL  }}">{{ .Site.Title }}</a></li>
+		{{ range .Site.Menus.social }}
+			<li><a href="{{ .URL }}" rel="me" target="_blank"><i class="fab fa-{{ .Name }}"></i></a></li>
+		{{ end }}
+		</ul>
+		<ul class="menu h main">
+		{{- $urlPart1 := print "/" (index (split .Permalink "/") 1) "/" -}}
+		{{ range .Site.Menus.main }}
+			<li class="{{ if or ($.IsMenuCurrent "main" .) (eq ($urlPart1 | lower) (.URL | lower)) }}active{{end}}">
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+		{{ end }}
+			<li class="social-links">
+			{{ range .Site.Menus.social }}
+				<a href="{{ .URL }}" rel="me" target="_blank"><i class="fab fa-{{ .Name }}"></i></a>
+			{{ end }}
+			</li>
+		</ul>
+		<a class="toggle"><span class="fas fa-bars"></span></a>
+	</nav>
+</header>

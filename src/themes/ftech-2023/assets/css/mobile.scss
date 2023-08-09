@@ -1,0 +1,204 @@
+@import "colors";
+
+/* Rules without a media query present take affect when the webpage is 1,000px 
+ * or less. */
+main.list,
+main.single{
+	margin: 0 9%;
+
+	h1{
+		font-size: 3.8rem;
+	}
+}
+
+/************************************************
+ * <= 850px width
+ * *********************************************/
+@media(max-width: 850px){
+
+	body > header .site-title{
+		font-size: 2.0rem;
+	}
+
+	body > header nav{
+		border-bottom: #00aeef solid 4px;
+		background: url("/assets/img/logo-monochrome-white.svg") center/auto 55% no-repeat;
+		padding: 0 10px;
+		height: 70px;
+		line-height: 70px;
+
+		ul.main li{
+			padding: 0 4px;
+		}
+	}
+
+	main.list,
+	main.single{
+		margin: 0 5%;
+
+		h1{
+			font-size: 3.5rem;
+		}
+	}
+
+	div.share-buttons{
+		top: auto;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		display: flex;
+
+		div,
+		a{
+			width: 100%;
+		}
+
+		div.share-down{
+			display: none;
+		}
+
+		div.share-right{
+			display: block;
+		}
+	}
+
+	body.section-blog{
+		padding-bottom: 48px; /* Make space for social share buttons. */
+	}
+}
+
+
+/************************************************
+ * <= 750px width
+ * *********************************************/
+@media(max-width: 750px){
+
+	body > header nav{
+		ul.social li:not( .site-title ){
+			display: none;
+		}
+
+		ul.main{
+			display: none;
+			position: absolute;
+			top: 70px;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background-color: $site-bg;
+			z-index: 100;
+
+			&.h li{
+				float: none;
+				text-align: center;
+			}
+
+			li.social-links{
+				display: list-item;
+
+				a{
+					display: inline-block;
+					padding: 0 5px;
+				}
+			}
+		}
+
+		a.toggle{
+			display: block;
+			margin-right: -10px;
+			width: 66px;
+			text-align: center;
+			font-size: 2.2rem;
+		}
+	}
+
+	main.list,
+	main.single{
+		margin: 0 2%;
+
+		h1{
+			font-size: 3.2rem;
+		}
+	}
+
+	body.section-projects main.list .project{
+		display: block;
+
+		img{
+			width: 100%;
+		}
+
+		.content{
+			position: static;
+			width: 100%;
+		}
+	}
+
+	form{
+		width: 75%;
+	}
+
+	body > footer{
+		height: 150px;
+
+		img.logo{
+			height: 80px;
+		}
+	}
+}
+
+
+/************************************************
+ * <= 500px width
+ * *********************************************/
+@media(max-width: 500px){
+
+	body > header nav{
+		background: url("/assets/img/logo-monochrome-white.svg") 19px center/auto 55% no-repeat;
+
+		ul.social{
+			padding-left: 56px;
+			width: 100%;
+			text-align: center;
+			.site-title{
+				padding-right: 0px;
+				width: 100%;
+			}
+		}
+
+	}
+
+	main.list,
+	main.single{
+		margin: 0 1%;
+
+		h1{
+			font-size: 2.8rem;
+		}
+
+		.alignleft,
+		.aligncenter,
+		.alignright{
+			display: block;
+			margin: 0 auto;
+			float: none;
+		}
+	}
+
+	form{
+		width: 85%;
+	}
+
+	body > footer{
+		height: 100px;
+
+		span{
+			width: 40%;
+			font-size: smaller;
+		}
+
+		img.logo{
+			height: 50px;
+		}
+	}
+}

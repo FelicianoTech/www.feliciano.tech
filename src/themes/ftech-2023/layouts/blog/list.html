@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ partial "subnav-blog" . }}
+<main class="list">
+	<h1>{{ .Title }}</h1>
+	{{ if .Content }}<div class="content-body">{{ .Content }}</div>{{ end }}
+	{{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
+		<article id="{{ .File.UniqueID }}">
+			<header>
+				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time></span>
+			</header>
+			<div class="content">
+				{{ .Summary }}
+			{{ if .Truncated }}
+				<a class="continue" href="{{ .Permalink }}">continue&nbsp;reading&nbsp;→</a>
+			{{ end }}
+			</div>
+			<footer>
+				<a class="comment" href="{{ .Permalink}}#disqus_thead">Leave a comment</a>
+			</footer>
+		</article>
+	{{ end }}
+	{{ partial "pager" . }}
+</main>
+{{ end }}
