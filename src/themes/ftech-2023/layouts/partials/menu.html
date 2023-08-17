@@ -1,0 +1,33 @@
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+<ul class="menu h {{ $menuID }}">
+	{{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+</ul>
+{{- end }}
+
+{{- define "partials/inline/menu/walk.html" }}
+	{{- $page := .page }}
+	{{- range .menuEntries }}
+		{{- $attrs := dict "href" .URL }}
+		{{- if $page.IsMenuCurrent .Menu . }}
+			{{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+		{{- else if $page.HasMenuCurrent .Menu . }}
+			{{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+		{{- end }}
+		<li class="">
+			<a {{ range $k, $v := $attrs }}
+				{{- with $v }}
+					{{- printf " %s=%q" $k $v | safeHTMLAttr }}
+				{{- end }}
+			{{- end }}
+			>{{ or (T .Identifier) .Name | safeHTML }}</a>
+			{{- with .Children }}
+				<ul class="menu">
+					{{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" . ) }}
+				</ul>
+			{{- end }}
+		</li>
+	{{- end }}
+{{- end }}

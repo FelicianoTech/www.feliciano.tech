@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8" />
+	<meta charset="UTF-8">
 	{{ hugo.Generator }}
-	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
 	{{ partial "stylesheets" . }}
-	{{ partial "js-head" . }}
-	{{ if hugo.IsProduction }}
+	{{- partial "js-head" . }}
+	{{- if hugo.IsProduction }}
 		{{ template "_internal/google_analytics.html" . }}
-	{{ end }}
-	<link rel="icon" type="image/png" href="{{ "favicon.png" | absURL }}" />
+	{{- end }}
+	<link rel="icon" type="image/png" href="{{ "favicon.png" | relURL }}">
 	<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-	{{ if .Description }}
-		<meta name="description" content="{{ .Description }}" />
-	{{ else if .IsHome }}
-		<meta name="description" content="{{ .Site.Params.Description }}" />
-	{{ else }}
-		<meta name="description" content="{{ .Summary | plainify }}" />
-	{{ end }}
+{{ if .Description }}
+	<meta name="description" content="{{ .Description }}">
+{{ else if .IsHome }}
+	<meta name="description" content="{{ .Site.Params.Description }}">
+{{ else }}
+	<meta name="description" content="{{ .Summary | plainify }}">
+{{ end }}
 	{{ partial "open-graph" . }}
-	{{ partial "twitter-card" . }}
 	{{ partial "verifications" . }}
-	<link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="Feliciano.Tech Blog" />
+	<link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="Feliciano.Tech Blog">
 </head>
 <body class="{{ if .IsHome }}home {{ end }}{{ if .Section }}section-{{ .Section }}{{ end }}">
 	{{ partial "header" . }}
