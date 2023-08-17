@@ -1,5 +1,8 @@
 body{
-	background-color: $site-bg;
+	display: flex;
+	flex-direction: column;
+	background-color: $almost-black;
+	min-height: 100vh;
 }
 
 body > header nav{
@@ -45,6 +48,10 @@ body > nav.sub{
 			padding: 0 6px;
 		}
 	}
+}
+
+main{
+	flex-grow: 1;
 }
 
 main.list,
