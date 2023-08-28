@@ -67,9 +67,21 @@ for i in range(10):
     print i
 ~~~
 
+The codeblock above was done with Spanish squigalies.
+The one below is the same but with backticks.
+
+```python
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print i
+```
 
 
-### An h3 header ###
+
+## An h3 header ###
 
 Now a nested list:
 

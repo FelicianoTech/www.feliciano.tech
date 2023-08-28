@@ -18,6 +18,10 @@ enableEmoji = true
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+	[markup.highlight]
+		style = 'nord'
+		lineNos = true
+		lineNumbersInTable = true
 
 [[menu.main]]
 	name	= "Home"
