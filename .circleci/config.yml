@@ -1,15 +1,15 @@
 version: 2.1
 
 orbs:
-  strawberry: hubci/strawberry@0.6
+  strawberry: hubci/strawberry@0.8
 
 workflows:
   main:
     jobs:
       - strawberry/build:
-          version: "0.21.0"
+          version: "0.23.0"
           source: "src"
-          html-proofer: true
+          html-proofer: false
       - deploy:
           requires:
             - strawberry/build
@@ -28,7 +28,7 @@ workflows:
               only: trunk
     jobs:
       - strawberry/build:
-          version: "0.21.0"
+          version: "0.23.0"
           source: "src"
           html-proofer: true
       - deploy:
