@@ -52,27 +52,6 @@ workflows:
           filters:
             branches:
               only: trunk
-  nightly:
-    # This nightly workflow is to rebuild the site in case there are blog posts
-    # that need to be published
-    triggers:
-      - schedule:
-          # Everyday at 10am UTC or 5/6am Eastern
-          cron: "0 10 * * *"
-          filters:
-            branches:
-              only: trunk
-    jobs:
-      - strawberry/build:
-          version: "0.23.0"
-          source: "src"
-          html-proofer: true
-      - deploy:
-          requires:
-            - strawberry/build
-          filters:
-            branches:
-              only: trunk
 
 jobs:
   deploy:
