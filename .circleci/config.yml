@@ -1,15 +1,51 @@
 version: 2.1
 
 orbs:
+  docker: circleci/docker@2.2
   strawberry: hubci/strawberry@0.8
 
 workflows:
-  main:
+  build-n-test-wf:
     jobs:
       - strawberry/build:
           version: "0.23.0"
           source: "src"
           html-proofer: false
+          filters:
+            branches:
+              ignore: trunk
+      - docker/publish:
+          attach-at: "src"
+          deploy: false
+          image: "felicianotech/www.feliciano.tech"
+          lint-dockerfile: true
+          remote-docker-version: "20.10.24"
+          tag: "$CIRCLE_SHA1,<< pipeline.git.branch >>,<< pipeline.number >>"
+          requires:
+            - strawberry/build
+          filters:
+            branches:
+              ignore: trunk
+  build-n-deploy-wf:
+    jobs:
+      - strawberry/build:
+          version: "0.23.0"
+          source: "src"
+          html-proofer: false
+          filters:
+            branches:
+              only: trunk
+      - docker/publish:
+          attach-at: "src"
+          image: "felicianotech/www.feliciano.tech"
+          remote-docker-version: "20.10.24"
+          tag: "$CIRCLE_SHA1,<< pipeline.git.branch >>,<< pipeline.number >>"
+          requires:
+            - strawberry/build
+          filters:
+            branches:
+              only: trunk
+          context: docker-ctx
       - deploy:
           requires:
             - strawberry/build
