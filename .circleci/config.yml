@@ -1,7 +1,8 @@
 version: 2.1
 
 orbs:
-  docker: circleci/docker@2.2
+  docker: circleci/docker@2.4
+  k8s: circleci/kubernetes@1.3
   strawberry: hubci/strawberry@0.8
 
 workflows:
@@ -48,21 +49,20 @@ workflows:
           context: docker-ctx
       - deploy:
           requires:
-            - strawberry/build
+            - docker/publish
           filters:
             branches:
               only: trunk
+          context: k8s-ctx
 
 jobs:
   deploy:
     docker:
       - image: hubci/strawberry:0.21.0
     steps:
-      - attach_workspace:
-          at: src
-      - add_ssh_keys
+      - k8s/install-kubeconfig
+      - k8s/install-kubectl:
+          kubectl-version: "v1.27.6"
       - run:
-          name: "Deploy to Revidian Cloud"
-          command: |
-            echo 'web0.atl.revidian.net ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE16slz1okRPeUhxIpzBCn9rHqjk51ylxEYlYXvblswcxOQ0rPyAX6N8Bd2pnsh99xce/jaX2KJHPLPCc+zAXTg=' >> ~/.ssh/known_hosts
-            rsync -va --delete src/public/ root@web0.atl.revidian.net:/gfs-vols/static-vol/felicianotech/www/public_html
+          name: "Deploy"
+          command: kubectl set image --namespace=static-websites deployment/ftech-website ftech-website=felicianotech/www.feliciano.tech:$CIRCLE_SHA1

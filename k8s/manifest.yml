@@ -1,0 +1,69 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: static-websites
+  name: ftech-website
+  labels:
+    app: ftech-website
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ftech-website
+  template:
+    metadata:
+      labels:
+        app: ftech-website
+    spec:
+      containers:
+      - name: ftech-website
+        image: "felicianotech/www.feliciano.tech:trunk"
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: static-websites
+  name: ftech-website
+  labels:
+    app: ftech-website
+spec:
+  type: ClusterIP
+  selector:
+    app: ftech-website
+  ports:
+    - protocol: TCP
+      name: http
+      port: 80
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  namespace: static-websites
+  name: ftech-website
+  labels:
+    app: ftech-website
+spec:
+  ingressClassName: caddy
+  rules:
+  - host: www.feliciano.tech
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: ftech-website
+            port:
+              number: 80
+  - host: feliciano.tech
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: ftech-website
+            port:
+              number: 80
