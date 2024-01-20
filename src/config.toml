@@ -41,11 +41,6 @@ enableEmoji = true
 
 
 [[menu.social]]
-    url = "https://twitter.com/FelicianoTech"
-    name = "twitter"
-    weight = 30
-
-[[menu.social]]
     name = "github"
     url = "https://github.com/FelicianoTech"
     weight = 20
