@@ -52,6 +52,7 @@ spec:
   - hosts:
     - www.feliciano.tech
     - feliciano.tech
+    secretName: ftech-website-tls
   rules:
   - host: www.feliciano.tech
     http:
