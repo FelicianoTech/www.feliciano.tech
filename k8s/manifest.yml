@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: ftech-website
-        image: "felicianotech/www.feliciano.tech:trunk"
+        image: "felicianotech/www.feliciano.tech:latest"
         ports:
         - containerPort: 80
 ---
@@ -44,8 +44,14 @@ metadata:
   name: ftech-website
   labels:
     app: ftech-website
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-production"
 spec:
-  ingressClassName: caddy
+  ingressClassName: nginx
+  tls:
+  - hosts:
+    - www.feliciano.tech
+    - feliciano.tech
   rules:
   - host: www.feliciano.tech
     http:

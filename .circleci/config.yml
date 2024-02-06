@@ -40,7 +40,7 @@ workflows:
           attach-at: "src"
           image: "felicianotech/www.feliciano.tech"
           remote-docker-version: "20.10.24"
-          tag: "$CIRCLE_SHA1,<< pipeline.git.branch >>,<< pipeline.number >>"
+          tag: "$CIRCLE_SHA1,<< pipeline.git.branch >>,<< pipeline.number >>,latest"
           requires:
             - strawberry/build
           filters:
