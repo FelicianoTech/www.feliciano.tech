@@ -1,7 +1,7 @@
 baseurl = "https://www.Feliciano.Tech/"
 title = "Feliciano.Tech"
 languageCode = "en-us"
-theme = "ftech-2018"
+theme = "ftech-2024"
 
 googleAnalytics = "G-EWXV2LFEZJ"
 disqusShortname = "felicianotechcom"
@@ -18,6 +18,10 @@ enableEmoji = true
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+	[markup.highlight]
+		style = 'nord'
+		lineNos = true
+		lineNumbersInTable = true
 
 [[menu.main]]
 	name	= "Home"
@@ -49,11 +53,6 @@ enableEmoji = true
     name = "mastodon"
     url = "https://nanobyte.cafe/@FelicianoTech"
     weight = 10
-
-[[menu.social]]
-    name = "dev"
-    url = "https://dev.to/felicianotech"
-    weight = 40
 
 [[menu.social]]
     name = "instagram"

@@ -1,0 +1,13 @@
+{{- $currentPage := . -}}
+<header>
+	<nav>
+		<ul class="menu h social">
+			<li class="site-title"><a href="/">{{ .Site.Title }}</a></li>
+		{{ range .Site.Menus.social }}
+			<li><a href="{{ .URL }}" rel="me" target="_blank"><i class="fab fa-{{ .Name }}"></i></a></li>
+		{{ end }}
+		</ul>
+		{{ partial "menu.html" (dict "menuID" "main" "dir" "h" "page" .) }}
+		<a class="toggle" onclick="toggleMainNav();"><span class="fas fa-bars"></span></a>
+	</nav>
+</header>

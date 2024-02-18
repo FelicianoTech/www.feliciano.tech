@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "subnav-blog" . }}
+<main class="single">
+<article id="{{ .File.UniqueID }}">
+	<header>
+		<h1>{{ .Title }}</h1>
+		<span class="posted-on">Posted on <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time></span>
+	{{ if and (.Params.feature) (ne .Params.featureHide true) }}
+		<img class="feature" src="/assets/img/feature/{{ .Params.feature }}" alt="" />
+	{{ end }}
+	</header>
+	<div class="content">{{ .Content }}</div>
+	<footer>
+		<p><strong><i class="fa fa-caret-right fa-lg"></i> Found this post useful?</strong> Subscribe to my <a href="/newsletter">newsletter</a> or follow me. <a href="https://twitter.com/FelicianoTech" class="twitter-follow-button" data-show-count="false">Follow @FelicianoTech</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+	</footer>
+</article>
+{{ if hugo.IsProduction }}
+	{{ template "_internal/disqus.html" . }}
+{{ else }}
+<p>In production mode, Disqus comments will appear here.</p>
+{{ end }}
+</main>
+{{ partial "share-buttons" . }}
+{{ end }}
