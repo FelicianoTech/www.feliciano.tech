@@ -7,6 +7,7 @@ categories:
 tags:
   - "goreleaser"
   - "go"
+  - "golang"
   - "circleci"
   - "circleci-orbs"
 ---

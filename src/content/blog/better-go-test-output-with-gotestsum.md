@@ -7,6 +7,7 @@ categories:
 tags:
   - "gotestsum"
   - "go"
+  - "golang"
 ---
 
 What's awesome about Go (golang) is that pretty much everything you need is built into the toolchain.
