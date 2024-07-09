@@ -6,6 +6,7 @@ categories:
   - Open Source
 tags:
   - go
+  - golang
   - open-source
 ---
 

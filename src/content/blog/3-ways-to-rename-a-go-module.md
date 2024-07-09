@@ -4,6 +4,7 @@ author: FelicianoTech
 date: 2024-04-09T14:00:00-05:00
 description: "I've had to rename a Go module and all of the import statements a few times now, so I figured I might as well document it."
 tags:
+  - go
   - golang
 ---
 
