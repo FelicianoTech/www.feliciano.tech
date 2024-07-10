@@ -1,5 +1,7 @@
 /* Hugo code blocks */
 .highlight{
+  /*overflow-y: hidden;
+  overflow-x: auto;*/
 
 	> div,
 	pre{
@@ -7,13 +9,14 @@
 	}
 
 	pre{
-
 		position: relative;
 		margin: 10px 0;
+        padding-top: 20px;
+        white-space: nowrap;
 
 		code::before{
 			position: absolute;
-			top: -5px;
+			top: 2px;
 			right: 10px;
 			content: attr( data-lang );
 			color: $logo-blue;
