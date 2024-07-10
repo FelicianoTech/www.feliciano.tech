@@ -9,7 +9,7 @@ workflows:
   build-n-test-wf:
     jobs:
       - strawberry/build:
-          version: "0.23.0"
+          version: "0.25.0"
           source: "src"
           html-proofer: false
           filters:
@@ -30,7 +30,7 @@ workflows:
   build-n-deploy-wf:
     jobs:
       - strawberry/build:
-          version: "0.23.0"
+          version: "0.25.0"
           source: "src"
           html-proofer: false
           filters:

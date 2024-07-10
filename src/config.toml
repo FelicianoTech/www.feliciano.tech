@@ -18,10 +18,14 @@ enableEmoji = true
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+		[markup.goldmark.extensions.typographer]
+			apostrophe = '&apos;'
+			leftSingleQuote = '&apos;'
+			rightSingleQuote = '&apos;'
 	[markup.highlight]
 		style = 'nord'
 		lineNos = true
-		lineNumbersInTable = true
+		lineNumbersInTable = false
 
 [[menu.main]]
 	name	= "Home"
