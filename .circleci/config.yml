@@ -47,13 +47,6 @@ workflows:
             branches:
               only: trunk
           context: docker-ctx
-      - deploy:
-          requires:
-            - docker/publish
-          filters:
-            branches:
-              only: trunk
-          context: k8s-ctx
 
 jobs:
   deploy:
