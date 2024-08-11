@@ -13,8 +13,6 @@ feature: "something.png"
 featureHide: true
 ---
 
-<!--more-->
-
 I recently ran into another edge case with some of the software I'm using.
 I set up a couple of Raspberry Pis with Raspberry Pi OS (lite) and began to install some of my go-to tools.
 One such tool is [Mosh](https://mosh.org/).
