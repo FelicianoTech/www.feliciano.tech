@@ -8,9 +8,6 @@ tags:
   - tailscale
   - raspberry-pi
   - mosh
-feature: "something.png"
-# featureHide will show image on social but not in actual blog post
-featureHide: true
 ---
 
 I recently ran into another edge case with some of the software I'm using.
