@@ -1,7 +1,7 @@
 baseurl = "https://www.Feliciano.Tech/"
 title = "Feliciano.Tech"
 languageCode = "en-us"
-theme = "ftech-2024"
+theme = "ftech-2019"
 
 googleAnalytics = "G-EWXV2LFEZJ"
 disqusShortname = "felicianotechcom"
@@ -10,6 +10,8 @@ enableEmoji = true
 
 [params]
 	description	= "This is my (Ricardo N Feliciano) personal website. A place for me to blog and share my projects."
+	accentColor = "#00AEEF"
+	titleFont = "Bungee"
 
 [blackfriday]
 	hrefTargetBlank	=	true
