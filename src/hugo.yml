@@ -1,0 +1,59 @@
+baseURL: "https://www.Feliciano.Tech/"
+title: "Feliciano.Tech"
+languageCode: "en-us"
+theme: "ftech-2019"
+
+googleAnalytics: "G-EWXV2LFEZJ"
+disqusShortname: "felicianotechcom"
+
+enableEmoji: true
+
+params:
+  description: "This is my (Ricardo N Feliciano) personal website. A place for me to blog and share my projects."
+  accentColor: "#00AEEF"
+  titleFont: "Bungee"
+
+blackfriday:
+  hrefTargetBlank: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      typographer:
+        apostrophe: '&apos;'
+        leftSingleQuote: '&apos;'
+        rightSingleQuote: '&apos;'
+  highlight:
+    style: 'nord'
+    lineNos: true
+    lineNumbersInTable: false
+
+menu:
+  main:
+  - name: "Home"
+    url: "/"
+    weight: -1
+  - name: "Blog"
+    url: "/blog/"
+    weight: 5
+  - name: "Projects"
+    url: "/projects/"
+    weight: 10
+  - name: "About"
+    url: "/about/"
+    weight: 20
+  social:
+  - name: "github"
+    url: "https://github.com/FelicianoTech"
+    weight: 20
+  - name: "mastodon"
+    url: "https://nanobyte.cafe/@FelicianoTech"
+    weight: 10
+  - name: "instagram"
+    url: "https://www.instagram.com/FelicianoTech/"
+    weight: 50
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/ricardofeliciano"
+    weight: 60
