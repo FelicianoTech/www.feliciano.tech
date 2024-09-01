@@ -4,7 +4,6 @@ languageCode: "en-us"
 theme: "ftech-2019"
 
 googleAnalytics: "G-EWXV2LFEZJ"
-disqusShortname: "felicianotechcom"
 
 enableEmoji: true
 
@@ -12,6 +11,9 @@ params:
   description: "This is my (Ricardo N Feliciano) personal website. A place for me to blog and share my projects."
   accentColor: "#00AEEF"
   titleFont: "Bungee"
+  discourse:
+    username: "FelicianoTech"
+    url: "https://discuss.feliciano.tech/"
 
 blackfriday:
   hrefTargetBlank: true
