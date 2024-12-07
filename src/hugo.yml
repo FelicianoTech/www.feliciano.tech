@@ -53,6 +53,9 @@ menu:
   - name: "mastodon"
     url: "https://nanobyte.cafe/@FelicianoTech"
     weight: 10
+  - name: "bluesky"
+    url: "https://bsky.app/profile/feliciano.tech"
+    weight: 10
   - name: "instagram"
     url: "https://www.instagram.com/FelicianoTech/"
     weight: 50
