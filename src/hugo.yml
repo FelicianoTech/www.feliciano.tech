@@ -50,9 +50,9 @@ menu:
   - name: "github"
     url: "https://github.com/FelicianoTech"
     weight: 20
-  - name: "mastodon"
-    url: "https://nanobyte.cafe/@FelicianoTech"
-    weight: 10
+#  - name: "mastodon"
+#    url: "https://nanobyte.cafe/@FelicianoTech"
+#    weight: 10
   - name: "bluesky"
     url: "https://bsky.app/profile/feliciano.tech"
     weight: 10
