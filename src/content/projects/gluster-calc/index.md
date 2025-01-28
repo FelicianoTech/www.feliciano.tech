@@ -1,7 +1,7 @@
 ---
 title: "GlusterFS Calculator"
 description: "Determine node count and disk space in a GlusterFS Dispersed volume."
-weight: 8
+weight: 30
 feature: "default.png"
 ProjectType: "Software"
 website: "/projects/gluster-calc/"
