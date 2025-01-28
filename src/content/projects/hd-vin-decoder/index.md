@@ -1,7 +1,7 @@
 ---
 title: "Harley Davidson VIN Decoder"
 description: "A little app that tells you information about a Harley-Davidson VIN."
-weight: 10
+weight: 40
 feature: "hd-vin-decoder.png"
 ProjectType: "Software"
 website: "/projects/hd-vin-decoder/"
