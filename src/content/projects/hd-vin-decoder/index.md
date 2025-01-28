@@ -12,16 +12,16 @@ Enter a Harley's VIN here (1986 and newer) and we can tell you if it's valid and
 Don't have a VIN? You can test this decoder with this VIN: `1HD1KEF14LB616481`
 
 <form id="vin-decode-form">
-	<input type="text" placeholder="Enter a VIN" />
-	<input type="submit" value="Check VIN" />
+	<input type="text" placeholder="Enter a VIN">
+	<input type="submit" value="Check VIN">
 </form>
 
-<script>
-$( "#vin-decode-form" ).submit( function( event ){
+<script type="text/JavaScript">
+    document.querySelector( "#vin-decode-form" ).addEventListener( "submit", ( event ) => {
 
-	event.preventDefault();
-	decodeVIN( $( "#vin-decode-form input[type='text']" ).val(), $( "#hd-vin-decoder-output" ));
-});
+	    event.preventDefault();
+    	decodeVIN( document.querySelector( "#vin-decode-form input[type='text']" ).value, document.querySelector( "#hd-vin-decoder-output" ));
+    });
 </script>
 
 <div id="hd-vin-decoder-output" style="padding-top: 20px;"></div>
