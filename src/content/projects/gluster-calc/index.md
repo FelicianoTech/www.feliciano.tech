@@ -89,34 +89,32 @@ website: "/projects/gluster-calc/"
 
 <script type="text/JavaScript">
 
-$( "#gluster-calc-form" ).change( function( event ){
+    document.querySelector( "#gluster-calc-form" ).addEventListener( "change",  ( event ) => {
 
-	event.preventDefault();
+    	event.preventDefault();
 
-	parityBricks = Number( $( "#parityBricks input" ).val());
-	dataBricks = Number( $( "#dataBricks input" ).val());
-	brickSize = Number( $( "#brickSize input" ).val());
+    	parityBricks = Number( document.querySelector( "#parityBricks input" ).value);
+    	dataBricks = Number( document.querySelector( "#dataBricks input" ).value);
+    	brickSize = Number( document.querySelector( "#brickSize input" ).value);
 
-	if( parityBricks <= 0 ){
+    	if( parityBricks <= 0 ){
 
-		alert( "# of to lose bricks needs to be higher than 0!" );
-		return;
-	}
+	    	alert( "# of to lose bricks needs to be higher than 0!" );
+            return;
+	    }
 
-	totalBricks = calcTotalBricks( parityBricks, dataBricks );
-	dataBricks = calcDataBricks( parityBricks, totalBricks );
-	usableStorage = dvCalcUsableStorage( brickSize, dataBricks );
-	totalStorage = dvCalcTotalStorage( brickSize, totalBricks );
-	percSize = dvCalcStoragePercent( brickSize, dataBricks, totalBricks );
-	stripeSize = calcStripeSize( dataBricks );
+	    totalBricks = calcTotalBricks( parityBricks, dataBricks );
+    	dataBricks = calcDataBricks( parityBricks, totalBricks );
+	    usableStorage = dvCalcUsableStorage( brickSize, dataBricks );
+    	totalStorage = dvCalcTotalStorage( brickSize, totalBricks );
+    	percSize = dvCalcStoragePercent( brickSize, dataBricks, totalBricks );
+    	stripeSize = calcStripeSize( dataBricks );
 
-	$( "#dataBricks input" ).val( dataBricks );
-	$( "#totalBricks input" ).val( totalBricks );
-	$( "#usableStorage input" ).val( usableStorage );
-	$( "#percentStorage input" ).val( percSize );
-	$( "#totalStorage input" ).val( totalStorage );
-	$( "#stripeSize input" ).val( stripeSize );
-
-});
-
+        document.querySelector( "#dataBricks input" ).value = dataBricks;
+        document.querySelector( "#totalBricks input" ).value = totalBricks;
+        document.querySelector( "#usableStorage input" ).value = usableStorage;
+        document.querySelector( "#percentStorage input" ).value = percSize;
+        document.querySelector( "#totalStorage input" ).value = totalStorage;
+        document.querySelector( "#stripeSize input" ).value = stripeSize;
+    });
 </script>

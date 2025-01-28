@@ -1,7 +1,7 @@
 function decodeVIN( vin, div ){
 	
 	// setup
-	div.html( "" );
+	div.innerHTML = "";
 	vin = vin.toUpperCase();
 
 	if( vin.length == 0 ){
@@ -81,7 +81,7 @@ function decodeVIN( vin, div ){
 	});
 
 
-	div.append( "<table>" +
+	div.setHTMLUnsafe( "<table>" +
 		"<thead><tr><th colspan=2>Info for VIN: " + vin + "</th></tr></thead>" +
 		"<tbody>" +
 		"<tr><td>Manufactured:</td><td>" + manufID + "</td></tr>" +
@@ -92,7 +92,7 @@ function decodeVIN( vin, div ){
 		"<tr><td>Model year:</td><td>" + modelYear + "</td></tr>" +
 		"<tr><td>Manufacturing plant:</td><td>" + mfgPlant + "</td></tr>" +
 		"</tbody>" +
-		"<tfoot><tr><td colspan=2 style='text-align:right;font-size:smaller;'>HD VIN Decoder v1.0.0</td></tr></tfoot>" +
+		"<tfoot><tr><td colspan=2 style='text-align:right;font-size:smaller;'>HD VIN Decoder v1.1.0</td></tr></tfoot>" +
 		"</table>" );
 }
 
