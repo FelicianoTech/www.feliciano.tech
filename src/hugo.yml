@@ -35,16 +35,16 @@ markup:
 menu:
   main:
   - name: "Home"
-    url: "/"
+    pageRef: "/"
     weight: -1
   - name: "Blog"
-    url: "/blog/"
+    pageRef: "/blog/"
     weight: 5
   - name: "Projects"
-    url: "/projects/"
+    pageRef: "/projects/"
     weight: 10
   - name: "About"
-    url: "/about/"
+    pageRef: "/about/"
     weight: 20
   social:
   - name: "github"
