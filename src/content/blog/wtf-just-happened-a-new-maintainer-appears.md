@@ -8,17 +8,17 @@ tags:
   - wtf
   - wtfutil
 feature: "wtf-new-maintainer.jpg"
-featureHide: false
+featureHide: true
 ---
 
-[WTF](https://github.com/wtfutil/wtf) a.k.a. WTFutil is a dashboard for those who live in their terminal.
+WTF a.k.a. WTFutil is a dashboard for those who live in their terminal.
 It's a TUI (text-based user interface) that divides up your screen into widgets that are then fed data from modules.
 These modules can be local commands, weather data, Jira cards, GitHub issues, etc.
 No, I did not come up with the name. 😄
 
 <!--more-->
 
-The WTF project has been dormant for quite awhile now.
+The [WTF](https://github.com/wtfutil/wtf) project has been dormant for quite awhile now.
 A common affliction of long-standing open-source projects.
 The last PRs merged were in early 2024 however most users haven't got the fruits of that labor.
 Those changes weren't "shipped" because the last release of the project was back in 2023.
