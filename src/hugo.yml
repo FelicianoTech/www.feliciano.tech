@@ -2,9 +2,6 @@ baseURL: "https://www.Feliciano.Tech/"
 title: "Feliciano.Tech"
 languageCode: "en-us"
 theme: "ftech-2019"
-
-googleAnalytics: "G-EWXV2LFEZJ"
-
 enableEmoji: true
 
 params:
