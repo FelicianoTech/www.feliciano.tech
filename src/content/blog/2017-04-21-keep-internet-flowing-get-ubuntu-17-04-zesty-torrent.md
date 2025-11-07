@@ -26,7 +26,7 @@ Here are the torrents for both the desktop and server release:
 
 Don’t forget to seed!
 
-[1]: http://releases.ubuntu.com/17.04/ubuntu-17.04-desktop-amd64.iso.torrent
-[2]: http://releases.ubuntu.com/17.04/ubuntu-17.04-desktop-i386.iso.torrent
-[3]: http://releases.ubuntu.com/17.04/ubuntu-17.04-server-amd64.iso.torrent
-[4]: http://releases.ubuntu.com/17.04/ubuntu-17.04-server-i386.iso.torrent
+[1]: https://releases.ubuntu.com/17.04/ubuntu-17.04-desktop-amd64.iso.torrent
+[2]: https://releases.ubuntu.com/17.04/ubuntu-17.04-desktop-i386.iso.torrent
+[3]: https://releases.ubuntu.com/17.04/ubuntu-17.04-server-amd64.iso.torrent
+[4]: https://releases.ubuntu.com/17.04/ubuntu-17.04-server-i386.iso.torrent
