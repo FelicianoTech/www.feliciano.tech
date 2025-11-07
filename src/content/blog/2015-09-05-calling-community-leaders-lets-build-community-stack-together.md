@@ -13,7 +13,7 @@ tags:
 ---
 > The purpose of Community Stack is to provide a single integrated software solution to facilitate online communities.
 
-We’re looking to create a single software suite to help open-source projects as well as non-technical communities collaborate online, share with each other, communicate, and develop lasting relationships. Basically, we&#8217;d like to shorten the <a href="http://opensource.com/life/15/7/10-community-tools" target="_blank">list of software/websites needed to run a community</a>.
+We’re looking to create a single software suite to help open-source projects as well as non-technical communities collaborate online, share with each other, communicate, and develop lasting relationships. Basically, we&#8217;d like to shorten the <a href="https://opensource.com/life/15/7/10-community-tools" target="_blank">list of software/websites needed to run a community</a>.
 
 As we set out on this mission, we’re going to **need help**. As with any open-source project, we&#8217;re going to need developers, we&#8217;re going to need designers, we&#8217;re going to need idea people. To start however, **we need community leaders**!
 

@@ -25,11 +25,11 @@ Always-On SSL means that everyone should be using SSL on every page of their web
 
 ## What about all of the detractions?
 
-What detractions? Many of the &#8216;cons&#8217; that I&#8217;ve heard to implementing Always-On SSL are simply false. This can be seen in a very popular <a href="http://stackoverflow.com/questions/4495570/to-use-or-not-to-use-ssl-why-use-ssl-always" target="_blank">Stack Overflow question</a>. Here are some of the typical excuses:
+What detractions? Many of the &#8216;cons&#8217; that I&#8217;ve heard to implementing Always-On SSL are simply false. This can be seen in a very popular <a href="https://stackoverflow.com/questions/4495570/to-use-or-not-to-use-ssl-why-use-ssl-always" target="_blank">Stack Overflow question</a>. Here are some of the typical excuses:
 
 **Unless someone has the password to your router, they can&#8217;t see your traffic.**
 
-This is false. Firstly, if you&#8217;re using WiFi, you&#8217;re screwed. WEP, one of the early WiFi encryption protocols <a href="http://www.dummies.com/how-to/content/understanding-wep-weaknesses.html" target="_blank">has been compromised</a>. WPA/WPA2, the newer encryption protocol for WiFi, <a href="https://www.us-cert.gov/ncas/alerts/TA12-006A" target="_blank">has been compromised via Wi-Fi Protected Setup (WPS)</a>. With that being said, many people use public, unencrypted Wi-Fi (Starbucks, McDonald&#8217;s, library, etc) leaving everything you&#8217;re doing out in the open. Even in wired networks, wiretaps, ARP poisoning, and compromised network devices cause concern.
+This is false. Firstly, if you&#8217;re using WiFi, you&#8217;re screwed. WEP, one of the early WiFi encryption protocols <a href="https://www.dummies.com/how-to/content/understanding-wep-weaknesses.html" target="_blank">has been compromised</a>. WPA/WPA2, the newer encryption protocol for WiFi, <a href="https://www.us-cert.gov/ncas/alerts/TA12-006A" target="_blank">has been compromised via Wi-Fi Protected Setup (WPS)</a>. With that being said, many people use public, unencrypted Wi-Fi (Starbucks, McDonald&#8217;s, library, etc) leaving everything you&#8217;re doing out in the open. Even in wired networks, wiretaps, ARP poisoning, and compromised network devices cause concern.
 
 **SSL certificates are expensive.**
 
