@@ -1,0 +1,27 @@
+name: main
+
+on:
+  push:
+  schedule:
+    - cron: "30 12 * * *" # 08:30 US Eastern
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    container: hubci/hugo:edge
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5.0.0
+        with:
+          fetch-depth: 0
+      - name: "Build Website"
+        run: |
+          hugo -s src
+      - name: "Test Website (extended)"
+        if: "${{ github.event_name == 'schedule' }}"
+        run: |
+          htmlproofer --checks "Links,Images,Scripts,Favicon,OpenGraph" --ignore-missing-alt --ignore-urls "/www.reddit.com/,/www.npmjs.com/" ./src/public/
+      - name: "Test Website"
+        if: "${{ github.event_name != 'schedule' }}"
+        run: |
+          htmlproofer --disable-external --checks "Links,Images,Scripts,Favicon,OpenGraph" --ignore-missing-alt --ignore-urls "/www.reddit.com/,/www.npmjs.com/" ./src/public/
